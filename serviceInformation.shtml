@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang=""><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=" js no-touch" lang="">
+  <!--<![endif]-->
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+    <title>Service information</title>
+    <!--#include virtual="/inc/header2-gds.html" -->
+    <style type="text/css">
+      /*Hacked styles needed to make the page match the orgiginal, ie override default GOV.UK standards*/
+      strong {
+        font-weight: bold;
+      }
+
+      #back-to-top {
+        position: fixed;
+        bottom: 50px;
+        right: 40px;
+        z-index: 9999;
+        width: 52px;
+        height: 52px;
+        text-align: center;
+        line-height: 50px;
+        background: #005EA5;
+        color: #fff;
+        cursor: pointer;
+        border: 0;
+        border-radius: 2px;
+        text-decoration: none;
+        transition: opacity 0.2s ease-out;
+        opacity: 0;
+      }
+
+      #back-to-top:hover {
+        background: #2e8aca;
+      }
+
+      #back-to-top.show {
+        opacity: 1;
+      }
+    </style>
+
+    <main id="page-container" role="main">
+
+      <!--<div class="header-context" id="global-breadcrumb">
+    <nav role="navigation">
+      <ol class="group">
+	  <li><a href="">Home</a></li>
+      </ol>
+      </nav>
+</div>-->
+
+      <header class="page-header group">
+        <div class="hgroup">
+          <h1>Service information</h1>
+          <!--<h2 class="subtitle">Subtitle goes here</h2>-->
+        </div>
+        <!--hgroup-->
+      </header>
+
+
+
+      <div class="text">
+
+        <h2 class="heading-medium">Disclaimer</h2>
+        <p><strong>The information available on this site is not intended to be comprehensive, and many details which may be relevant to particular circumstances have been omitted. Accordingly it should not be regarded as being a complete source of
+            company law and information, and readers are advised to seek independent professional advice before acting on anything contained herein. Companies House cannot take any responsibility for the consequences of errors or omissions.</strong></p>
+
+        <h2 class="heading-medium">Data Protection</h2>
+        <p>Companies House collects personal data from customers for a variety of reasons. For example, the registrar of companies is required by law to collect and make public certain information about officers of companies and other entities,
+          including directors and People with Significant Control. Companies House also handles the personal data of customers writing in with queries or complaints, and collects personal data from those individuals signing up to use our digital
+          services. Further detail on how Companies House handles your personal data in line with the requirements of the General Data Protection Regulation (GDPR) can be found in our <a href=https://www.gov.uk/government/organisations/companies-house/about/personal-information-charter>
+            Personal information charter</a>. </p> <h2 class="heading-medium">Notes for Users of Company Search or Disqualified Directors Search </h2>
+            <p>The information available here is an extract from the Register of Companies / Register of Disqualified Directors which are updated on a regular basis. This may mean that occasional inaccuracies occur which we correct as soon as they
+              are drawn to our attention. If you spot something which you think might be wrong, let us know so we can, if necessary, correct the database. </p>
+
+            <h2 class="heading-medium"><a name="compInfo"></a>Company Information Supplied by Companies House </h2>
+            <p>We carry out basic checks on documents received to make sure that they have been fully completed and signed, but we do not have the statutory power or capability to verify the accuracy of the information that companies send to us. The
+              fact that the information has been placed on the public record should not be taken to indicate that Companies House has verified or validated it in any way.</p>
+            <p>When Companies House examines accounts it only makes basic checks on them, for example to ensure that the appropriate documents are there, that they are for the correct financial year and that they have been signed. If, subsequently,
+              we receive a complaint that the accounts do not comply with the Companies Acts in some way we have a duty to draw this to the company’s attention and, if appropriate, to ask for a set of revised accounts which do comply with the
+              requirements.</p>
+
+            <h2 class="heading-medium">Links to external websites </h2>
+            <p>It is our policy to obtain permission to link to other websites. We are not responsible for the content or reliability of the linked websites. Listing should not be taken as endorsement of any kind. We cannot guarantee that these
+              links will work all of the time and we have no control over the availability of linked pages.</p>
+
+            <h2 class="heading-medium">Cookies</h2>
+            <p><a href="/legal/cookies.shtml">Our cookie policy</a></p>
+
+            <h2 class="heading-medium">Information collected on behalf of HMRC</h2>
+            <p>Companies House through the Joint Registration Service will act as agents for HMRC and provide an optional service whereby when a person registers a new company, a facility will be offered so that person can also register the company
+              for Corporation Tax.  Once incorporation at Companies House has been accepted the Corporation Tax information will be sent to HMRC and will not be retained by Companies House.</p>
+
+            <h2 class="heading-medium">Acceptable use of Companies House Searchable Databases</h2>
+            <p>The Companies House searchable databases are designed to meet the needs of a wide range of users wishing to interrogate our information on-line. </p>
+            <p> Due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads. </p>
+            <p> Individuals, companies, IP addresses or blocks of IP addresses who deny or degrade service to other users by generating unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be
+              denied access to these services without notice.</p>
+
+        
+            <h2 class="heading-medium">Companies House service user information</h2>
+            <p><strong>Companies House Service (the Service): service user information </strong></p>
+            <ol class="list list-number">
+
+              <li>In this guidance, <strong>Companies House</strong> means the registrar of companies for England and Wales; the registrar of companies for Scotland and/or the registrar of companies for Northern Ireland as the circumstances require;
+                the <strong>Companies House Service (the Service)</strong> means the on-line facility provided by Companies House through its website for the purposes of delivering, accessing and obtaining information in electronic form; and a
+                <strong>Presenter </strong>means a person who is authorised to and wishes to deliver a document for filing at Companies House.</li>
+              <li>A Presenter who wishes to use the Service must register using Companies House’s on-line registration process. The Presenter must supply Companies House with a valid email address and password as part of this process.  Companies
+                House will send a verification email to the email address provided. The verification email contains a link. The Presenter must click on the link to verify the email address and complete the registration process. </li>
+              <li>The Presenter can amend his registered email address and/or password by completing the process described on the Service. There is no means to delete the registered email address or password.</li>
+              <li>Companies House will retain and use the Service registration data provided by the Presenter to provide that service.</li>
+              <li>Any document delivered for filing must be accompanied by the appropriate authentication or presenter code for that document (see the Companies House website or the Registrar’s e-Rules for more details).   Presenters can apply for
+                authentication codes using the Service.  The code will be sent by post to the registered office or principal business address of the company or body to which it relates.</li>
+              <li>At present, the Service can only be used to deliver a limited class of filings to Companies House.  Documents that are properly delivered using the Service will be registered on the public register in accordance with Companies
+                House’s usual document acceptance policies.  Current information about the classes of filings that can be delivered using the Service is available on <a href="https://beta.companieshouse.gov.uk/help/welcome">https://beta.companieshouse.gov.uk/help/welcome</a>.</li>
+              <li>The Service may also be used to search and/or take copies of material on the register including the following information:
+                <ul class="list list-bullet">
+                  <li>Registered name of registered entities including companies and limited liability partnerships and those dissolved in the 12 months preceding a search. UK establishments of overseas companies are not currently included.</li>
+                  <li>Overview including registered name, registered number, registered office address, status, entity type, incorporation date, accounts and annual return filing dates and overdue markers, current and resigned officer count, first
+                    five officers and business description.</li>
+                  <li>Filing history of registered material and associated document images. Images are free from 2003 onwards. Paper documents registered before 2003 that require scanning are available from the Companies House Contract Centre and
+                    cost £3 each.</li>
+                  <li>Officers - all current and resigned officers. </li>
+                  <li>Charges - charge details are displayed for all outstanding and part-satisfied charges satisfied since 1st January 1987. For entities registered in Northern Ireland before 1st October 2009 refer to the filing history for charge
+                    information before that date.</li>
+                  <li>Insolvency information – number of insolvency cases, type of insolvency regime, petition date, winding up date, insolvency practitioner name and address and, where applicable, links to charge information.</li>
+                </ul>
+              </li>
+            </ol>
+
+
+            <h2 class="heading-medium" id="extractives">The extractives service</h2>
+
+            <p>The Extractives Service is designed to allow companies to meet their legal obligations to file reports under The Reports on Payments to Governments Regulations 2014.</p>
+            <p>These regulations apply to all require large undertakings in the extractives industries in relation to a financial year starting on or after 1st January 2015, apart from those undertakings which are subsidiaries of parent undertakings
+              who are obliged to prepare consolidated group accounts in member States other than the United Kingdom. These Regulations will apply in relation to financial years for these undertakings beginning on or after 1st January 2016.</p>
+            <p>By making these reports available for inspection by members of the public, the registrar of companies enables the Service to contribute to transparency.</p>
+
+
+            <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
+      </div>
+      <!--text"-->
+    </main><!-- / #page-container -->
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+      <div class="footer-wrapper">
+        <div class="footer-meta" style="padding:0;">
+          <div class="footer-meta-inner">
+            <ul>
+              <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
+              <li><a href="/legal/cookies.shtml">Cookies</a></li>
+              <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--end footer-->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        $('a[href*="#"]:not([href="#"])').click(function() {
+          if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+              $('html, body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+
+      if ($('#back-to-top').length) {
+        var scrollTrigger = 100, // px
+          backToTop = function() {
+            var scrollTop = $(window).scrollTop();
+            if (scrollTop > scrollTrigger) {
+              $('#back-to-top').addClass('show');
+            } else {
+              $('#back-to-top').removeClass('show');
+            }
+          };
+        backToTop();
+        $(window).on('scroll', function() {
+          backToTop();
+        });
+        $('#back-to-top').on('click', function(e) {
+          e.preventDefault();
+          $('html,body').animate({
+            scrollTop: 0
+          }, 700);
+        });
+      }
+    </script>
+
+    <!--#include virtual="/inc/statsTracker.html" -->
+
+    </body>
+
+</html>

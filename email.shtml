@@ -1,0 +1,64 @@
+<!--#include virtual="/dashboard/includes/header1.html" -->
+<title>Email disclaimer</title>
+<!--#include virtual="/inc/header2-gds.html" -->
+<style type="text/css">
+  /*Hacked styles needed to make the page match the orgiginal, ie override default GOV.UK standards*/
+  strong {
+    font-weight: bold;
+  }
+</style>
+
+<main id="page-container" role="main">
+
+  <!--<div class="header-context" id="global-breadcrumb">
+    <nav role="navigation">
+      <ol class="group">
+	  <li><a href="">Home</a></li>
+      </ol>
+      </nav>
+</div>-->
+
+  <header class="page-header group">
+    <div class="hgroup">
+      <h1>Email disclaimer</h1>
+    </div>
+    <!--hgroup-->
+  </header>
+
+
+
+  <div class="text">
+    <p>A link to these disclaimers is automatically included in all emails sent externally by <a href="https://www.gov.uk/government/organisations/companies-house">Companies House</a> and its employees.</p>
+    <p>This message and any attachments are intended for the persons named as addressees only and may contain confidential information. In addition they may be protected by copyright.</p>
+    <p>If you receive it in error, notify us, delete it and do not make use of or copy it. You must not copy, disseminate or otherwise distribute or publish this message, except for the purposes for which this message is intended, without our
+      consent. </p>
+    <p>Please note that this e-mail has been created in the knowledge that Internet e-mail is not a 100% secure communications medium. We advise that you understand and accept this lack of security when e-mailing us. </p>
+    <p><a href="https://www.gov.uk/government/organisations/companies-house">Company information, guidance and how to file documents online</a>.</p>
+    <p>This message has been scanned for viruses by <a href="http://www.mailcontrol.com/">Hosted Security</a>, a service from <a href="http://www.websense.com/">Websense</a>.</p>
+
+  </div>
+  <!--text"-->
+</main><!-- / #page-container -->
+
+<footer class="group js-footer" id="footer" role="contentinfo">
+  <div class="footer-wrapper">
+    <div class="footer-meta" style="padding:0;">
+      <div class="footer-meta-inner">
+        <ul>
+          <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
+          <li><a href="/legal/cookies.shtml">Cookies</a></li>
+          <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--end footer-->
+
+
+
+<!--#include virtual="/inc/statsTracker.html" -->
+
+</body>
+
+</html>

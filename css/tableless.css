@@ -1,0 +1,65 @@
+.wrapper {
+	margin: 0 auto;
+	width:960px;
+}
+.wrapright{
+   float: left;
+   width: 100%;
+}
+.wrapper .rightNavigation {
+	margin-top:20px;
+	padding-left:20px;
+}
+.right{
+   margin: 10px 10px 10px 180px;
+   border-left: 2px dotted #BFC4D2;
+   padding:10px;
+}
+.leftNavigation {
+	width: 170px;
+	margin-top: 20px;
+	float:left;
+	margin-left: -101%;
+}
+.right h2  {
+	font-size-adjust:1.4em;
+	padding: 5px 0;
+	margin-top: 0;
+}
+.right h2.gb_headings_ca2006  {
+	text-decoration: none;
+	background-color: #006699;
+	padding:5px;
+	margin: 0 0 1px 0;
+	color: #FFF;
+}
+.title {
+	border-bottom: 2px dotted #BFC4D2;
+	border-top: 1px solid #BFC4D2;
+	padding-bottom:3px;
+	margin-left:-14px;
+	margin-top:20px;
+}
+a:link.xmlButton {
+	background-color:#266BB0;
+	color:#FFFFFF;
+	padding:12px 150px 10px 10px;
+	text-decoration:none;
+	background-image: url(/images/arrow_verysmall.gif);
+	background-repeat:no-repeat;
+	background-position:95% 50%;
+	display:inline-block;
+	-moz-box-shadow: 0 5px 10px #333333;
+	-webkit-box-shadow: 0 5px 10px #333333;
+}
+a:hover.xmlButton {
+	background-color:#00144D;
+	color:#FFFFFF;
+}
+a:visited.xmlButton {
+	color:#CCCCCC;
+}
+#footer {clear:both;}
+#footer .right{
+   border-left: none;
+}
