@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>Companies House services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Service information">
+<meta name="creator" content="Marketing">
+<meta name="contributor" content="">
+<meta name="identifier" content="Service information">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="terms, conditions, acceptable use, cookies, privacy, disclaimer">
+<meta name="description" content="Website Service information">
+ 
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="12/06/2015">
+<meta name="status" content="">
+ 
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Information">
+<meta name="format" content="HTML, TEXT">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="http://www.tyrcwmniau.gov.uk/welsh/legal/termsAndConditions_W.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012noTabs.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="2" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" class="bluemidtext">
+<!-- Content-Start title="Service information" -->
+<h2>Filing services</h2>
+<p>You can file company information online using <a href="https://ewf.companieshouse.gov.uk/">WebFiling</a> or register a company using <a href="http://resources.companieshouse.gov.uk/promo/webincs/">online incorporations</a>.</p>
+<hr>
+
+<h2>Search services</h2>
+<p>Try the new <a href="https://beta.companieshouse.gov.uk/help/welcome">Companies House beta service</a> to search companies and access FREE data and document images.</p>
+<p>You can also search company information using our <a href="http://wck2.companieshouse.gov.uk/">WebCHeck</a> service or by accessing the <a href="http://direct.companieshouse.gov.uk/">Companies House Direct</a> subscription service - document images are chargeable on both these services.</p>
+</p>
+<hr>
+
+<h2>Bulk data services</h2>
+<p>You can download bulk files of <a href="http://download.companieshouse.gov.uk/en_output.html">company data</a> in CSV format or bulk files of <a href="http://download.companieshouse.gov.uk/en_accountsdata.html">accounts data</a> in iXBRL format.</p>
+
+<hr>
+
+<p><a href="https://www.gov.uk/government/organisations/companies-house/about/about-our-services" class="blueActionButton">Find out more about Companies House services</a>.</p>
+
+
+
+  <!-- Content-End --></td>
+</tr>
+</table>
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+</body>
+</html>

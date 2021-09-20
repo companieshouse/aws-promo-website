@@ -1,0 +1,410 @@
+<!--#include virtual="/dashboard/includes/header1.html" -->
+<title>Cookies</title>
+<!--#include virtual="/inc/header2-gds.html" -->
+<style type="text/css">
+/*Hacked styles needed to make the page match the orgiginal, ie override default GOV.UK standards*/
+strong {font-weight:bold;}
+#back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 40px;
+    z-index: 9999;
+    width: 52px;
+    height: 52px;
+    text-align: center;
+    line-height: 50px;
+    background: #005EA5;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 2px;
+    text-decoration: none;
+    transition: opacity 0.2s ease-out;
+    opacity: 0;
+}
+#back-to-top:hover {background: #2e8aca;}
+#back-to-top.show {opacity: 1;}
+</style>
+
+<main id="page-container" role="main">
+
+<!--<div class="header-context" id="global-breadcrumb">
+    <nav role="navigation">
+      <ol class="group">
+	  <li><a href="">Home</a></li>
+      </ol>
+      </nav>
+</div>-->
+
+<header class="page-header group">
+  <div class="hgroup">
+    <h1>Cookies</h1>
+    <!--<h2 class="subtitle">Subtitle goes here</h2>-->
+  </div><!--hgroup-->
+</header>
+
+
+
+<div class="text">
+
+<h2 class="heading-medium">Our cookie policy</h2>
+  <p>When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this  sometimes involves placing small amounts of information on your device, for  example, a computer or mobile phone. These include small files known as  cookies. They cannot be used to identify you personally.</p>
+  <ul class="list list-bullet">
+    <li><a href="#first_party_cookies">First-party cookies (cookies set by us)</a> </li>
+    <li><a href="#third_party_cookies">Third-party cookies (cookies set by other sites through our pages)</a> </li>
+    <li><a href="#how_to_control_and_delete_cookies">How to control and delete cookies</a></li>
+  </ul>
+<h2 class="heading-medium">What are cookies?</h2>
+  <p>Cookies are small text files that websites save to your computer. The  cookies used by government websites don't contain any of your personal  information, and we can't use them to find out who you are.</p>
+  <p>These pieces of information are used to  improve services for you through, for example: </p>
+  <ul class="list list-bullet">
+    <li>remembering settings, so you don’t have to keep re-entering them whenever you visit a new page</li>
+    <li>remembering information you’ve given (e.g. your postcode) so you don’t need to keep entering it</li>
+    <li>measuring how you use the website so we can make sure it meets your needs</li>
+  </ul>
+<p><a href="http://www.AboutCookies.org">Learn more about cookies and how to manage them</a></p>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/gqDZuS0xZjE?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+
+
+<h2 class="heading-medium">How we use cookies</h2>
+  <p>The list below shows all of the cookies that are set by this website and  the third-party services we use.  If you have any queries about these  cookies or would like more information about them, please  <a href="mailto:enquiries@companies-house.gov.uk?subject=http://www.companieshouse.gov.uk/legal/cookies.shtml">get in touch.</a></p>
+
+<h2 class="heading-medium"><a name="first_party_cookies"></a>First-party cookies (cookies set by us)</h2>
+  <p>These are cookies set by  this website.  Some are necessary to the functionality of the site, others provide information to us that we analyse to monitor and improve the site. These first-party cookies do not store or collect any personal information or anything that makes you personally identifiable to us. Typically, the cookies generate a random, unique number to store information about a user.   </p>
+  <p>If you have any further questions about our use of cookies please email us at <a href="mailto:enquiries@companies-house.gov.uk?subject=http://www.companieshouse.gov.uk/legal/cookies.shtml">enquiries@companies-house.gov.uk</a>.</p>
+
+        <table>
+          <caption class="visuallyhidden">First-party cookies (cookies set by us)</caption>
+        <tr>
+          <th><strong>Name of cookie</strong></th>
+          <th><strong>Type of cookie</strong></th>
+          <th><strong>Expiry period</strong></th>
+          <th><strong>Reason for use of cookie</strong></th>
+          <th><strong>Description</strong></th>
+        </tr>
+          <tr>
+            <td>_SID</td>
+            <td>Session</td>
+            <td>1 hour</td>
+            <td>Your visit</td>
+            <td>Identifies the Companies House service users session. A unique random value that does not contain any data</td>
+          </tr>
+          <tr>
+            <td>_FLP</td>
+            <td>Persistent</td>
+            <td>5 years</td>
+            <td>Your visit</td>
+            <td>Used to manage the Companies House service users sign-in journey. Contains no personal information and cannot be used to identify a user.</td>
+          </tr>
+          <tr>
+            <td>_PIN</td>
+            <td>Session</td>
+            <td>Browser closed</td>
+            <td>Your visit</td>
+            <td>Used to manage the Companies House service users sign-in journey. Contains no personal information and cannot be used to identify a user.</td>
+          </tr>
+          <tr>
+            <td>_ZXS</td>
+            <td>Session</td>
+            <td>Browser closed</td>
+            <td>Your visit</td>
+            <td>Used to manage the Companies House service users sign-in journey. Contains no personal information and cannot be used to identify a user.</td>
+          </tr>
+          <tr>
+            <td>_SFT</td>
+            <td>Session</td>
+            <td>10 years</td>
+            <td>Your visit</td>
+            <td>Used to remember the Companies House service users current browsers filing history preferences.</td>
+          </tr>
+          <tr>
+            <td>chcookie</td>
+            <td>Persistent cookie</td>
+            <td>2 months</td>
+            <td>Analytics</td>
+            <td>Used to  improve our understanding of how people use our website and services, through  web analytics</td>
+          </tr>
+          <tr>
+            <td>_pk_id.1.fc5d</td>
+            <td>Persistent cookie</td>
+            <td>2 years</td>
+            <td>Analytics</td>
+            <td>Used to  improve our understanding of how people use our website and services, through  web analytics</td>
+          </tr>
+          <tr>
+            <td>_pk_ses.1.fc5d</td>
+            <td>Session cookie</td>
+            <td>&nbsp;</td>
+            <td>Analytics</td>
+            <td>Used to  improve our understanding of how people use our website and services, through  web analytics</td>
+          </tr>
+          <tr>
+            <td>ch_session</td>
+            <td>Session cookie</td>
+            <td>At end of session</td>
+            <td>Strictly necessary</td>
+            <td>Used to manage the items stored in your shopping basket or your progress through filing transactions</td>
+          </tr>
+          <tr>
+            <td>PIWIK_SESSID</td>
+            <td>Session cookie</td>
+            <td>&nbsp;</td>
+            <td>Analytics</td>
+            <td>Used to  improve our understanding of how people use our website and services, through  web analytics</td>
+          </tr>
+          <tr>
+            <td>transaction</td>
+            <td>Persistent cookie</td>
+            <td>1 day</td>
+            <td>Your visit</td>
+            <td>WebFiling uses a cookie which remembers which service within WebFiling was being carried out in the event of a session timeout</td>
+          </tr>
+          <tr>
+            <td>chwebcheck</td>
+            <td>Persistent cookie</td>
+            <td>1 year</td>
+            <td>Your visit</td>
+            <td>WebCHeck uses a cookie  which  remembers the user for subsequent visits. The user is given the choice to  explicitly allow this during login</td>
+          </tr>
+            <tr>
+            <td>ch_survey</td>
+            <td>Persistent cookie</td>
+            <td>1 year</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+          <tr>
+            <td>survey_ch</td>
+            <td>Persistent cookie</td>
+            <td>28 days</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+           <tr>
+            <td>chwebsite_survey</td>
+            <td>Persistent cookie</td>
+            <td>7 days</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+         	<tr>
+            <td>ch_beta_free / ch_beta_message</td>
+            <td>Persistent cookie</td>
+            <td>7 days</td>
+            <td>Your visit</td>
+            <td>A message may appear on some of our services with information about the new Companies House Service (beta). This cookie is used to determine whether or not the user has chosen to hide the message.</td>
+          </tr>
+               <tr>
+            <td>chwebsite_survey</td>
+            <td>Persistent cookie</td>
+            <td>7 days</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+           <tr>
+            <td>chstats_survey</td>
+            <td>Persistent cookie</td>
+            <td>90 days</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+           <tr>
+            <td>ch-survey-logged-out</td>
+            <td>Persistent cookie</td>
+            <td>24 hours</td>
+            <td>Your visit</td>
+            <td>Companies House website occasionally runs surveys which use a cookie which remembers if the user has a) chosen to not take part in the survey, or b) has already taken part in the survey.</td>
+          </tr>
+      </table>
+
+<h2 class="heading-medium"><a name="third_party_cookies"></a>Third-party cookies (cookies set by other websites through this site) </h2>
+   <p>We want to provide interesting and engaging content on our website. On a number of pages we use 'plug ins' or embedded media. For example, we embed YouTube videos and Google Maps in many pages.</p>
+   <p>The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as 'third-party' cookies. </p>
+
+   <table>
+    <caption class="visuallyhidden">Third-party cookies (cookies set by other websites through this site)</caption>
+        <tr>
+          <th><strong>Name of cookie</strong></th>
+          <th><strong>Type of cookie</strong></th>
+          <th><strong>Expiry period</strong></th>
+          <th><strong>Reason for use of cookie</strong></th>
+          <th><strong>Description</strong></th>
+        </tr>
+          <tr>
+            <td>NID</td>
+            <td>Persistent cookie</td>
+            <td>6 months</td>
+            <td>Media</td>
+            <td>This cookie is set by Google Maps when you visit any of our pages which includes an embedded Google Map</td>
+          </tr>
+          <tr>
+            <td>PREF</td>
+            <td>Persistent cookie</td>
+            <td>2 years</td>
+            <td>Media</td>
+            <td>This cookie is set by Google Maps when you visit any of our pages which includes an embedded Google Map</td>
+          </tr>
+          <tr>
+            <td>testcookie</td>
+            <td>Session cookie</td>
+            <td></td>
+            <td>Media</td>
+            <td>This cookie is set by Google Maps when you visit any of our pages which includes an embedded Google Map</td>
+          </tr>
+          <tr>
+            <td>khcookie</td>
+            <td>Session cookie</td>
+            <td></td>
+            <td>Media</td>
+            <td>This cookie is set by Google Maps when you visit any of our pages which includes an embedded Google Map</td>
+          </tr>
+          <tr>
+            <td>SNID</td>
+            <td>Persistent cookie</td>
+            <td>6 months</td>
+            <td>Media</td>
+            <td>This cookie is set by Google Maps when you visit any of our pages which includes an embedded Google Map</td>
+          </tr>
+          <tr>
+            <td>original_referer</td>
+            <td>Session cookie</td>
+            <td></td>
+            <td>Your visit</td>
+            <td>This cookie is set by Twitter when you load any of our pages that include a list of &quot;Latest Tweets&quot;</td>
+          </tr>
+
+          <tr>
+            <td>_twitter_sess</td>
+            <td>Session cookie</td>
+            <td></td>
+            <td>Social networking</td>
+            <td>This cookie is set by Twitter when you load any of our pages that include a list of &quot;Latest Tweets&quot;</td>
+          </tr>
+          <tr>
+            <td>guest_id</td>
+            <td>Persistent cookie</td>
+            <td>2 years</td>
+            <td>Social networking</td>
+            <td>This cookie is set by Twitter when you load any of our pages that include a list of &quot;Latest Tweets&quot;</td>
+          </tr>
+          <tr>
+            <td>k</td>
+            <td>Persistent cookie</td>
+            <td>1 week</td>
+            <td>Social networking</td>
+            <td>This cookie is set by Twitter when you load any of our pages that include a list of &quot;Latest Tweets&quot;</td>
+          </tr>
+          <tr>
+            <td>pid</td>
+            <td>Persistent cookie</td>
+            <td>2 years</td>
+            <td>Performance / Networking</td>
+            <td>This cookie is set by Twitter when you load any of our pages that include a list of &quot;Latest Tweets&quot;</td>
+          </tr>
+          <tr>
+            <td>PREF</td>
+            <td>Persistent cookie</td>
+            <td>10 years</td>
+            <td>Media</td>
+            <td>This cookie is set by YouTube when you load a video embedded on one of our pages</td>
+          </tr>
+          <tr>
+            <td>VISITOR_INFO1_LIVE</td>
+            <td>Persistent cookie</td>
+            <td>240 days</td>
+            <td>Media</td>
+            <td>This cookie is set by YouTube when you load a video embedded on one of our pages</td>
+          </tr>
+          <tr>
+            <td>use_hitbox</td>
+            <td>Session cookie</td>
+            <td></td>
+            <td>Media</td>
+            <td>This cookie is set by YouTube when you load a video embedded on one of our pages</td>
+          </tr>
+      </table>
+
+<h3 class="heading-small">Shopping cart / transactional areas</h3>
+  <p>There are some areas of our site that make use of shopping carts or forms technology which at times have to make use of cookies - the ones used on a permanent basis are detailed in the cookies table. From time to time we may add functionality to our site e.g. surveys, comparisons etc., and these often come from 3rd parties – we will endeavour to ensure full disclosure of any cookies.</p>
+<h3 class="heading-small">Areas of the site requiring a login</h3>
+  <p>Accepting the use of login functionality, without exception, you must explicitly agree to the setting of specific cookies, which allow this area to function. The cookies in use for secure areas are provided within the terms and conditions of use for the appropriate area.</p>
+
+<h2 class="heading-medium"><a name="how_to_control_and_delete_cookies"></a>How to control and delete cookies</h2>
+  <p><strong>We will not use cookies to collect personally identifiable information about you.</strong></p>
+  <p> However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through  your browser settings. The ‘Help’ function within your browser should  tell you how.</p>
+  <p>Alternatively, you may wish to visit the <a href="http://www.aboutcookies.org/">About Cookies</a> website,  which contains comprehensive information on how to do this on a wide  variety of browsers. You will also find details on how to delete cookies  from your machine as well as more general information about cookies.</p>
+  <ul class="list list-bullet">
+    <li><a href="http://www.aboutcookies.org/Default.aspx?page=5">Cookies: Frequently Asked Questions</a></li>
+    <li><a href="http://www.aboutcookies.org/Default.aspx?page=1">How to control cookies</a></li>
+    <li><a href="http://www.aboutcookies.org/Default.aspx?page=2">How to delete cookies</a></li>
+  </ul>
+  <p><strong> Please be aware that restricting cookies may have an impact upon the functionality of our website.</strong></p>
+  <p>If you wish to view your cookie code, just click on a cookie to open  it. You'll see a short string of text and numbers. The numbers are your  identification card, which can only be seen by the server that gave you  the cookie.</p>
+  <p>For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual. To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information. </p>
+
+<h3 class="heading-small">Local Shared Objects (Flash cookies)</h3>
+  <p>Some of our pages include videos embedded from YouTube, which uses the Adobe Flash Player. To improve user experience, Local Shared Objects - or Flash cookies as they are commonly known - are employed to provide features such as auto-resume and for saving your preferences. Flash cookies are stored on a user's terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way. <a href="http://www.adobe.com/products/flashplayer/security">How to delete or disable Flash cookies</a></p>
+  <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+
+</div><!--text"-->
+
+        </main><!-- / #page-container -->
+
+        <footer class="group js-footer" id="footer" role="contentinfo">
+          <div class="footer-wrapper">
+            <div class="footer-meta" style="padding:0;">
+              <div class="footer-meta-inner">
+                <ul>
+                  <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
+                  <li><a href="/legal/cookies.shtml">Cookies</a></li>
+                  <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer><!--end footer-->
+
+          <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+            <script type="text/javascript">
+            $(function() {
+              $('a[href*="#"]:not([href="#"])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                  var target = $(this.hash);
+                  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                  if (target.length) {
+                    $('html, body').animate({
+                      scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                  }
+                }
+              });
+            });
+
+            if ($('#back-to-top').length) {
+          var scrollTrigger = 100, // px
+              backToTop = function () {
+                  var scrollTop = $(window).scrollTop();
+                  if (scrollTop > scrollTrigger) {
+                      $('#back-to-top').addClass('show');
+                  } else {
+                      $('#back-to-top').removeClass('show');
+                  }
+              };
+          backToTop();
+          $(window).on('scroll', function () {
+              backToTop();
+          });
+          $('#back-to-top').on('click', function (e) {
+              e.preventDefault();
+              $('html,body').animate({
+                  scrollTop: 0
+              }, 700);
+          });
+        }
+          </script>
+
+          <!--#include virtual="/inc/statsTracker.html" -->
+
+      </body>
+      </html>

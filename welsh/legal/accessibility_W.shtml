@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="cy">
+<head>
+<title>Hygyrchedd </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Accessibility">
+<meta name="creator" content="Marketing">
+<meta name="contributor" content="">
+<meta name="identifier" content="Accessibility">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="Accessibility, W3C, usability ">
+<meta name="description" content="Information on Accessibility of the website">
+
+<meta name="date-source-created" content="January 2007">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="07/12/2012">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Guidance">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation"content="">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+</head>
+
+<body>
+<!--#include virtual="/welsh/inc/header2012noTabs_W.html" -->
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="2" align="left" valign="top">&nbsp;</td>
+</tr>
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" class="bluemidtext"><strong>Hygyrchedd</strong>
+  <br>
+  <!-- Content-Start title="Hygyrchedd" -->
+  <p> Mae T&#375;&rsquo;r Cwmn&iuml;au wedi ymrwymo i ddarparu gwefan sy&rsquo;n hygyrch i&rsquo;r gynulleidfa ehangaf bosibl &ndash; ni waeth am allu na thechnoleg bori, a chan gynnwys rhai sydd &acirc; nam ar eu golwg/clyw neu anabledd symud neu ddirnad.&nbsp;&nbsp; </p>
+  <p> Mae&rsquo;r wefan hon yn ceisio cydymffurfio &acirc; Chanllawiau Hygyrchedd Cynnwys Gwefannau&rsquo;r <a href="http://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a> 2.0. Hwyrach nad yw ein gwasanaethau ar-lein (Companies House Direct, WebCHeck a WebFiling) yn cwrdd &acirc;&rsquo;r canllawiau dan sylw ar hyn o bryd ond rydym wrthi yn eu datblygu. </p>
+  <p> Lluniwyd y wefan hon drwy ddefnyddio cod sy&rsquo;n gyson &acirc; safonau&rsquo;r W3C ar gyfer HTML a Dalennau Sgwd. Dyluniwn y safle gyda defnyddioldeb a hygyrchedd mewn cof. </p>
+  <p> Os cewch anhawster i gyrchu unrhyw wybodaeth sydd ar y safle, e-bostiwch: <a href="mailto:ismith@companieshouse.gov.uk">ismith@companieshouse.gov.uk</a></p>
+  
+  <p><strong> Addasu maint y testun </strong></p>
+  <p> I gynyddu neu leihau maint y testun, ni raid ond newid gosodiadau&rsquo;ch porwr: </p>
+  <ul>
+    <li> Ar gyfer Microsoft Internet Explorer, ewch i&rsquo;r ddewislen &lsquo;View&rsquo;, detholwch &lsquo;Text Size&rsquo; ac yna&rsquo;r opsiwn sy&rsquo;n gweddu i chi (sylwer mai maint cymedrol yw&rsquo;r sefyllfa ddiofyn). </li>
+    <li> Ar gyfer Mozilla Firefox, ewch i&rsquo;r ddewislen &lsquo;View&rsquo;, detholwch &lsquo;Text Size&rsquo; ac yna naill ai &lsquo;Increase&rsquo; neu &lsquo;Decrease&rsquo; nes i&rsquo;r testun ddod i&rsquo;r maint sydd eisiau. </li>
+  </ul>
+  <p><strong> Testun yn Unig </strong></p>
+  <p> I weld ein safle Testun yn Unig, dilynwch y ddolen gyswllt &lsquo;Text Only&rsquo; (bysell gyrchu &lsquo;2&rsquo;) ar y brig. Sylwer mai ar ein gwefan hybu yn unig y mae hyn yn gweithio ac nid o dan WebCHeck na WebFiling. </p>
+  <p><strong> Delweddau </strong></p>
+  <p>Mae’r holl ddelweddau cynnwys a ddefnyddir ar y safle hwn yn cynnwys nodweddion disgrifiadol ALT. Mae’r graffeg addurnol a’r nodweddion graffeg a ddefnyddir ar gyfer gosodiad y wefan yn unig yn cynnwys nodweddion ALT gwag. I guddio’r delweddau, newidiwch osodiadau’ch porwr: </p>
+  <ul>
+    <li>Yn <strong>Internet      Explorer</strong>, ewch i Offer/<em>Tools</em> wedyn Dewisiadau Rhyngrwyd/<em>Internet      Options </em>wedyn <em>Uwch/</em>Advanced. Sgroliwch i lawr i’r adran Amlgyfrwng a dileu’r opsiwn “Dangos lluniau/<em>Show pictures</em>&quot;. (I adfer hyn, ticiwch “Dangos lluniau/<em>Show      pictures</em>&quot; eto).<br>
+    </li>
+    <li>Yn <strong>Firefox</strong>,      ewch i <em>Tools</em> wedyn <em>Options</em>, wedyn y tab <em>Content</em> a dilëwch yr opsiwn &quot;<em>load images automatically</em>”. (I      adfer hyn, ticiwch “<em>load images      automatically</em>&quot; eto).<br>
+    </li>
+    <li>Yn <strong>Chrome</strong>,      ewch i <em>Customise</em> (eicon y      sbaner) wedyn <em>Options</em>, a      dewiswch y tab <em>Under the Bonnet</em>.      Dewiswch <em>Select Content settings</em> o dan <em>Privacy</em>, ac o dan y      tab  <em>Images</em> ticiwch &quot;<em>Do      not show images</em>&quot;. (I adfer hyn, ticiwch &quot;<em>Show all images</em>&quot;).<br>
+    </li>
+    <li>Yn <strong>Safari</strong>,      ewch i <em>Customise</em> (eicon y gêr)      wedyn <em>Preferences</em>. Dewiswch y      tab <em>Appearances</em> a dilëwch y tic      wrth yr opsiwn &quot;<em>Display images      when the page opens</em>&quot;).</li>
+  </ul>
+  <p><strong> PDF </strong></p>
+  <p> Defnyddiwn ddiwyg PDF ar gyfer llawer o&rsquo;r ffurflenni ar ein gwefan. Bydd arnoch chi angen darllenydd Adobe (neu ryw syllwr PDF arall) i weld dogfennau PDF. <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Dadlwythwch fersiwn diweddaraf darllenydd Adobe yma.</a></p>
+  <p><strong> Cysylltu &acirc; ni </strong></p>
+  <p> Os bydd gennych chi unrhyw gwestiynau neu sylwadau, cysylltwch &acirc; Mr Ian Smith: <a href="mailto:ismith@companieshouse.gov.uk">ismith@companieshouse.gov.uk</a></p>
+  <p><strong> Dolenni Cyswllt Defnyddiol</strong></p>
+  <p> Bydd ar y gwefannau canlynol gyngor a gwybodaeth ddefnyddiol am hygyrchedd gwe. </p>
+  <ul>
+    <li><a href="http://www.w3.org/" target="_blank">World Wide Web Consortium (W3C) (yn agor mewn ffenestr newydd)</a></li>
+    <li><a href="http://www.w3.org/WAI/" target="_blank">W3C Web Accessibility Initiative (WAI) (yn agor mewn ffenestr newydd)</a></li>
+    <li><a href="http://www.rnib.org.uk/professionals/webaccessibility/Pages/web_accessibility.aspx" target="_blank">RNIB web access centre (yn agor mewn ffenestr newydd)</a></li>
+    <li><a href="http://www.drc.org.uk/" target="_blank">Disability Rights Commission (yn agor mewn ffenestr newydd)</a></li>
+    <li><a href="http://www.bbc.co.uk/accessibility/" target="_blank">BBC My Web My Way (yn agor mewn ffenestr newydd)</a></li>
+  </ul>
+  <!-- Content-End -->  </td>
+</tr>
+</table>
+<!--#include virtual="/welsh/inc/statsTracker_W.html" -->
+<!--#include virtual="/welsh/inc/cookieInfo_W.html" --></body>
+</html>

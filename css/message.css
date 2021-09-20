@@ -1,0 +1,56 @@
+/** Start CHD/WebCheck message styles **/
+
+#ch-beta-alert {
+	background-color:#fff;
+	padding:1px 150px 20px;
+	border-bottom:5px solid #005ea5;
+	color:#000;
+	font-size:16px;
+	display:none;
+}	
+#ch-beta-alert .ch-beta-alert-container {
+	width:850px;
+	margin:0 auto;
+	display:block;
+}
+#ch-beta-alert a:link, #ch-beta-alert a:visited  {
+	color:#005ea5;
+	font-size:13px;
+}
+#ch-beta-alert a:hover, #ch-beta-alert a:focus {
+	color:#2e8aca;
+}
+#ch-beta-alert div {
+	width:65%;
+	display:inline-block;
+	margin-right:15px;
+}
+#ch-beta-alert div.ch-beta-alert-links {
+	width:25%;
+	display:inline-block;
+	float:right;
+	margin-top:10px;
+}
+#ch-beta-alert a:hover, #ch-beta-alert a:focus {
+	color:#2e8aca;
+}
+#ch-beta-alert a.chs-beta-link:link, #ch-beta-alert a.chs-beta-link:visited {
+	color: #fff;
+	background-color: #00823B;
+	padding: 7px 10px;
+	text-decoration: none;
+	border-bottom:2px solid #006435;
+	font-size:16px;
+	margin-right:10px;
+}
+#ch-beta-alert a.chs-beta-link:hover, #ch-beta-alert a.chs-beta-link:focus {
+	background-color: #00692f;
+}
+.chs-beta-close-hidden {
+	display:none;
+}
+.ch-beta-alert-visible {
+	display:block !important;
+}
+
+/** End CHD/WebCheck message styles **/

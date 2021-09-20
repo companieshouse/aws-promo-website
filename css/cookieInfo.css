@@ -1,0 +1,42 @@
+/** Start Cookie Info **/
+
+#cookieInfo, #cookieInfoWelsh {
+	position: fixed; 
+	left: 0; 
+	bottom: 0; 
+	z-index: 200;	
+	float:right; /** Needed for IE6 **/
+}
+
+#cookieInfo a:link {
+	background-image:url(/images/cookieGraphic.png);
+	background-color:transparent;
+	height:82px;
+	width:82px;
+	display:block;
+	text-indent:-9999px;
+}
+#cookieInfo a:hover, #cookieInfo a:focus  {
+	background-image:url(/images/cookieGraphicDark.png);
+	background-color:transparent;
+	position:relative;
+	top:2px;
+	right:2px;
+}
+#cookieInfoWelsh a:link {
+	background-image:url(/images/welsh/cookieGraphic_W.png);
+	background-color:transparent;
+	height:82px;
+	width:82px;
+	display:block;
+	text-indent:-9999px;
+}
+#cookieInfoWelsh a:hover, #cookieInfoWelsh a:focus  {
+	background-image:url(/images/welsh/cookieGraphicDark_W.png);
+	background-color:transparent;
+	position:relative;
+	top:2px;
+	right:2px;
+}
+
+/** End Cookie Info **/

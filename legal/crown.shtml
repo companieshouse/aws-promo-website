@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>© Crown copyright 2014</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Crown Copyright">
+<meta name="creator" content="Marketing Team">
+<meta name="contributor" content="">
+<meta name="identifier" content="Companies House Homepage">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="copyright, crown protection, protected material, permission, usage">
+<meta name="description" content="Guidance on Crown copyright protection">
+
+<meta name="date-source-created" content="October 2003">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="17/01/2013">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Homepage">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="http://www.tyrcwmniau.gov.uk/welsh/legal/crown_W.shtml">
+<meta name="relation" content="http://www.companieshouse.gov.uk/welsh/index.shtml">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+<style type="text/css">
+ul#themenu li#crownCopyright a {font-weight:bold}
+#inforelease, #publication {display:none}
+</style>
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012noTabs.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="2" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" class="bluemidtext">
+<h2>&copy; Crown Copyright 2015</h2>
+  <p>The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Royal Arms and departmental or agency logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context. Where any of the Crown copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged.  
+  <p>The permission to reproduce Crown protected material does not extend to any material on this site which is identified as being the copyright of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned.  
+  <p>Companies House encourages users to establish hypertext links to this site. If you want to link to us please feel free but, we would prefer it if you linked to our home page. That way if we have to move information around, your link will stay intact.  
+  <p>      <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">Further information on Crown copyright policy and licensing arrangements</a>.
+  <p><strong>This page was last updated January 2014</strong><p>    
+  <!-- Content-End -->
+
+  </td>
+</tr>
+</table>
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+</body>
+</html>

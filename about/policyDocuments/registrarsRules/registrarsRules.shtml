@@ -1,0 +1,2319 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title> Draft Registrars Rules Companies Act - October 09 Implementation </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content=" Draft Registrars Rules Companies Act - October 09 Implementation">
+<meta name="creator" content="Rachael Watts policy and  planning">
+<meta name="contributor" content="">
+<meta name="identifier" content=" Draft Registrars Rules Companies Act - October 09 Implementation">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content=" Draft Registrars Rules Companies Act - October 09 Implementation ">
+<meta name="description" content="Information on Draft Registrars Rules Companies Act - October 09 Implementation October  2009, requireents applicable to documents delivered t the registrar in electronic form.">
+
+<meta name="date-source-created" content="July 2009">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="23/07/2009">
+<meta name="date-html-modified" content="24/08/2011">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Guidance">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" --><style type="text/css">
+#board, #events, #careers, #stats, #procurement, #fraud {display:none;}
+.GBBoxes {padding:5px;}
+ul.noBullet li {list-style:none; margin-bottom:8px;}
+</style>
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="4" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="180" height="1" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="25" height="1" alt="" ></td>
+<td style="width:100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#include virtual="/inc/aboutusmenu.html" -->
+<br></td>
+<td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt="" ></td>
+<td align="left" valign="top" class="bluemidtext">
+  <!-- Content-Start title="Draft Registrars Rules Companies Act - October 09 Implementation" -->
+  This page has moved to <a href="/about/policyDocuments/registrarsRules/registrarsRules.pdf" target="_blank">www.companieshouse.gov.uk/about/policyDocuments/registrarsRules/registrarsRules.pdf</a>
+<!--
+	<div align="center">
+  <p><strong>REGISTRAR’S RULES 2009</strong></p>
+  <p>ARRANGEMENT OF RULES</p>
+  </div>
+  <p><a href="#volume1">Volume 1 - Requirements applicable to documents delivered to the registrar in electronic form</a><br>
+    <a href="#volume2">Volume 2 - Requirements applicable to documents delivered to the registrar in paper form</a><br>
+    Volume 3 - Requirements applicable to a document or part of a document delivered to the registrar on a CD-ROM or DVD-ROM<br>
+    <a href="#volume4">Volume 4 - Requirements applicable to instructions for the informal correction of a document delivered to the registrar </a><br>
+        <a href="registrarsRulesVolume5.pdf" target="_blank">Volume 5 - Authentication of a certificate sent by the registrar by electronic means</a></p>
+	<div align="center">
+  <a name="volume1"></a>
+  <p class="GBBoxes"><strong>REGISTRAR’S RULES 2009<br>
+  VOLUME 1</strong></p>
+  <p><strong>REQUIREMENTS APPLICABLE TO DOCUMENTS DELIVERED TO THE REGISTRAR IN ELECTRONIC FORM</strong></p>    </div>
+  <p><em>Made 29th September 2009<br>
+    Coming into force 1st October 2009</em></p>
+  <p>CONTENTS OF VOLUME 1</p>  
+
+  <p>PART 1<br>
+    GENERAL INTRODUCTORY PROVISIONS</p>
+
+  <p>1.  Commencement<br>
+    2.  Application of this Volume<br>
+    3.  Transitional interpretation<br>
+    4.  Definitions and general interpretation</p>
+
+  <p>PART 2<br>
+    WEBFILING</p>
+  <p>Chapter 1<br>
+    General provisions</p>
+
+  <p>5.  Application of Part<br>
+    6.  Using the webfiling facility</p>
+
+  <p>Chapter 2<br>
+    Form of document</p>
+  <p>7.   Form of template<br>
+    8.   Accounts</p>
+  <p>Chapter 3<br>
+    Authentication</p>
+  <p>9.   Authentication of documents other than accounts<br>
+    10. Authentication of accounts<br>
+    11. Personal authentication</p>
+  <p>Chapter 4<br>
+    Delivery and receipt</p>
+  <p>12.  Manner of delivery<br>
+    13.  Receipt</p>
+  <p>PART 3<br>
+    SOFTWARE FILING</p>
+  <p>Chapter 1<br>
+    General provisions<br>
+    14. Application of part<br>
+    15. Using the software filing facility</p>
+  <p>Chapter 2<br>
+    Form of document</p>
+  <p>16.  Documents other than accounts<br>
+    17.  Accounts</p>
+  <p>Chapter 3<br>
+    Authentication</p>
+  <p>18.  Company authentication<br>
+    19.  Personal authentication</p>
+  <p>Chapter 4<br>
+    Delivery and receipt</p>
+  <p>20. Delivery and receipt</p>
+<hr>
+  <p>SCHEDULES</p>
+  <p><a href="#schedule1">Schedule 1</a> - Provisions conferring powers exercised in making these rules</p>
+  <p><a href="#schedule2">Schedule 2</a> - Defined terms used in this Volume of the rules and their meanings</p>
+  <p><a href="#schedule3">Schedule 3</a> - Table specifying the documents that may be delivered to the registrar using webfiling and the templates that must be used in respect of them</p>
+  <p><a href="#schedule4">Schedule 4</a> - Screen prints of the form of templates to be used in webfiling</p>
+  <p><a href="#schedule5">Schedule 5</a> - Table specifying the documents that may be delivered to the registrar using software filing and the XML data schemata that must be used in respect of them</p>
+  <p><a href="#schedule6">Schedule 6</a> - XML data schemata</p>
+  <a href="#schedule7">Schedule 7</a> -  Accounts<br>
+       <ul class="noBullet">
+    <li>Part 1:  Approved format for accounts</li>
+    <li>Part 2:  Table of elements conforming to the XBRL taxonomy required as part of an accounts submission</li>
+      </ul>
+  <p><a href="#schedule8">Schedule 8</a> - Category of persons permitted to authenticate documents delivered using software filing</p>
+  <p>The registrar of companies makes the following rules in exercise of the powers conferred by the enactments specified in Schedule 1 to this Volume of the rules.<br>
+  </p>
+  <p><strong>PART 1<br>
+    GENERAL INTRODUCTORY PROVISIONS </strong></p>
+  <p><strong>Commencement</strong></p>
+  <p>    1.  The rules in this Volume come into force on 1st October 2009.</p>
+  <p><strong>Application of this Volume</strong></p>
+  <p>    2.(1) The rules in this Volume apply to any document delivered to the registrar in electronic form (other than on a CD-ROM or DVD-ROM) on or after 1st October 2009 unless the document is delivered in pursuance of an obligation arising before that date.</p>
+  <p> (2)  The rules in this Volume apply only to documents delivered in respect of companies or proposed companies.</p>
+ (3)  Other Volumes of the registrar’s rules 2009 cover the following matters-<br>
+       <ul class="noBullet">
+    <li> (a)  Requirements applicable to documents delivered to the registrar in paper form (Volume 2);</li>
+    <li> (b) Requirements applicable to a document or part of a document delivered to the registrar on a CD-ROM or DVD-ROM (Volume 3);</li>
+      <li>(c) Requirements applicable to instructions for the informal correction of a document delivered to the Registrar (Volume 4)</li>
+      <li> (d) Authentication of a certificate sent by the registrar by electronic means (Volume 5)</li>
+      </ul>
+  <p><strong>Transitional interpretation</strong></p>
+  <p>    3. Any reference in these rules to a document delivered to the registrar shall be construed as a reference to a document delivered to the registrar on or after 1st October 2009 other than a document delivered in pursuance of an obligation arising before that date.</p>
+  <p><strong>Definitions and general interpretation</strong></p>
+  <p>    4.(1) Defined terms used in this Volume of the rules and their meanings are contained in Schedule 2. </p>
+  <p> (2) Unless the context otherwise requires, references to sections are to sections of the Companies Act 2006.</p>
+  <p> (3)  In this Volume of the rules</p>
+  <ul class="noBullet">
+    <li> (a) any reference to a "rule" or "rules" is a reference to the rules in this Volume of the registrar’s rules 2009 and any reference to a numbered rule, Chapter, Part or Schedule is to the rule, Chapter, Part or Schedule so numbered in this Volume;</li>
+    <li> (b) any reference to an Act includes a reference to any subordinate legislation made under that Act</li>
+    <li> (c) words in the singular shall include the plural and vice versa and a reference to a gender shall include a reference to all genders.</li>
+  </ul>
+  <p><strong>PART 2<br>
+    WEBFILING</strong></p>
+  <p><strong>Chapter 1<br>
+    General provisions</strong></p>
+  <p><strong>Application of Part</strong></p>
+  <p>    5.(1) This Part applies only to documents delivered to the registrar using webfiling and shall be construed accordingly. </p>
+  <p> (2) The documents that may be delivered to the registrar using webfiling are specified in column 1 of the table in Schedule 3 and the legislative provisions under which each of those documents is delivered are specified in column 2 of that table. </p>
+  <p><strong>Using the webfiling facility</strong></p>
+  <p> 6.(1) To deliver a document using webfiling the presenter must:</p>
+  <ul class="noBullet">
+    <li>(a)  register his details with the registrar; </li>
+    <li>(b)  have access to the internet;</li>
+    <li>(c)  have a security code and registered email address;</li>
+    <li>(d) have a company authentication code in respect of the company whose documents are to be delivered to the registrar;</li>
+    <li> (e) agree to the terms upon which the registrar makes the webfiling facility available for use</li>
+    <li> as each of the above requirements is specified in more detail on the website from time to time.</li>
+  </ul>
+  <p> (2) The presenter agrees that any communication sent to him by the registrar arising out of or in respect of the presenter’s use of the webfiling facility may be sent solely in electronic form.</p>
+  <p><strong>Chapter 2<br>
+    Form of document</strong></p>
+  <p><strong>Form of template</strong></p>
+  <p>    7.(1) A document delivered to the registrar using webfiling must be in the form of the template supplied for that purpose by the registrar as part of the webfiling facility.</p>
+  <p> (2) Column 3 of the table in Schedule 3 identifies the template(s) to be used in respect of the legislative provisions listed in column 2 of that table.</p>
+  <p> (3) Where a legislative provision has more than one template, the title of each template will refer to the circumstances in which it is to be used.</p>
+  <p> (4)  Templates marked with an asterisk in Column 3 of the table in Schedule 3 are partly in Welsh and partly in English and may only be used by Welsh companies.</p>
+  <p> (5) Each template contains data input fields each of which is associated with a descriptor indicating the information expected in that data input field and each data input field must be completed unless there is no legal requirement or authority to provide the information.</p>
+  <p> (6) Except for the accounts templates each template must be completed on-line while the presenter is logged onto the webfiling service.</p>
+  <p> (7) The form of each template including any guidance notes and notes for completion is shown by way of the screen prints in Schedule 4. </p>
+  <p> (8) Subject to rule 7.(9) the registrar may prepopulate one or more data input fields in a template with information derived from other documents delivered in respect of the company  to assist the presenter but in each such instance the presenter must satisfy himself as to the veracity and adequacy of the prepopulated information and amend it as necessary before delivering the document to the registrar. </p>
+  <p> (9) Rule 7.(8) does not apply to the extent that the registrar prepopulates a template in accordance with the presenter’s instructions under rule 9.(2)(a).</p>
+  <p><strong>Accounts</strong></p>
+  <p>    8.(1) This rule applies only where the document to be delivered to the registrar comprises the company’s accounts.</p>
+  <p> (2) Before any information can be input into the data input fields in an accounts template, an electronic portable document format (PDF) copy of that template must be downloaded from the website and saved as a file on a computer.</p>
+  <p> (3) Information must be input into the data input fields on the locally saved copy of the template. </p>
+  <p> (4) A company may only deliver its accounts to the registrar using webfiling if the form and substance of the document when input into the accounts template:</p>
+  <ul class="noBullet">
+    <li > (a)  is a copy of the annual accounts and reports prepared for the company (whether in whole or in part); and/or</li>
+    <li> (b)  comprises abbreviated accounts prepared for the company<br>
+      together with such additional information as may be required by any enactment to be included on the documents delivered to the registrar.</li>
+  </ul>
+  <p><strong>Chapter 3<br>
+    Authentication</strong></p>
+  <p><strong>Authentication of documents other than accounts </strong></p>
+  <p>    9.(1) This rule does not apply to accounts delivered to the registrar using webfiling (see rule 10.).</p>
+  <p> (2) The presenter must provide the registrar with the company’s registered number and company authentication code each time he wishes to use webfiling to deliver one or more documents in respect of that company. </p>
+  <p> (3) In selecting a template in which to deliver a document in respect of a company, the presenter instructs the registrar to:</p>
+  <ul class="noBullet">
+    <li> (a)  prepopulate the template with -
+    	<ul>	<li> (i) the registered number of that company and </li>
+    			<li> (ii) the name associated with that registered number on the index of company names by way of authentication on the presenter’s behalf; and</li></ul>
+        </li>
+    <li> (b) electronically tag the document by way of authentication on the presenter’s behalf with the company’s company authentication code, such that the electronic record of the document is indelibly associated with that company authentication code.</li>
+  </ul>
+  <p> (4)  The presenter of a document must belong to or act under the specific authority of a person who belongs to a category of person specified by the registrar as being permitted to authenticate that document. </p>
+  <p> (5) Except for the accounts templates, the category of persons permitted by the registrar to authenticate a document is specified on the final page of each template for that document and can be found on the last screen print for each template. </p>
+  <p><strong>Authentication of accounts</strong></p>
+  <p>    10.(1) This rule applies to accounts delivered to the registrar using webfiling.</p>
+  <p> (2) The presenter must provide the registrar with the company’s registered number and company authentication code by means of authentication when he delivers the accounts in the form of the webfiling accounts template to the registrar.</p>
+  <p> (3) The presenter instructs the registrar to electronically tag the accounts by way of authentication on the presenter’s behalf with the company’s company authentication code, such that the electronic record of the accounts is indelibly associated with that company authentication code.</p>
+  <p> (4)  The presenter of a document must act under the specific authority of the company’s directors in delivering accounts in the form of the webfiling accounts template.</p>
+  <p><strong>Personal authentication</strong></p>
+  <p>    11.(1) In addition to any other authentication requirements imposed by these rules, a document delivered under section 167 in the form of template AP01, AP01c, AP02 or AP02c or under section 276 in the form of template AP03, AP03c, AP04 or AP04c must be authenticated:</p>
+  <ul class="noBullet">
+    <li> (a) where the notification relates to the appointment of a natural person, by that person by means of his personal authentication code; or </li>
+    <li> (b) where the notification relates to the appointment of a body corporate, by a natural person, authorised to act on behalf of that body, by means of his personal authentication code. </li>
+  </ul>
+  <p><strong>Chapter 4<br>
+    Delivery and receipt<br>
+  </strong></p>
+  <p><strong>Manner of delivery</strong></p>
+  <p> 12.(1)  All documents delivered using webfiling except for accounts must be delivered by selecting the "Submit" radio button found at the end of each template while the presenter is on-line and logged onto the webfiling service.</p>
+  <p> (2) Accounts delivered using webfiling need not be delivered while the presenter is logged onto the webfiling service but must be delivered using a computer which is connected to the internet.</p>
+  <p> (3) Accounts are delivered using webfiling by selecting the "Submit" radio button found at the end of the locally saved electronic copy of the template (see rule 8.(2)) and by supplying the company’s registered number and company authentication code by means of authentication when prompted.</p>
+  <p><strong>Receipt</strong> </p>
+  <p>  13.(1) Save as provided in rule 13.(2), a document delivered by webfiling is received when it is given an envelope number by the registrar. </p>
+  <p> (2) A document delivered pursuant to section 854 (the "annual return") is received when the later of the following occurs-</p>
+  <ul class="noBullet">
+    <li> (a) the annual return is given an envelope number by the registrar; </li>
+    <li> (b) the annual return is granted "queued" status by the registrar.</li>
+  </ul>
+  <p>    14.(1) This Part applies only to documents delivered to the registrar using software filing and shall be construe</p>
+  <p><strong>PART 3<br>
+    SOFTWARE FILING</strong></p>
+  <p><strong>Chapter 1<br>
+    General provisions</strong></p>
+  <p><strong>Application of Part</strong></p>
+  <p>    14.(1) This Part applies only to documents delivered to the registrar using software filing and shall be construed accordingly.   </p>
+  <p> (2) The documents that may be delivered using software filing are specified in column 1 of the table in Schedule 5 and the legislative provisions under which each of those documents is delivered are specified in column 2 of that table. </p>
+  <p><strong>Using the software filing facility</strong></p>
+  <p>    15.(1) To deliver an incorporation package to the registrar using software filing the agent must-</p>
+  <ul class="noBullet">
+    <li> (a) register his details with the registrar;</li>
+    <li> (b) have an XML account with the registrar;</li>
+    <li> (c) have access to appropriate hardware and software;</li>
+    <li> (d) have a valid presenter authentication code;</li>
+    <li> (e) agree to the terms upon which the registrar makes the software filing facility available for use
+      as each of the above requirements is specified in more detail on the website from time to time.</li>
+  </ul>
+  <p> (2)  To deliver a document other than an incorporation package to the registrar using software filing the presenter must-</p>
+  <ul class="noBullet">
+    <li> (a) register his details with the registrar; </li>
+    <li> (b) have an XML account with the registrar</li>
+    <li> (c) have access to appropriate software and hardware;</li>
+    <li> (d) have a valid company authentication code in respect of the company whose documents are to be delivered to the registrar; and</li>
+    <li> (e) agree to the terms upon which the registrar makes the software filing facility available for use 
+      as each of the above requirements is specified in more detail on the website from time to time.</li>
+  </ul>
+  <p> (3) The agent or presenter agrees that any communication sent to him by the registrar arising out of or in respect of the use of the software filing facility by the agent or presenter may be sent solely in electronic form.</p>
+  <p> (4) The agent agrees that any document issued to him by the registrar arising out of or in respect of the agent’s use of the software filing facility (including any certificate that the registrar is under a duty to give) may be issued and sent solely in electronic form.<br>
+  </p>
+  <p><strong>Chapter 2<br>
+    Form of document</strong></p>
+  <p><strong>Documents other than accounts</strong></p>
+  <p> 16.(1) A document other than accounts delivered to the registrar using software filing must:-</p>
+  <ul class="noBullet">
+    <li> (a) be in the form of the XML data schema specified by the registrar in respect of that document, a representation of which is shown in Schedule 6; </li>
+    <li> (b) incorporate the XML base schema specified by the registrar, a representation of which is shown in Schedule 6; and</li>
+    <li> (c) be contained in a GovTalk envelope. </li>
+  </ul>
+  <p> (2) Column 3 of the table in Schedule 5 identifies the XML data schema to be used in respect of each of the documents listed in column 1 of that table. </p>
+  <p><strong>Accounts</strong></p>
+  <p>    17.(1) Accounts delivered to the registrar using software filing must be in the form of an approved format within an accounts submission and must be contained in a GovTalk envelope.</p>
+  <p> (2) Accounts may only be delivered to the registrar using software filing if the accounts in the approved format are a copy of the annual accounts and reports prepared for the company (in whole or in part) and/or comprise abbreviated accounts prepared for the company together with such additional information as may be required to be or authorised to be delivered to the registrar under an enactment. <br>
+  </p>
+  <p><strong>Chapter 3<br>
+    Authentication</strong></p>
+  <p><strong>Company authentication</strong> </p>
+  <p>  18.(1)  This rule applies to documents other than those delivered as part of an incorporation package.</p>
+  <p> (2) Except for accounts, a document delivered using software filing must contain by way of authentication the company’s name, registered number and company authentication code in conformity with the XML data schema for that document. </p>
+  <p> (3) Accounts delivered using software filing must contain by way of authentication on behalf of the company’s directors the company’s company authentication code in conformity with the accounts submission.</p>
+  <p> (4) A person authenticating a document in accordance with rule 18.(2) must belong to or act under the specific authority of a person specified by the registrar as being permitted to authenticate that document and the registrar’s requirements in this respect are set out in Schedule 8 which schedule also forms part of the registrar’s technical interface specification. </p>
+  <p><strong>Personal authentication</strong></p>
+  <p>    19.(1)  This rule applies in addition to any other authentication requirements imposed by the remainder of these rules.</p>
+  <p> (2) A document delivered under section 9(4) as part of an incorporation package must be authenticated in accordance with the XML data schema for incorporation: </p>
+  <ul class="noBullet">
+    <li>(a) where the consent relates to the appointment of a natural person, by that person by means of his personal authentication code; or </li>
+    <li>(b) where the consent relates to the appointment of a body corporate, by a natural person, authorised to act on behalf of that body, by means of his personal authentication code. </li>
+  </ul>
+  <p> (3)  For the purposes of section 8(2) authentication is by means of the provision of the personal authentication code of each subscriber to the memorandum. </p>
+  <p> (4) The statement of compliance delivered under section 9(1) as part of an incorporation package must be authenticated in accordance with the XML data schema for incorporation by each subscriber to the memorandum of association by means of his personal authentication code or by the authorised agent of each subscriber by means of that agent’s personal authentication code.</p>
+  <p> (5) A document delivered under section 167 or under section 276 must be authenticated in accordance with the relevant XML data schema:</p>
+  <ul class="noBullet">
+    <li> (a) where the notification relates to the appointment of a natural person, by that person by means of his personal authentication code; or </li>
+    <li> (b) where the notification relates to the appointment of a body corporate, by a natural person, authorised to act on behalf of that body, by means of his personal authentication code. </li>
+  </ul>
+  <p><strong>Chapter 4<br>
+    Delivery and receipt</strong></p>
+  <p>20.(1) To deliver a document or incorporation package using software filing, the presenter or agent must transmit the following through the XML Gateway as one uninterrupted complete transmission:</p>
+  <ul class="noBullet">
+    <li> (a) the authenticated document or incorporation package in the correct form;</li>
+    <li> (b) the XML base schema; and </li>
+    <li> (c) GovTalk envelope.</li>
+  </ul>
+  <p> (2) A document delivered by software filing is received when it is given an envelope number by the registrar. </p>
+  <p>Signed by: <br>
+    Gareth Jones …………..Registrar of Companies for England and Wales<br>
+    Dorothy Blair……………Registrar of Companies for Scotland<br>
+    Helen Shilliday …………Registrar of Companies for Northern Ireland<br>
+    <br>
+    SCHEDULES</p>
+  <p><strong><a name="schedule1"></a>Schedule 1- Provisions conferring powers exercised in making these rules</strong></p>
+  <p>Section 1068(1) to (4) <br>
+    Section 1071(2)<br>
+    Section 1115(1)<br>
+    Section 1117<br>
+    Section 26 of the Welsh Language Act 1993<br>
+    <br>
+    <strong><a name="schedule2"></a>Schedule 2 - Defined terms used in this Volume of the rules and their meanings (rule 4.(1))</strong></p>
+  <p>"abbreviated accounts" has the meaning set out in section 444(3);</p>
+  <p>"accounts" means a copy of such of a company’s annual accounts and reports and/or abbreviated accounts as are required to be or authorised to be delivered to the registrar under an enactment and which are not excluded accounts;</p>
+  <p>"accounts submission" means the XML base schema together with an extensible business reporting language (XBRL) taxonomy in an approved format which is to be used for the purposes of delivering accounts;</p>
+  <p>"accounts template" means any or all of the templates to be used to deliver accounts to the registrar as set out in Schedule 4:</p>
+  <p>"agent" means a person using software filing to deliver an incorporation package to the registrar</p>
+  <p>"annual accounts and reports" has the meaning set out in section 471(2) or section 471(3) as circumstances require; </p>
+  <p>"approved format" means financial information consisting of appropriate elements selected from Part 2 of Schedule 7 which conforms to one of the formats described in Part 1 of Schedule 7;</p>
+  <p>"company" has the meaning given to it in section 1;</p>
+  <p>"company authentication code" means a confidential code agreed by the company and the registrar;</p>
+  <p>"document" means information required to be or authorised to be delivered to the registrar under an enactment;</p>
+  <p>"electronic filing" means webfiling and software filing;</p>
+  <p>"elements" means a piece of information which is identified in Part 2 of Schedule 7;</p>
+  <p>"envelope number" means a unique electronic identifier which is automatically generated by the registrar’s computer systems;</p>
+  <p>"excluded accounts" means revised accounts delivered under section 454 or section 456;</p>
+  <p>"GovTalk envelope" means an XML envelope which is a subset of the UK GovTalk message envelope details of which can be found on the website from time to time;</p>
+  <p>"http" means hypertext transfer protocol which is a communications protocol used to transfer or convey information on the world wide web;</p>
+  <p>"https" is a secure http connection which involves a http interaction over an encrypted secure sockets layer or transport layer security connection;</p>
+  <p>"incorporation package" means such of the documents specified in section 9 as are required to be delivered to the registrar as part of an application to register a company;</p>
+  <p>"personal authentication code" means a code generated in accordance with the specifications of the registrar which is personal to a living individual;</p>
+  <p>"presenter" means a person using electronic filing to deliver a document other than an incorporation package to the registrar;</p>
+  <p>"presenter authentication code" means a confidential code unique to the presenter which is known to the registrar and the presenter;</p>
+  <p>"registered email address" means a current email address registered with the registrar as a contact address for the purpose of communications about electronic filing;</p>
+  <p>"registrar" has the meaning given in section 1060(3);</p>
+  <p>"security code" means a data code issued by the registrar;</p>
+  <p>"template" see rule 7;</p>
+  <p>"software filing" means the facility whereby a document can be delivered to the registrar by using XML to transmit it through the XML gateway;</p>
+  <p>"technical interface specification" means a document which contains detailed technical and operational specifications in respect of the systems required to deliver a document to the registrar using software filing, a copy of which can be obtained as directed on the website from time to time;</p>
+  <p>"webfiling" means the website facility provided by the registrar whereby a document in electronic form can be delivered on-line to the registrar; </p>
+  <p>"website" means the website maintained by the registrar at the URL www.companieshouse.gov.uk;</p>
+  <p>"Welsh company" has the meaning set out in section 88;</p>
+  <p>"XML" means extensible markup language;</p>
+  <p>"XML account" means a credit account required to be maintained with the registrar as a condition of using software filing;</p>
+  <p>"XML base schema" means the XML data schema identified as the XML base schema in Schedule 6;</p>
+  <p>"XML data schema" means any of the registrar’s XML data schemata developed for the purposes of facilitating software filing (see Schedule 6 for representations of their form);</p>
+  <p>"XML gateway" means the registrar’s https service which allows for the exchange of data using XML.</p>
+  <p>    <strong><a name="schedule3"></a>Schedule 3 - Table specifying the documents that may be delivered to the registrar using webfiling and the templates that must be used in respect of them</strong></p>
+  <p><strong><a name="schedule4"></a>Schedule 4 - <a href="registrarsRulesVolume1Schedule4.pdf" target="_blank">Screen prints of the form of templates to be used in webfiling</a></strong></p>
+  <p><strong><a name="schedule5"></a>Schedule 5 - Table specifying the documents that may be delivered to the registrar using software filing and the XML data schemata that must be used in respect of them</strong></p>
+  <p><strong><a name="schedule6"></a>Schedule 6 - <a href="registrarsRulesVolume1Schedule6.pdf" target="_blank">XML data schemata</a></strong></p>
+  <p><strong><a name="schedule7"></a>Schedule 7 - <a href="registrarsRulesVolume1Schedule7.pdf" target="_blank">Accounts</a></strong></p>
+  <p><strong>Part 1: Approved formats for accounts</strong><br>
+      <strong>Part 2:  Table of elements conforming to the XBRL taxonomy required as part of an accounts submission</strong></p>
+  <p> <a name="schedule8"></a><strong>Schedule 8 - category of persons permitted to authenticate documents delivered using software filing</strong></p>
+
+  <div align="center">
+  <a name="volume2"></a>
+  <p class="GBBoxes"><strong>REGISTRAR’S RULES 2009<br>
+  VOLUME 2</strong></p>
+  <p><strong>REQUIREMENTS APPLICABLE TO DOCUMENTS DELIVERED TO THE REGISTRAR IN PAPER FORM</strong><br>
+  </p>  </div>
+  <p><em>Made 29 September 2009<br>
+    Coming into force 1st October 2009</em><br>
+  </p>
+  <p>CONTENTS OF VOLUME 2</p>   
+
+  <p>PART 1<br>
+    GENERAL INTRODUCTORY PROVISIONS</p>
+ 
+  <p>1. Commencement<br>
+    2. Application of this Volume<br>
+    3. Transitional interpretation<br>
+    4. Definitions and general interpretation</p>
+  <p>PART 2<br>
+    MANNER OF DELIVERY AND RECEIPT</p>
+  <p>5. Application and interpretation of Part<br>
+    6. Delivery in paper form<br>
+    7. Delivery and receipt</p>
+  <p>PART 3<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A COMPANY</p>
+  <p>Chapter 1<br>
+    Application <br>
+    8. Application and interpretation of Part</p>
+  <p>Chapter 2<br>
+    Documents in Schedule 2 form delivered under the Companies Act 2006 <br>
+    9. Application of Chapter <br>
+    10. Schedule 2 forms<br>
+    11. Welsh language forms<br>
+    12. Continuation forms<br>
+    13. Reproduction of a Schedule 2 form <br>
+    14. Barcode on some Schedule 2 forms which contain a usual residential address<br>
+    15. Orange coloured forms to be obtained from the registrar<br>
+    16. Use of black ink for text inserted in a Schedule 2 form<br>
+    17. Name and registered number<br>
+    18. Signature<br>
+    19. Print of name of signatory on an application for striking off a company’s name</p>
+  <p>Chapter 3<br>
+    Non-scheduled form documents delivered under the Companies Act 2006<br>
+    20. Application of Chapter <br>
+    21. White paper and black ink<br>
+    22. Name and registered number<br>
+    23. Signature<br>
+    24. Print of name of signatory on some documents relating to addresses</p>
+  <p>Chapter 4<br>
+    Documents delivered under the Companies (Audit, Investigations and Community Enterprise) Act 2004 <br>
+    25. White paper and black ink</p>
+  <p>Chapter 5<br>
+    Documents delivered under the Companies (Cross-Border Mergers) Regulations 2007<br>
+    26. Application of Chapter<br>
+    27. Schedule 3 form<br>
+    28. White paper and black ink for a non-scheduled form document<br>
+    29. Name and registered number on some non-scheduled form documents</p>
+  <p>Chapter 6<br>
+    Documents delivered under the Housing Act 1996<br>
+    30. Application of Chapter<br>
+    31. White paper and black ink<br>
+    32. Name and registered number</p>
+  <p>PART 4<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A SECTION 1040 COMPANY</p>
+  <p>Chapter 1<br>
+    Application<br>
+    33. Application and interpretation of Part <br>
+    34. Definition<br>
+    Chapter 2<br>
+    Documents in Schedule 4 form relating to an application for registration of a section 1040 company<br>
+    35. Application of Chapter<br>
+    36. Schedule 4 forms<br>
+    37. Continuation forms<br>
+    38. Reproduction of a Schedule 4 form<br>
+    39. Barcode [on some Schedule 4 forms which contain a usual residential address<br>
+    40. Orange coloured forms to be obtained from the registrar<br>
+    41. Use of black ink for text inserted in a Schedule 4 form<br>
+    42. Signature</p>
+  <p>Chapter 3<br>
+    Non-scheduled form documents relating to an application for registration of a section 1040 company<br>
+    43. Application of Chapter<br>
+    44. White paper and black ink</p>
+  <p>Chapter 4<br>
+    Documents (other than documents relating to an application for registration of a section 1040 company) delivered under the Companies (Companies Authorised to Register) Regulations 2009 or the Companies Act 2006<br>
+    45. Application of Chapter<br>
+    46. Requirements as to form and authentication</p>
+  <p>PART 5 <br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO AN UNREGISTERED COMPANY</p>
+  <p>Chapter 1<br>
+    Application <br>
+    47. Application and interpretation of Part<br>
+    48. Definition</p>
+  <p>Chapter 2<br>
+    Annual Return<br>
+    49. Application of Chapter<br>
+    50. Schedule 5 forms<br>
+    51. Continuation forms<br>
+    52. Reproduction of Schedule 5 form<br>
+    53. Use of black ink for text inserted in a Schedule 5 form<br>
+    54. Name<br>
+    55. Signature</p>
+  <p>    Chapter 3<br>
+    Documents (other than an annual return) delivered under the Unregistered Companies Regulations 2009<br>
+    56. Application of Chapter<br>
+    57. Definition<br>
+    58. Requirements as to form and authentication</p>
+  <p>Chapter 4<br>
+    Documents delivered under the Companies (Cross-Border Mergers) Regulations 2007<br>
+    59. Application of Chapter<br>
+    60. Schedule 6 forms<br>
+    61. White paper and black ink for a non-scheduled form document<br>
+    62. Name on some non-scheduled form documents</p>
+  <p>PART 6 <br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO AN OVERSEAS COMPANY</p>
+  <p>Chapter 1<br>
+    Application <br>
+    63. Application and interpretation of Part<br>
+    64. Definition</p>
+  <p>    Chapter 2<br>
+    Documents in Schedule 7 form delivered under the Companies Act 2006 <br>
+    65. Application of Chapter <br>
+    66. Schedule 7 forms<br>
+    67. Continuation forms<br>
+    68. Reproduction of a Schedule 7 form <br>
+    69. Barcode on some Schedule 7 forms which contain a usual residential address<br>
+    70. Orange coloured forms to be obtained from the registrar<br>
+    71. Use of black ink for text inserted in a Schedule 7 form<br>
+    72. Name and registered number<br>
+    73. Signature</p>
+  <p>Chapter 3<br>
+    Non-scheduled form documents delivered under the Companies Act 2006<br>
+    74. Application of Chapter <br>
+    75. White paper and black ink<br>
+    76. Name and registered number<br>
+    77. Signature<br>
+    78. Print of name of signatory on some documents relating to addresses</p>
+  <p>PART 7<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A EUROPEAN PUBLIC-LIMITED LIABILITY COMPANY</p>
+  <p>Chapter 1<br>
+    79. Application of Part<br>
+    80. Requirements as to form and authentication</p>
+  <p>PART 8<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A LIMITED LIABILITY PARTNERSHIP</p>
+  <p>Chapter 1<br>
+    Application <br>
+    81. Application of Part<br>
+    82. Interpretation</p>
+  <p>Chapter 2<br>
+    Documents in Schedule 8 form delivered under the Limited Liability Partnerships Act 2000 <br>
+    83. Application of Chapter <br>
+    84. Schedule 8 forms<br>
+    85. Welsh language forms<br>
+    86. Continuation forms<br>
+    87. Reproduction of a Schedule 8 form <br>
+    88. Barcode on some Schedule 8 forms which contain a usual residential address<br>
+    89. Orange coloured forms to be obtained from the registrar<br>
+    90. Use of black ink for text inserted in a Schedule 8 form<br>
+    91. Name and registered number<br>
+    92. Signature<br>
+    93. Print of name of signatory on an application for striking off an LLP’s name</p>
+  <p>Chapter 3<br>
+    Non-scheduled form documents delivered under the Limited Liability Partnerships Act 2000<br>
+    94. Application of Chapter <br>
+    95. White paper and black ink<br>
+    96. Name and registered number<br>
+    97. Signature<br>
+    98. Print of name of signatory on some documents relating to addresses</p>
+  <p>PART 9<br>
+    CERTIFIED COPIES AND VERIFIED COPIES</p>
+  <p>Chapter 1<br>
+    Certified or verified copy of a charge instrument<br>
+    99. Application of Chapter<br>
+    100. Requirements as to certification or verification<br>
+    101. Name and registered number</p>
+  <p>Chapter 2<br>
+    Certified copy of constitution of an overseas company<br>
+    102. Application of Chapter<br>
+    103. Requirements as to certification<br>
+    104. White paper and black ink<br>
+    105. Name and registered number<br>
+  </p>
+  <p>PART 10<br>
+    TRANSLATIONS</p>
+  <p>Chapter 1<br>
+    Interpretation provisions <br>
+    106. Definitions</p>
+  <p>Chapter 2<br>
+    Certification of a translation<br>
+    107. Requirements as to certification</p>
+  <p>Chapter 3<br>
+    Form and authentication of translations<br>
+    108. Requirements as to form of translation<br>
+    109. Translation covering form (translation into a language other than English or Welsh)<br>
+    110. Name and registered number (translation into Welsh)</p>
+  <p>PART 11<br>
+    REPLACEMENT DOCUMENTS</p>
+  <p>111. Requirements applicable to a replacement document<br>
+    112. Replacement covering form</p>
+  <p>PART 12<br>
+    REVOCATION<br>
+    113. Revocation of existing rules</p>
+  <hr>
+  <p>SCHEDULES</p>
+  <p><a name="schedule1"></a>Schedule 1 - Provisions conferring powers exercised in making these rules</p>
+  <p><a name="schedule2"></a>Schedule 2 - Scheduled forms for documents relating to companies delivered under the Companies Act 2006</p>
+  <ul class="noBullet">
+    <li><a href="/forms/registrarsRulesForms.shtml#sch2p1">Part 1 - English forms</a></li>
+    <li><a href="/forms/registrarsRulesForms.shtml#sch2p2">Part 2 - Welsh language forms</a></li>
+    <li><a href="/forms/registrarsRulesForms.shtml#sch2p3">Part 3 - Orange coloured forms</a></li>
+  </ul>
+  <p><a name="schedule3"></a>Schedule 3- Scheduled forms for documents relating to companies delivered under the Companies (Cross-Border Mergers) Regulations 2007 </p>
+  <p><a name="schedule4"></a>Schedule 4- Scheduled forms for documents relating to section 1040 companies </p>
+    <ul class="noBullet">
+    <li><a href="/forms/registrarsRulesForms.shtml#sch5p1">Part 1 - English forms</a></li>
+    <li><a href="/forms/registrarsRulesForms.shtml#sch5p2">Part 2 - Orange coloured forms</a></li>
+  </ul>
+  <p><a name="schedule5"></a>Schedule 5 - Scheduled forms for annual returns relating to unregistered companies    </p>
+
+  <p><a name="schedule6"></a>Schedule 6 - Scheduled forms for documents relating to unregistered companies delivered under the Companies (Cross-Border Mergers) Regulations 2007</p>
+  <p><a name="schedule7"></a>Schedule 7 -Scheduled forms for documents relating to overseas companies </p>
+  <ul>
+    <li>Part 1 - English forms</li>
+    <li> Part 2 - Orange coloured forms</li>
+  </ul>
+  <p><a name="schedule8"></a>Schedule 8 -Scheduled forms for documents relating to limited liability partnerships </p>
+  <ul>
+    <li>Part 1 - English forms</li>
+    <li> Part 2 - Welsh language forms</li>
+    <li> Part 3 - Orange coloured forms</li>
+  </ul>
+  <p><a name="schedule9"></a>Schedule 9 -Translation covering forms</p>
+  <ul>
+    <li>Part 1- companies, section 1040 companies, unregistered companies, overseas companies and European Public-Limited Liability Companies</li>
+    <li> Part 2 – limited liability partnerships </li>
+  </ul>
+  <p><a name="schedule10"></a>Schedule 10 - Replacement covering forms</p>
+  <ul>
+    <li>Part 1 - companies, section 1040 companies,[unregistered companies], overseas companies and European Public-Limited Liability Companies </li>
+    <li> Part 2 – limited liability partnerships</li>
+    <li> Part 3 – European Economic Interest Groupings</li>
+  </ul>      
+  The registrar of companies makes the following rules in exercise of the powers conferred by the enactments specified in Schedule 1 to this Volume of the rules<strong>.</strong>
+  <p><strong>PART 1</strong><br>
+      <strong>GENERAL INTRODUCTORY PROVISIONS </strong></p>
+  <p><strong>Commencement </strong><br>
+    1. The rules in this Volume shall come into force on 1st October 2009. </p>
+  <p><strong>Application of this Volume</strong><br>
+    2. (1) The rules in this Volume apply to the documents specified in these rules that are delivered to the registrar in paper form on or after 1st October 2009 but not to a document delivered in pursuance of an obligation arising before that date. <br>
+    (2) Other Volumes of the registrar’s rules 2009 cover the following matters-<br>
+    (a) Requirements applicable to documents delivered to the registrar in electronic form (Volume 1);<br>
+    (b) Requirements applicable to a document or part of a document delivered to the registrar on a CD-ROM or DVD-ROM (Volume 3);<br>
+    (c) Requirements applicable to instructions for the informal correction of a document delivered to the registrar  (Volume 4);<br>
+    (d) Authentication of a certificate sent by the registrar by electronic means (Volume 5).</p>
+  <p><strong>Transitional interpretation</strong> <br>
+    3. (1) Except as provided in paragraph (2), any reference in these rules to a document or particular type of document (such as particulars, copy consent, translation, certified copy or verified copy) delivered to the registrar shall be construed as a reference to any such document delivered to the registrar on or after 1st October 2009 other than a document delivered in pursuance of an obligation arising before that date.<br>
+    (2) This rule does not apply to Part 12 of these rules.</p>
+  <p><strong>Definitions and general interpretation</strong> <br>
+    4. (1) In this Volume of the rules- </p>
+  <p>“the 2006 Act” means the Companies Act 2006;</p>
+  <p>“Address Regulations” means the Companies (Disclosure of Address) Regulations 2009;</p>
+  <p>“CIC manager”, in relation to a company that is a community interest company, means a manager appointed pursuant to section 47 of the Companies (Audit, Investigations and Community Enterprise) Act 2004;</p>
+  <p>“company” has the meaning given to it in section 1 of the 2006 Act;</p>
+  <p> “credit or financial institution” means a credit or financial institution to which section 1050 of the 2006 Act applies; </p>
+  <p>“designated member”, in relation to an LLP, shall be construed in accordance with section 8 of the Limited Liability Partnerships Act 2000;</p>
+  <p>“the EC Regulation” means the Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company;</p>
+  <p>“excluded document” means a document delivered to the registrar under-<br>
+    (a) section 466 of the Companies Act 1985 or that section as applied to LLPs and section 1040 companies by the Limited Liability Partnerships Regulations 2001 and the Companies (Companies Authorised to Register) Regulations 2009 respectively,<br>
+    (b) the Insolvency Act 1986 or any section of that Act that is applied to LLPs by the Limited Liability Partnerships Regulations 2001,  <br>
+    (c) the Insolvency (Northern Ireland) Order 1989 or any provision of that Order that is applied to LLPs by the Limited Liability Partnerships Regulations (Northern Ireland) 2004 or section 14 of the Limited Liability Partnerships Act 2000,<br>
+    (d) the European Public Limited-Liability Company Regulations 2004 other than a document delivered under any provision in those Regulations that applies to SEs a section of the 2006 Act or subordinate legislation made under the 2006 Act,,<br>
+    (e) the European Economic Interest Grouping Regulations 1989,<br>
+    (f) the Limited Partnerships Act 1907, or<br>
+    (g) the Newspaper Libel and Registration Act 1881;</p>
+  <p> “LLP” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000;</p>
+  <p>“member”, -<br>
+    (a) in relation to an SE, means a member of the management organ, supervisory organ or administrative organ, and<br>
+    (b) in relation to an LLP, shall be construed in accordance with section 4 of the Limited Liability Partnerships Act 2000;</p>
+  <p>“non-scheduled form document” means a document or part of a document which is not required by these rules to be delivered to the registrar in scheduled form;</p>
+  <p>“overseas company” has the meaning given to it by section 1044 of the 2006 Act; </p>
+  <p>“permanent representative”, in relation to an overseas company, means a person authorised to represent an overseas company as a permanent representative of the overseas company in respect of a UK establishment </p>
+  <p>“person authorised” means a person authorised by the directors of a company in accordance with section 270(3)(b) or section 274 of the 2006 Act; </p>
+  <p>“registered number” has the following meaning <br>
+    (a) (in relation to a company or an overseas company) the meaning given to it in section 1066 of the 2006 Act, and<br>
+    (b) (in relation to a section 1040 company) the meaning given to it in section 1066 of the 2006 Act as applied to a registered section 1040 companies by regulation 18 of the Companies (Companies Authorised to Register) Regulations 2009,<br>
+    (c) (in relation to an SE) the meaning given to it in section 1066 of the 2006 Act as applied to SEs by regulation 14 of the European Public Limited-Liability Company Regulations 2004 <br>
+    (d) (in relation to an LLP) the meaning given to it in regulation 62 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009;and<br>
+    (e) (in relation to a European Economic Interest Grouping) the meaning given to it in section 1066 of the 2006 Act as applied to a European Economic Interest Grouping by regulation [18] of the European Economic Interest Grouping Regulations 1989</p>
+  <p>“registrar” has the meaning given to it by section 1060 of the 2006 Act; </p>
+  <p> “Registrar Regulations” means the Registrar of Companies and Applications for Striking Off Regulations 2009;</p>
+  <p>“replacement document” means a document delivered to the registrar which is a replacement to which section 1076(1) of the 2006 Act applies other than any such document which </p>
+  <ul>
+    <li>relates to a credit or financial institution that is not an overseas company, or ,</li>
+    <li>an excluded document;</li>
+  </ul>
+  <p>“scheduled form” means a Schedule 2 form, a Schedule 3 form, a Schedule 4 form, a Schedule 5 form, a Schedule 6 form, a Schedule 7 form or a Schedule 8 form;</p>
+  <p>“Schedule 2 form” means a form in Schedule 2;</p>
+  <p>“Schedule 3 form” means a form in Schedule 3;</p>
+  <p>“Schedule 4 form” means a form in Schedule 4;</p>
+  <p>“Schedule 5 form” means a form in Schedule 5;</p>
+  <p>“Schedule 6 form” means a form in Schedule 6;</p>
+  <p>“Schedule 7 form” means a form in Schedule 7;</p>
+  <p>“Schedule 8 form” means a form in Schedule 8;</p>
+  <p>“SE” means a European Public-Limited Liability Company (or Societas Europaea) which is within the meaning of the EC Regulation and is to be, or is, registered in the UK;</p>
+  <p>“section 1040 company” means any of the following companies-</p>
+  <ul>
+    <li>a company authorised by section 1040 of the 2006 Act to register under that section or a company registered under that section, </li>
+    <li> a company registered under section 680 of the Companies Act 1985, or</li>
+    <li>a company registered under Article 629 of the Companies (Northern   Ireland) Order 1986;</li>
+  </ul>
+  <p>“unregistered company” means a body to which section 1043 of the 2006 Act applies.</p>
+  <p>(2) In this Volume of the rules -<br>
+    (a) any reference to “these rules” is a reference to the rules in this Volume of the registrar’s rules 2009 and any reference to a numbered rule, Chapter, Part or Schedule is to the rule, Chapter, Part or Schedule so numbered in this Volume; <br>
+    (b) any reference to an Act includes a reference to any subordinate legislation made under that Act. </p>
+  <p><strong>PART 2</strong><br>
+      <strong>MANNER OF DELIVERY AND RECEIPT</strong></p>
+  <p><strong>Application and interpretation of Part</strong><br>
+    5. This Part applies to any document delivered to the registrar other than an excluded document. This Part shall be construed accordingly.</p>
+  <p><strong>Delivery in paper form</strong><br>
+    6. (1) A document may be delivered to the registrar in paper form.<br>
+    This is subject to the following proviso.<br>
+    (2) Where a PROOF agreement is in force for a company or other body, a PROOF document which relates to that company or other body can not be delivered in paper form except as provided for in the PROOF agreement.<br>
+    In this paragraph -<br>
+    “PROOF agreement” means an agreement for delivery by electronic means under section 1070 of the 2006 Act; <br>
+    “PROOF document” means a document that is included in the terms of a PROOF agreement.</p>
+  <p><strong>Delivery and receipt</strong><br>
+    7. (1) In this rule a reference to a numbered column is a reference to a column in the table set out in paragraph (5).<br>
+    (2) A document can be delivered to the registrar by one of the means of delivery specified in column 1.<br>
+    (3) The addresses applicable to each means of delivery are set out in column 2.<br>
+    (4) A document is to be regarded as received by the registrar when it satisfies the criterion in column 3 which corresponds to the means of delivery and delivery address used for delivery of that document.<br>
+    (5) In the following table-<br>
+    “Document Exchange” means the document exchange service provided by DX Network Services Ltd (company number 5023914) or The Legal Post (Scotland) Ltd (company number SC210146);<br>
+    “opening hours”, in relation to an address specified in the table, means the opening hours of Companies House at that address as specified from time to time on the website companieshouse.gov.uk</p>
+
+  <table cellpadding="1" class="dataTable">
+      <tr>
+        <td valign="top" style="width:25%;"><strong>(1) Means of  delivery</strong></td>
+        <td valign="top" style="width:25%;"><strong>(2) Address</strong></td>
+        <td valign="top" style="width:50%;"><strong>(3) Receipt criteria</strong></td>
+      <tr class="formnum">
+        <td rowspan="5" valign="top">By post</td>
+        <td valign="top">Companies House<br>
+Crown Way<br>
+Cardiff<br>
+Wales<br>
+CF14 3UZ</td>
+        <td valign="top">When handed over at the reception desk or at the loading bay</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+4th Floor<br>
+Edinburgh Quay 2<br>
+139 Fountainbridge<br>
+Edinburgh <br>
+EH3 9FF </td>
+        <td valign="top" class="light_blue">When handed over at the Companies House reception desk on the 4th Floor</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+1st Floor<br>
+Waterfront Plaza<br>
+8 Laganbank Road<br>
+Belfast<br>
+Northern Ireland<br>
+BT1 3BS</td>
+        <td valign="top" class="light_blue">When handed over at the Companies House reception desk on the 1st Floor</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+21 Bloomsbury Street<br>
+London<br>
+WC1B 3XD</td>
+        <td valign="top" class="light_blue">When handed over at the Companies House reception desk (not the main reception desk at 21 Bloomsbury Street)</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">The Registrar of Companies<br>
+PO Box 4082<br>
+Cardiff<br>
+CF14 3WE</td>
+        <td valign="top" class="light_blue">When handed over at the reception desk or at the loading bay</td>
+      <tr class="formnum">
+        <td rowspan="7" valign="top">Delivery by hand</td>
+        <td rowspan="2" valign="top" class="light_blue">Companies House<br>
+Crown Way<br>
+Cardiff<br>
+Wales<br>
+CF14 3UZ</td>
+        <td valign="top" class="light_blue">For a delivery at any time - when handed over at the reception desk</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">For a delivery within opening hours - when handed over at a loading bay</td>
+      <tr class="formnum">
+        <td rowspan="2" valign="top" class="light_blue">Companies House<br>
+          Fourth floor<br>
+          Edinburgh Quay 2<br>
+          139 Fountainbridge<br>
+          Edinburgh <br>
+          Scotland<br>
+          EH3 9FF          </td>
+        <td valign="top" class="light_blue">For a delivery within opening hours-when handed over at Companies House reception desk on the 4th Floor</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">For a delivery outside opening hours-when put through Companies House letterbox in the wall of the building at 139 Fountainbridge (the letterbox is marked "Companies House" and is in the wall that is next to the access road to the car park).</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+          1st Floor <br>
+          Waterfront Plaza<br>
+          8 Laganbank Road<br>
+          Belfast <br>
+          Northern Ireland
+          BT1 3BS</td>
+        <td valign="top" class="light_blue">For a delivery within opening hours -when handed over at Companies House reception desk on the 1st Floor</td>
+      <tr class="formnum">
+        <td rowspan="2" valign="top" class="light_blue">Companies House <br>
+          21 Bloomsbury Street London<br>
+          WC1B 3XD</td>
+        <td valign="top" class="light_blue">For a delivery within opening hours- when handed over at Companies House reception desk (not the main reception desk at 21 Bloomsbury   Street)</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">For a delivery outside opening hours - when put through the letterbox at the entrance to 21 Bloomsbury Street</td>
+      <tr class="formnum">
+        <td rowspan="4" valign="top">Document Exchange</td>
+        <td valign="top" class="light_blue">Companies House<br>
+          DX 33050<br>
+          Cardiff</td>
+        <td valign="top" class="light_blue">When handed over at a loading bay at Companies House, Crown   Way, Cardiff.</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House ED235<br>
+          Edinburgh 1</td>
+        <td valign="top" class="light_blue">When handed over at Companies House reception desk on the 4th Floor,
+          Edinburgh Quay 2, 139 Fountainbridge, Edinburgh</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+          LP- 4 <br>
+          Edinburgh 2</td>
+        <td valign="top" class="light_blue">When handed over at Companies House reception desk on the 4th Floor,<br>
+          Edinburgh Quay 2, 139 Fountainbridge, Edinburgh.</td>
+      <tr class="formnum">
+        <td valign="top" class="light_blue">Companies House<br>
+          DX 481NR<br>
+          Belfast 1</td>
+        <td valign="top" class="light_blue">When handed over at Companies House reception desk on the 1st Floor, Waterfront Plaza,<br>
+          8   Laganbank Road, Belfast.</td>
+      </table>
+    <br>
+
+  <p><strong>PART 3<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A COMPANY </strong></p>
+  <p><strong>Chapter 1<br>
+    Application</strong></p>
+  <p><strong>Application and interpretation of Part</strong> </p>
+  <p>  8. (1) This Part imposes requirements as to the form and authentication of documents.</p>
+  <p>(2) This Part applies to specified documents delivered to the registrar which relate to a company and this Part shall be construed accordingly. Parts 4, 5, 6 and 7 apply to documents which relate to a section 1040 company, an unregistered company, overseas company and an SE respectively.</p>
+  <p>    (3) Parts 9 and 10 impose requirements on certified copies and verified copies and translations respectively. </p>
+  <p> (4) For a replacement document, Part 11 imposes requirements that are in addition to the requirements imposed by this Part.</p>
+  <p><strong>Chapter 2</strong><br>
+   <strong> Documents in Schedule 2 form delivered under the Companies Act 2006</strong> </p>
+  <p><strong>Application of Chapter</strong> </p>
+  <p>  9. This Chapter imposes requirements as to the use of a Schedule 2 form for specified documents delivered to the registrar under the 2006 Act. </p>
+  <p><strong>Schedule 2 forms</strong> </p>
+  <p>  10. (1) The Schedule 2 forms are to be used for documents delivered to the registrar under the legislative provisions which are referred to on those forms.</p>
+  <p> (2) For some legislative provisions there is more than one Schedule 2 form. The top of a Schedule 2 form refers to the circumstances in which it is to be used.</p>
+  <p><strong>Welsh language forms </strong></p>
+  <p>    11. (1) Each form in Part 2 of Schedule 2 is partly in Welsh and partly in English and can be used instead of a form in Part 1 of Schedule 2 where the form relates to a Welsh company.</p>
+  <p>    (2) In this rule-<br>
+  "Welsh company" has the meaning given to it in section 88 of the 2006 Act.</p>
+  <p><strong>Continuation forms</strong></p>
+  <p> 12. (1) Some of the Schedule 2 forms are continuation forms for other Schedule 2 forms. The top of a continuation form refers to "continuation page".</p>
+  <p> (2) A continuation form is to be used to continue the information inserted in a Schedule 2 form in the circumstances indicated on that Schedule 2 form. Where there is more than one continuation form for a particular Schedule 2 form the type of information to be continued determines which continuation form is to be used.<br>
+    <br>
+    <strong>Reproduction of a Schedule 2 form</strong></p>
+  <p>    13 (1) Subject to rule 15, a document for which a Schedule 2 form must be used must be reproduced as set out in Schedule 2 as to its text, layout and format and must be in black ink.</p>
+  <p> (2) Subject to rule 15, a Schedule 2 form must be on paper that complies with the following requirements- </p>
+  <ul>
+    <li>Size: A4 </li>
+    <li> Colour: White</li>
+    <li> Orientation:	Portrait Shorter edge across the top)</li>
+  </ul>
+  <p><strong>Barcode on some Schedule 2 forms which contain a usual residential address </strong></p>
+  <p>    14. (1) This rule applies to a form in Part 1 or Part 2 of Schedule 2 which is required by these rules to be used to deliver a document which is required by the 2006 Act to contain the usual residential address of a director.</p>
+  <p> (2) A Schedule 2 form to which this rule applies must contain the barcode indicated on that form in Schedule 2.</p>
+  <p> (3) A person reproducing that form for delivery to the registrar can obtain an image of the barcode from the registrar.</p>
+  <p> (4) The barcode must be included in the Schedule 2 form in the format supplied by the registrar including it being in black ink, 13.5 mm high and 70.5 mm wide.</p>
+  <p> (5) The barcode must be set out in the location indicated on the Schedule 2 form being as follows-</p>
+  <ul class="noBullet">
+    <li> (a) 41mm from the left edge of the page,</li>
+    <li>(b) 47.5mm from the top edge of the page,</li>
+    <li>(c) 236mm from the bottom of the page; and </li>
+    <li>(d) 98.55mm from the right edge of the page.</li>
+  </ul>
+  <p><strong>Orange coloured forms to be obtained from the registrar</strong></p>
+  <p>    15. A document for which a form is provided in Part 3 of Schedule 2 must be delivered to the registrar on a form obtained from the registrar because the form must be on orange coloured paper. </p>
+  <p><strong>Use of black ink for text inserted in a Schedule 2 form</strong></p>
+  <p>    16. Text inserted in a Schedule 2 form must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Name and registered number</strong></p>
+  <p>    17. (1) A document specified in the following table (being one for which these rules require a Schedule 2 form to be used) is required by legislation to contain the proposed name or name and registered number of the company or proposed company to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>What is required by legislation?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Registration of a company</td>
+      <tr class="formnum">
+      <td valign="top">Application for registration of a company</td>
+      <td valign="top">Section 9(2)</td>
+      <td valign="top">Proposed name</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+      <tr class="formnum">
+      <td valign="top">Application to registrar to refrain from disclosing information to a credit reference agency (application by a company)</td>
+      <td valign="top" class="light_blue">Section 243(4) and regulation 6 of the Address Regulations </td>
+      <td valign="top" class="light_blue"><p>Name and registered number</td>
+    <tr class="formnum">
+      <td valign="top">Application to registrar to refrain from disclosing information to a credit reference agency(application by a subscriber to a memorandum of association)</td>
+      <td valign="top" class="light_blue">Section 243(4) and regulation 7 of the Address Regulations</td>
+      <td valign="top" class="light_blue">Name of the proposed company</td>
+    <tr class="formnum">
+      <td valign="top">Application to registrar to make address unavailable for public inspection (application by a company)</td>
+      <td valign="top" class="light_blue">Section 1088 and regulation 10 of the  Address Regulations </td>
+      <td valign="top" class="light_blue">Name and registered number</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+      <tr class="formnum">
+      <td valign="top">Application for rectification of the register (application by a company)</td>
+      <td valign="top" class="light_blue">Section 1095 and regulation 4 of the Registrar Regulations</td>
+      <td valign="top" class="light_blue">Name</td>
+    </table>
+  <p>(2) All other Schedule 2 forms must contain the name and registered number of the company to which the Schedule 2 form relates. </p>
+  <p> (3) The name and registered number must be inserted in black typescript or handwritten in black ink in the name and number boxes on the Schedule 2 form. </p>
+  <p><strong>Signature</strong> </p>
+  <p>  18. (1) A Schedule 2 form must be signed by the person or persons indicated on the form. The signature must be applied to the Schedule 2 form where indicated on the form. </p>
+  <p> (2) Where a Schedule 2 form is delivered to the registrar under section 1025(5)(a) of the 2006 Act (requirements for administrative restoration) a former director or former member is required to sign the form instead of the person or persons indicated on the form.</p>
+  <p><strong>Print of name of signatory on an application for striking off a company’s name</strong></p>
+  <p>    19. (1) This rule applies to an application for striking a company’s name off the register which is delivered to the registrar under section 1003 of the 2006 Act (Form DS 01 in Schedule 2).</p>
+  <p> (2) The name of each person who signs the Schedule 2 form must be printed where indicated on the form. That printed name must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Chapter 3<br>
+    Non-scheduled form documents delivered under the Companies Act 2006</strong></p>
+  <p><strong>Application of Chapter</strong></p>
+  <p>    20. (1) Except as provided in paragraph (2), this Chapter applies to a non-scheduled form document delivered to the registrar under the 2006 Act. </p>
+  <p> (2) This Chapter does not apply to certified copies, verified copies or translations. Parts 9 and 10 impose requirements on certified copies and verified copies and translations respectively.</p>
+  <p><strong>White paper and black ink</strong></p>
+  <p>    21. (1) Except as provided in paragraph (2),  a document to which this Chapter applies must be on white paper and the text of the document must be in black typescript or handwritten in black ink. </p>
+  <p> (2) This rule does not apply to the following documents-</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Court order or direction</td>
+    <tr class="formnum">
+      <td valign="top">Court order (but not the copy of the court order delivered under section 649(1))(reduction of share capital)</td>
+      <td valign="top">Section 649(1)</td>
+      <tr class="formnum">
+        <td valign="top">Direction from the court dispensing with the need for a statement by the creditor</td>
+        <td valign="top">Section 887(2)</td>
+      <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Charge documents</td>
+    <tr class="formnum">
+      <td valign="top">Instrument by which charge is created or evidenced</td>
+      <td valign="top" class="light_blue">Sections 860(1)</td>
+      <tr class="formnum">
+      <td valign="top">Deed containing the charge or one of the debentures of the series</td>
+      <td valign="top" class="light_blue">Section 863(1)</td>
+      <tr class="formnum">
+      <td valign="top">Copy of the deed containing the charge or of one of the debentures of the series</td>
+      <td valign="top" class="light_blue">Section 882(1)</td>
+      <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+    <tr class="formnum">
+      <td valign="top">Evidence relating to an application under section 243(4) of the 2006 Act</td>
+      <td valign="top" class="light_blue">Regulation 15(1)(a) of the  Address Regulations </td>
+      <tr class="formnum">
+        <td valign="top">Notification that a person wishes a decision under section 243 to cease to apply</td>
+        <td valign="top" class="light_blue">Regulation 15(1)(a) of the  Address Regulations </td>
+      <tr class="formnum">
+        <td valign="top">Representations as to why a revocation decision should not be made</td>
+        <td valign="top" class="light_blue">Regulation 16(4) of the  Address Regulations </td>
+      <tr class="formnum">
+        <td valign="top">Evidence relating to an application under section 1088 of the 2006 Act</td>
+        <td valign="top" class="light_blue">Regulation 9(3)(b), 10(3)(b), 11(3)(b) and 12(1) of the Address Regulations </td>
+      </table>
+  <p><strong>Name and registered number</strong></p>
+  <p>    22. (1) A document specified in the following table is required by legislation to contain the name or name and number of the company to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>What is required by legislation?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Memorandum of association</td>
+    <tr class="formnum">
+      <td valign="top">Memorandum of association </td>
+      <td valign="top">Section 9(1)</td>
+      <td valign="top">Name</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Form of assent</td>
+    <tr class="formnum">
+      <td valign="top">Form of assent</td>
+      <td valign="top" class="light_blue">Section 103(2)(a) or section 110(2)(a) </td>
+      <td valign="top" class="light_blue"><p>Name and  number</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+    <tr class="formnum">
+      <td valign="top">Objection to an  application for rectification of the register (objection made by the company)</td>
+      <td valign="top" class="light_blue">Section 1095  and regulation 5(9) of the Registrar Regulations</td>
+      <td valign="top" class="light_blue">Name</td>
+    </table>
+  <p>(2) A document which is specified in the following table must contain the name and registered number of the company to which the document relates.</p>
+
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Constitution</td>
+    <tr class="formnum">
+      <td valign="top">Copy of resolution or agreement </td>
+      <td valign="top">Section 30(1), 94(2)(a), 100(2)(a), 106(2)(a), 602(1), 664(4)(a)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of amended articles </td>
+      <td valign="top">Section 26(1)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Orders charging land: Northern Ireland</td>
+    <tr class="formnum">
+      <td valign="top">Copies of an order (made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981 ) or of any notice (under Article 48 of the 1981 Order)</td>
+      <td valign="top" class="light_blue">Sections 868(1)</td>
+    <tr class="formnum">
+      <td valign="top">Copies of an order made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981</td>
+      <td valign="top" class="light_blue">Section 868(2)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Names</td>
+    <tr class="formnum">
+      <td valign="top">Copy of any response received from a government department or other body (in connection with a change in a company’s name)</td>
+      <td valign="top" class="light_blue">Section 56(4)(b) </td>
+    <tr class="formnum">
+      <td valign="top">Copy of the written statement consenting to the same name but only when delivered in connection with a change in a company’s name</td>
+      <td valign="top" class="light_blue">Regulation 8(2)(c) of the Company and Business Names (Miscellaneous Provisions) Regulations 2009</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Auditor ceasing to hold office information</td>
+      <tr class="formnum">
+      <td valign="top">Copy of notice of resignation of auditor</td>
+      <td valign="top" class="light_blue">Section 517(1)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of statement by auditor under section 520 of the circumstances connected with his ceasing to hold office</td>
+      <td valign="top" class="light_blue">Section 521(1) and (2)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Second company audit</td>
+      <tr class="formnum">
+      <td valign="top">Copy of report under section 1248(2)(b) on whether a second audit is needed</td>
+      <td valign="top" class="light_blue">Section 1248(6)(a)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Valuer’s report</td>
+      <tr class="formnum">
+      <td valign="top">Copy of valuer’s report</td>
+      <td valign="top" class="light_blue">Section 602(1)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Statements by directors</td>
+      <tr class="formnum">
+      <td valign="top">Statement by the directors in connection with redenomination</td>
+      <td valign="top" class="light_blue">Section 627(6)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of solvency statement</td>
+      <td valign="top" class="light_blue">Section 644(1)</td>
+    <tr class="formnum">
+      <td valign="top">Statement by the directors about the solvency statement</td>
+      <td valign="top">Section 644(5)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of directors’ statement and auditor’s report required by section 714 of the 2006 Act</td>
+      <td valign="top" class="light_blue">Section 719(4)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Draft terms</td>
+      <tr class="formnum">
+      <td valign="top">Copy of draft terms (merger)</td>
+      <td valign="top">Section 906(1)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of draft terms (division)</td>
+      <td valign="top" class="light_blue">Section 921(1)</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Dissolved company</td>
+      <tr class="formnum">
+      <td valign="top">Notice of disclaimer of property vesting bona vacantia</td>
+      <td valign="top" class="light_blue">Section 1013(6)</td>
+    <tr class="formnum">
+      <td valign="top">Written consent by Crown representative (administrative restoration of company)</td>
+      <td valign="top" class="light_blue">Section 1025(3)</td>
+    </table>
+  <p>(3) A document which is specified in the following table must contain the name and registered number of the company to which the document relates. This is subject to the proviso in column (3) of the table.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>(1) Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>(2) Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>(3) Is name and registered number required?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounts and related documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of balance sheet or abbreviated accounts and (where applicable) copy of profit and loss account, copy of directors’ report, directors remuneration report and copy of auditor’s report</td>
+      <td valign="top">Section 441(1) </td>
+      <td valign="top">Yes but only required in one of the documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of annual accounts in euros</td>
+      <td valign="top">Section 469(2)  </td>
+      <td valign="top">Yes but only required in one of the documents comprised in the annual accounts</td>
+    <tr class="formnum">
+      <td valign="top">Copy of interim accounts</td>
+      <td valign="top">Section 838(6) </td>
+      <td valign="top">Yes but only required in one of the documents comprised in the interim accounts</td>
+    <tr class="formnum">
+      <td valign="top">Copy of initial accounts, auditor’s report and (where applicable) any auditor’s statement</td>
+      <td valign="top">Section 839(7) </td>
+      <td valign="top">Yes but only required in one of the documents </td>
+    <tr class="formnum">
+      <td valign="top">Revised accounts or revised report (as those terms are defined in the Companies (Revision of Defective Accounts and Reports) Regulations 2008  and (where applicable) copy of the auditor’s report</td>
+      <td valign="top">Regulation 14(2) of the Companies (Revision of Defective Accounts and Reports) Regulations 2008 </td>
+      <td valign="top">Yes but where more than one of those documents is delivered at the same time under regulation 14(2) the name and registered number is only required in one of them</td>
+    </table>
+  <p>(4) A name or registered number which is required by paragraph (2) or paragraph (3) of this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+  <p><strong>Signature</strong></p>
+  <p>    23. (1) Subject to paragraph (2), a document which is specified in the following table must be signed by a person or persons specified for that document in the table. The signature must be applied to the document in a prominent position unless otherwise specified in the last column of the table. </p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:25%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:25%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:25%;"><strong>Person or persons who must sign</strong></td>
+      <td valign="top" style="width:25%;"><strong>Location of signature</strong></td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounts and related documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of balance sheet</td>
+      <td valign="top">Section 94(2)(c)</td>
+      <td valign="top">Director </td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Copy of balance sheet, abbreviated accounts or annual accounts</td>
+      <td valign="top">Section 441(1)</td>
+      <td valign="top">Director</td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Copy of annual accounts</td>
+      <td valign="top">Section 469(2) </td>
+      <td valign="top">Director</td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Interim accounts</td>
+      <td valign="top">Section 838(6) </td>
+      <td valign="top">Director</td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Initial accounts</td>
+      <td valign="top">Section 839(7) </td>
+      <td valign="top">Director</td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Revised accounts or revised report (as those terms are defined in the Companies (Revision of Defective Accounts and Reports) Regulations 2008 and (where applicable) copy of the auditor’s report</td>
+      <td valign="top">Regulation 14(2) of the Companies (Revision of Defective Accounts and Reports) Regulations 2008</td>
+      <td valign="top">Director</td>
+      <td valign="top">In a prominent position on the document but where more than one of those documents is delivered at the same time under regulation 14(2) signature is only required on one of them</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+      <tr class="formnum">
+      <td valign="top">Notification that a person wishes a decision under section 243 to cease to apply</td>
+      <td valign="top">Regulation 15(1)(a) of the  Address Regulations </td>
+      <td valign="top">The section 243 beneficiary (as defined in  the Address Regulations) or their personal representative</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Representations  from a company as to why a revocation decision should not be made (where the application under section 243 or section 1088 was made by a company)</td>
+      <td valign="top">Regulation 16(4) of the  Address Regulations </td>
+      <td valign="top">The section 243 beneficiary  (as defined for the purposes of regulation 16 of  the  Address Regulations) or  the section 1088 beneficiary (as defined in the Address Regulations)  </td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Regulation 15(1)(a) of the  Address Regulations </td>
+      <td valign="top">The section 243 beneficiary (as defined in  the Address Regulations) or their personal representative</td>
+      <td valign="top">In a prominent position on the document</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Statements by directors</td>
+      <tr class="formnum">
+      <td valign="top">Copy of solvency statement</td>
+      <td valign="top">Section 644(1)</td>
+      <td valign="top">Director, secretary, person authorised or CIC manager</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Copy of directors’ statement</td>
+      <td valign="top">Section 644(5) </td>
+      <td valign="top">All directors or a majority of the directors</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Copy of directors’ statement</td>
+      <td valign="top">Section 719(4)</td>
+      <td valign="top">Director, secretary, person authorised or CIC manager</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+      <tr class="formnum">
+      <td valign="top">Objection made by a company</td>
+      <td valign="top">Regulation 5(9) of the Registrar Regulations </td>
+      <td valign="top">Director, secretary, person authorised, administrator, administrative receiver, receiver manager, receiver, liquidator; or if applicable, a CIC manager, receiver and manager (appointed under section 18 of the Charities Act 1993) or a judicial factor </td>
+      <td valign="top">Regulation 5(9) of the Registrar  Regulations </td>
+    <tr class="formnum">
+      <td valign="top">Regulation 5(9) of the Registrar  Regulations </td>
+      <td valign="top">Regulation 5(9) of the Registrar  Regulations </td>
+      <td valign="top">In a prominent position on the document</td>
+      <td valign="top">In a prominent position on the document</td>
+    </table>
+  <p>(2) Where a document specified in the table in paragraph (1) is delivered to the registrar under section 1025(5)(a) of the 2006 Act (requirements for administrative restoration) a former director or former member is required to sign the document instead of the person or persons specified in the table.</p>
+  <p> (3) The following documents are required by the 2006 Act to be authenticated by particular persons and the registrar requires that authentication to be by way of signature-<br>
+    Memorandum of association (delivered to the registrar under section 9(1) of the 2006 Act); and
+    Form of assent (delivered to the registrar under section 103(2)(a) or section 110(2)(a) of the 2006 Act).</p>
+  <p><strong>Print of name of signatory on some documents relating to addresses</strong></p>
+  <p>24. (1) This rule applies to the following documents delivered to the registrar under the Address Regulations -</p>
+  <ul class="noBullet">
+    <li> (a) Notification that a person wishes a decision under section 243 of the 2006 Act to cease to apply (delivered under regulation 15(1)(a)), and</li>
+    <li> (b) Representations from a person who is not a company as to why a revocation decision should not be made (delivered under Regulation 16(4)).</li>
+  </ul>
+  <p> (2) The name of the person who signs a document to which this rule applies must be printed on the document. That printed name must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Chapter 4<br>
+    Documents delivered under the Companies (Audit, Investigations and Community Enterprise) Act 2004 <br>
+  </strong></p>
+  <p><strong>White paper and black ink</strong></p>
+  <p>    25. (1) This rule applies to a document delivered to the registrar under the Companies (Audit, Investigations and Community Enterprise) Act 2004. </p>
+  <p> (2) A document to which this Rule applies must be on white paper and the text of that document must be in black typescript or handwritten in black. </p>
+  <p><strong>Chapter 5<br>
+    Documents delivered under the Companies (Cross-Border Mergers) Regulations 2007</strong></p>
+  <p><strong>Application of Chapter</strong></p>
+  <p>    26. (1) This Chapter applies to a document delivered to the registrar under the Companies (Cross-Border Mergers) Regulations 2007 .</p>
+  <p> (2) This Chapter does not apply to translations. Part 10 imposes requirements on translations.</p>
+  <p><strong>Schedule 3 forms</strong></p>
+  <p>    27. (1) The Schedule 3 forms are to be used to deliver to the registrar the particulars required by regulation 12(1) of the Companies (Cross-Border Mergers) Regulations 2007 being the particulars of the date, time and place of every meeting summoned under regulation 11 and the particulars referred to in regulation 12(c). </p>
+  <p> (2) One of the Schedule 3 forms is a continuation form for the other Schedule 3 form. The top of the continuation form refers to "continuation page". The continuation form is to be used to continue the information inserted in the other Schedule 3 form in the circumstances indicated on that Schedule 3 form. </p>
+  <p> (3) A document for which a Schedule 3 form must be used must be reproduced as set out in Schedule 3 as to its text, layout and format and must be in black ink.</p>
+  <p> (4) A Schedule 3 form must be on paper that complies with the following requirements-</p>
+  <ul>
+    <li>Size:	A4 </li>
+    <li> Colour:	White</li>
+    <li> Orientation:	Portrait   (Shorter edge across the top)</li>
+  </ul>
+  <p>(5) Text inserted in a Schedule 3 form must be in black typescript or handwritten in black ink.</p>
+  <p> (6) A Schedule 3 form must be signed by a director of the merging company. The signature must be applied to the Schedule 3 form where indicated on the scheduled form.</p>
+  <p> (7) The particulars referred to in regulation 12(c) of the Companies (Cross-Border Mergers) Regulations 2007 (being particulars for which this rule requires a Schedule 3 form to be used) include the name and registered number of the company.</p>
+  <p><strong>White paper and black ink for a non-scheduled form document</strong></p>
+  <p>    28. A non-scheduled form document to which this Chapter applies must be on white paper and the text of that document must be in black typescript or handwritten in black.</p>
+  <p><strong>Name and registered number on some non-scheduled form documents</strong></p>
+  <p>    29. (1) A document which is specified in the following table must contain the name and registered number of the company to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Regulation of the Companies (Cross –Border Mergers) Regulations 2007 under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td valign="top">Copy of the order made under regulation 16 (court approval of merger) </td>
+      <td valign="top">Regulation 19(1)</td>
+    <tr class="formnum">
+      <td valign="top">Copy of the company’s articles or resolution or agreement (to accompany the court order delivered under regulation 19)</td>
+      <td valign="top">Regulation 20(1)</td>
+    </table>
+  <p>(2) A name and registered number which is required by this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+  <p><strong>Chapter 6<br>
+    Documents delivered under the Housing Act 1996 </strong></p>
+  <p><strong>Application of Chapter</strong></p>
+  <p>    30. This Chapter applies to a copy of a consent delivered to the registrar under paragraph 11(4), 13(2), 13(3), 13(4) or 13(6)(b) of Schedule 1 to the Housing Act 1996. </p>
+  <p><strong>White paper and black ink</strong></p>
+  <p>    31. A document to which this Chapter applies must be on white paper and the text of the document must be in black typescript or handwritten in black ink. </p>
+  <p><strong>Name and registered number </strong></p>
+  <p>    32. (1) A document to which this Chapter applies must contain the name and registered number of the company to which the document relates.</p>
+  <p> (2) A name or registered number which is required by this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+
+  <p><strong>PART 4 </strong><br>
+      <strong>FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A SECTION 1040 COMPANY</strong> </p>
+  <p><strong>Chapter 1</strong><br>
+      <strong>Application</strong></p>
+  <p><strong>Application and interpretation of Part </strong><br>
+    33. (1) This Part imposes requirements as to the form and authentication of documents.<br>
+    (2) This Part applies to specified documents delivered to the registrar which relate to a section 1040 company and this Part shall be construed accordingly. <br>
+    (3) Parts 9 and 10 impose requirements on certified copies and verified copies and translations respectively. <br>
+    (4) For a replacement document, Part 11 imposes requirements that are in addition to the requirements imposed by this Part.</p>
+  <p><strong>Definition </strong><br>
+    34. In this Part-<br>
+    “application for registration” means an application for registration of a section 1040 company delivered to the registrar under section 1040 of the 2006 Act.</p>
+  <p><strong>Chapter 2</strong><br>
+      <strong>Documents in Schedule 4 form relating to an application for registration of a section 1040 company</strong></p>
+  <p><strong>Application of Chapter </strong><br>
+    35. This Chapter imposes requirements as to the use of a Schedule 4 form for specified documents relating to an application for registration. </p>
+  <p><strong>Schedule 4 forms</strong> <br>
+    36. (1) The forms in Part 1 of Schedule 4 are to be used for the following documents relating to an application for registration -<br>
+    (a) documents delivered to the registrar under Part 2 of the Companies (Companies Authorised to Register) Regulations 2009 other than documents referred to in regulations 4(4), 7(3) and 9(4) of those Regulations, and<br>
+    (b) a statement delivered to the registrar under section 56(3)(a) or section 60(2) of the 2006 Act.<br>
+    (2) The forms in Part 2 of Schedule 4 are to be used for an application delivered to the registrar under regulation 7 of the Address Regulations as applied to section 1040 companies by regulation 7(3) of Companies (Companies Authorised to Register) Regulations 2009.</p>
+  <p><strong>Continuation forms</strong><br>
+    37. (1) Some of the Schedule 4 forms are continuation forms for other Schedule 4 forms. The top of a continuation form refers to “continuation page”.<br>
+    (2) A continuation form is to be used to continue the information inserted in a Schedule 4 form in the circumstances indicated on that Schedule 4 form. The type of information to be continued determines which continuation form is to be used.<br>
+    <br>
+  <strong>Reproduction of a Schedule 4 form</strong><br>
+    38. (1) Subject to rule 40, a document for which a Schedule 4 form must be used must be reproduced as set out in Schedule 4 as to its text,layout and format and must be in black ink.<br>
+    (2) Subject to rule 40, a Schedule 4 form must be on paper that complies with the following requirements- </p>
+  <table cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign="top">Size</td>
+      <td valign="top">A4 </td>
+    </tr>
+    <tr>
+      <td valign="top">Colour</td>
+      <td valign="top">White</td>
+    </tr>
+    <tr>
+      <td valign="top">Orientation</td>
+      <td valign="top">Portrait (Shorter edge across the top)</td>
+    </tr>
+  </table>
+  <p><strong>Barcode on some Schedule 4 forms which contain a usual residential address</strong><br>
+    39. (1) This rule applies to a form in Part 1 of Schedule 4 which is required by these rules to be used to deliver a document which is required by Part 2 of the Companies (Companies Authorised to Register) Regulations 2009 to contain the usual residential address of a director.<br>
+    (2) A Schedule 4 form to which this rule applies must contain the barcode indicated on that form in Schedule 4.</p>
+  <p>(3) A person reproducing that form for delivery to the registrar can obtain an image of the barcode from the registrar.<br>
+    (4) The barcode must be included in the Schedule 4 form in the format supplied by the registrar including it being in black ink, 13.5 mm high and 70.5 mm wide.<br>
+    (5) The barcode must be set out in the location indicated on the Schedule 4 form being as follows-<br>
+    (a) 41mm from the left edge of the page,<br>
+    (b) 47.5mm from the top edge of the page,<br>
+    (c) 236mm from the bottom of the page; and <br>
+    (d) 98.55mm from the right edge of the page.</p>
+  <p><strong>Orange coloured forms to be obtained from the registrar</strong><br>
+    40. A document for which a form is provided in Part 2 of Schedule 4 must be delivered to the registrar on a form obtained from the registrar because the form must be on orange coloured paper. </p>
+  <p><strong>Use of black ink for text inserted in a Schedule 4 form</strong><br>
+    41. Text inserted in a Schedule 4 form must be in black typescript or handwritten in black ink. </p>
+  <p><strong>Signature </strong><br>
+    42. A Schedule 4 form must be signed by the person or persons indicated on the form. The signature must be applied to the Schedule 4 form where indicated on the form. </p>
+
+  <p><strong>Chapter 3</strong><br>
+      <strong>Non-scheduled form documents relating to an application for registration of a section 1040 company</strong></p>
+  <p><strong>Application of Chapter</strong><br>
+    43. This Chapter applies to a non-scheduled form document relating to an application for registration delivered to the registrar under <br>
+    (a) Part 2 of the Companies (Companies Authorised to Register) Regulations 2009 other than regulation 7(3) of those Regulations, or<br>
+    (b) section 56(3)(b) of the 2006 Act  or regulation 8(2) of the Company and Business Names (Miscellaneous Provisions) Regulations 2009. </p>
+  <p><strong>White paper and black ink</strong> <br>
+    44. A document to which this Chapter applies must be on white paper and the text of the document must be in black typescript or handwritten in black ink. </p>
+  <p><strong>Chapter 4</strong><br>
+      <strong>Documents (other than documents relating to an application for registration of a section 1040 company) delivered under the Companies (Companies Authorised to Register) Regulations 2009 or the Companies Act 2006</strong></p>
+  <p><strong>Application of Chapter </strong><br>
+    45. (1) Except as provided in paragraphs (2) and (3), this Chapter applies to documents delivered to the registrar under <br>
+    (a) Part 3 of the Companies (Companies Authorised to Register) Regulations 2009, or<br>
+    (b) the 2006 Act.<br>
+    (2) This Chapter does not apply to documents relating to an application for registration of a section 1040 company. Chapters 2 and 3 of this Part impose requirements on such documents.<br>
+    (3) This Chapter does not apply to certified copies, verified copies or translations. Parts 9 and 10 impose requirements on certified copies and verified copies and translations respectively.</p>
+  <p><strong>Requirements as to form and authentication</strong><br>
+    46. (1) A document to which this Chapter applies must comply with the applicable provisions in Part 3 of these rules. In determining which of those provisions is applicable to a particular document to which this Chapter applies, any reference in a rule in Part 3, in a Schedule 2 form or a Schedule 3 form to a legislative provision shall, unless the provision is directly applicable to a section 1040 company, be read as a reference to that legislative provision as applied to section 1040 companies by the Companies (Companies Authorised to Register) Regulations 2009.<br>
+    (2) In the application of any provision of Part 3 or a Schedule 2 form or Schedule 3 form to a section 1040 company by virtue of this rule, any reference to a company shall be read as a reference to a section 1040 company.</p>
+  <p><strong>PART 5 </strong><br>
+      <strong>FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO AN UNREGISTERED COMPANY</strong></p>
+  <p><strong>Chapter 1</strong><br>
+      <strong>Application</strong></p>
+  <p><strong>Application and interpretation of Part </strong><br>
+    47. (1) This Part imposes requirements as to the form and authentication of documents.<br>
+    (2) This Part applies to specified documents delivered to the registrar which relate to an unregistered company and this Part shall be construed accordingly.<br>
+    (3) Part 10 imposes requirements on translations. <br>
+    (4) For a replacement document, Part 11 imposes requirements that are in addition to the requirements imposed by this Part.</p>
+  <p><strong>Definition</strong><br>
+    48. In this Part-<br>
+    “annual return” means an annual return relating to an unregistered company delivered to the registrar under section 854 of the 2006 Act as applied to unregistered companies by regulation 3 of the Unregistered Companies Regulations 2009.</p>
+  <p><strong>Chapter 2</strong><br>
+      <strong>Annual Return</strong><br>
+      <strong>Application of Chapter</strong><br>
+    49. (1) This Chapter imposes requirements as to the use of a Schedule 5 form for an annual return.</p>
+  <p><strong>Schedule 5 forms</strong> <br>
+    50. The Schedule 5 forms are to be used to deliver an annual return to the registrar.</p>
+  <p><strong>Continuation forms</strong><br>
+    51. (1) Some of the Schedule 5 forms are continuation forms for one of the other Schedule 5 forms. The top of a continuation form refers to “continuation page”.<br>
+    (2) A continuation form is to be used to continue the information inserted in a Schedule 5 form in the circumstances indicated on that Schedule 5 form. The type of information to be continued determines which continuation form is to be used. </p>
+  <p><strong>Reproduction of a Schedule 5 form</strong><br>
+    52. (1) A Schedule 5 form must be reproduced as set out in Schedule 5 as to its text,layout and format and must be in black ink.<br>
+    (2) A Schedule 5 form must be on paper that complies with the following requirements- </p>
+  <table cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign="top">Size</td>
+      <td valign="top">A4 </td>
+    </tr>
+    <tr>
+      <td valign="top">Colour</td>
+      <td valign="top">White</td>
+    </tr>
+    <tr>
+      <td valign="top">Orientation</td>
+      <td valign="top">Portrait     (Shorter edge across the top)</td>
+    </tr>
+  </table>
+  <p><strong>Use of black ink for text inserted in a Schedule 5 form</strong><br>
+    53 Text inserted in a Schedule 5 form must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Name </strong><br>
+    54. (1) A Schedule 5 form must contain the name of the unregistered company to which the Schedule 5 form relates. <br>
+    (2) The name must be inserted in black typescript or handwritten in black ink in the name box on the Schedule 5 form. </p>
+  <p><strong>Signature </strong><br>
+    55.  A Schedule 5 form must be signed by one of the persons indicated on the form. The signature must be applied to the Schedule 5 form where indicated on the form. </p>
+  <p><strong>Chapter 3</strong><br>
+      <strong>Documents (other than an annual return) delivered under the Unregistered Companies Regulations 2009</strong></p>
+  <p><strong>Application of Chapter </strong><br>
+    56. (1) Except as provided in paragraph (2), this Chapter applies to documents delivered to the registrar under the Unregistered Companies Regulations 2009.<br>
+    (2) This Chapter does not apply to an annual return. Chapter 2 imposes requirements on an annual return.</p>
+  <p><strong>Definition</strong><br>
+    57.In this Chapter-<br>
+    “instrument constituting or regulating the company” means any enactment, royal charter, letters patent, deed of settlement, contract of partnership, or other instrument constituting or regulating the unregistered company.</p>
+  <p><strong>Requirements as to form and authentication</strong><br>
+    58. (1) A document to which this Chapter applies must comply with the applicable provisions in Chapters 2 or 3 of Part 3 of these rules. In determining which of those provisions is applicable to a particular document to which this Chapter applies, any reference in a rule in Chapters 2 or 3 of Part 3 or in a Schedule 2 form to a legislative provision shall be read as a reference to that legislative provision as applied to unregistered companies by the Unregistered Companies Regulations 2009.<br>
+    (2) In the application of any provision of Chapters 2 or 3 of Part 3 or a Schedule 2 form to an unregistered company by virtue of this rule-<br>
+    (a) any reference to a company shall be read as a reference to an unregistered company,<br>
+    (b) any reference to registered number shall be deleted,<br>
+    (c) the reference in rule 22(2) to amended articles shall be read as a reference to any instrument constituting or regulating the company,<br>
+    (d) the reference in rule 23(1) and in a Schedule 2 forms to CIC manager shall be deleted,<br>
+    (e) the reference in rule 23(1) and in a Schedule 2 form to receiver and manager (appointed under section 18 of the Charities Act 1993) shall be deleted,<br>
+    (f) the reference in rule 23(1) and in a Schedule 2 form to judicial factor shall be deleted,<br>
+    (g) any reference in a Schedule 2 form to a company’s registered office shall be read as a reference to the unregistered company’s principal office in the United Kingdom,<br>
+    (h) any reference in a Schedule 2 formto a public company shall be read as a reference to an unregistered company which has power under the instrument constituting or regulating it to offer its shares or debentures to the public, and<br>
+    (i) any reference in a Schedule 2 form to a private company shall be read as a reference to an unregistered company which does not have power to offer its shares or debentures to the public.</p>
+  <p><strong>Chapter 4</strong><br>
+      <strong>Documents delivered under the Companies (Cross-Border Mergers) Regulations 2007</strong><br>
+      <strong>Application of Chapter </strong><br>
+    59. (1) This Chapter applies to a document delivered to the registrar under the Companies (Cross-Border Mergers) Regulations 2007.<br>
+    (2) This Chapter does not apply to translations. Part 10 imposes requirements on translations. </p>
+  <p><strong>Schedule 6 forms</strong><br>
+    60. (1) The Schedule 6 forms are to be used to deliver to the registrar the particulars required by regulation 12(1) of the Companies (Cross–Border Mergers) Regulations 2007 being the particulars of the date, time and place of every meeting summoned under regulation 11 and the particulars referred to in regulation 12(c). <br>
+    (2) One of the Schedule 6 forms is a continuation form for the other Schedule 6 form. The top of the continuation form refers to “continuation page”. The continuation form is to be used to continue the information inserted in the other Schedule 6 form in the circumstances indicated on that Schedule 6 form. <br>
+    (3) A document for which a Schedule 6 form must be used must be reproduced as set out in Schedule 6 as to its text,layout and format and must be in black ink.<br>
+    (4) A Schedule 6 form must be on paper that complies with the following requirements-</p>
+  <table cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign="top">Size</td>
+      <td valign="top">A4 </td>
+    </tr>
+    <tr>
+      <td valign="top">Colour</td>
+      <td valign="top">White</td>
+    </tr>
+    <tr>
+      <td valign="top">Orientation</td>
+      <td valign="top">Portrait (Shorter edge across the top)</td>
+    </tr>
+  </table>
+  <p>(5) Text inserted in a Schedule 6 form must be in black typescript or handwritten in black ink.<br>
+    (6) A Schedule 6 form must be signed by a director of the merging unregistered company. The signature must be applied to the Schedule 6 form where indicated on the scheduled form. </p>
+  <p><strong>White paper and black ink for a non-scheduled form document</strong><br>
+    61. A non-scheduled form document to which this Chapter applies must be on white paper and the text of that document must be in black typescript or handwritten in black.</p>
+  <p><strong>Name on some non-scheduled form documents</strong><br>
+    62. (1) A document which is specified in the following table must contain the name of the unregistered company to which the document relates.</p>
+  <table cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign="top">Description   of document(s)</td>
+      <td valign="top">Regulation of the Companies (Cross   –Border Mergers) Regulations 2007 under which the document is delivered to   the registrar</td>
+    </tr>
+    <tr>
+      <td valign="top">Copy of the   order made under regulation 16 (court approval of merger) </td>
+      <td valign="top">Regulation 19(1)</td>
+    </tr>
+    <tr>
+      <td valign="top">Copy of the company’s articles or   resolution or agreement (to accompany the court order delivered under   regulation 19)</td>
+      <td valign="top">Regulation 20(1) </td>
+    </tr>
+  </table>
+  <p>(2) A name which is required by this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+  <p><strong>PART 6 </strong><br>
+      <strong>FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO AN OVERSEAS COMPANY</strong></p>
+  <p><strong>Chapter 1</strong><br>
+      <strong>Application</strong></p>
+  <p><strong>Application and interpretation of Part </strong><br>
+    63. (1) This Part imposes requirements as to the form and authentication of documents.<br>
+    (2) This Part applies to specified documents delivered to the registrar which relate to an overseas company and this Part shall be construed accordingly.  <br>
+    (3) Parts 9 and 10 impose requirements on certified copies and translations respectively.<br>
+    (4) For a replacement document, Part 11 imposes requirements that are in addition to the requirements imposed by this Part. </p>
+  <p><strong>Definition</strong><br>
+    64. In this Part-<br>
+    “the Overseas Companies Regulations” means the Overseas Companies Regulations 2009;</p>
+  <p><strong>Chapter 2</strong><br>
+      <strong>Documents in Schedule 7 form delivered under the Companies Act 2006 </strong></p>
+  <p><strong>Application of Chapter </strong><br>
+    65. This Chapter imposes requirements as to the use of a Schedule 7 form for specified documents delivered to the registrar under the 2006 Act. </p>
+  <p><strong>Schedule 7 forms</strong> <br>
+    66. (1) The Schedule 7 forms are to be used for documents delivered to the registrar under the legislative provisions which are referred to on those forms.<br>
+    (2)For some legislative provisions there is more than one Schedule 7 form. The top of a Schedule 7 form refers to the circumstances in which it is to be used. </p>
+  <p><strong>Continuation forms</strong><br>
+    67. (1) Some of the Schedule 7 forms are continuation forms for other Schedule 7 forms. The top of a continuation form refers to “continuation page”.<br>
+    (2) A continuation form is to be used to continue the information inserted in a Schedule 7 form in the circumstances indicated on that Schedule 7 form. Where there is more than one continuation form for a particular Schedule 7 form the type of information to be continued determines which continuation form is to be used.<br>
+    <br>
+  <strong>Reproduction of a Schedule 7 form</strong><br>
+    68. (1) Subject to rule 70, a document for which a Schedule 7 form must be used must be reproduced as set out in Schedule 7 as to its text,layout and format and must be in black ink.<br>
+    (2) Subject to rule 70, a Schedule 7 form must be on paper that complies with the following requirements- </p>
+  <table cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign="top">Size</td>
+      <td valign="top">A4 </td>
+    </tr>
+    <tr>
+      <td valign="top">Colour</td>
+      <td valign="top">White</td>
+    </tr>
+    <tr>
+      <td valign="top">Orientation</td>
+      <td valign="top">Portrait (Shorter edge across the top)</td>
+    </tr>
+  </table>
+  <p><strong>Barcode on some Schedule 7 forms which contain a usual residential address </strong><br>
+    69. (1) This rule applies to a form in Part 1 of Schedule 7 which is required by these rules to be used to deliver a document which is required by the 2006 Act to contain the usual residential address of a director or permanent representative.<br>
+    (2) A Schedule 7 form to which this rule applies must contain the barcode indicated on that form in Schedule 7.<br>
+    (3) A person reproducing that form for delivery to the registrar can obtain an image of the barcode from the registrar.<br>
+    (4) The barcode must be included in the Schedule 7 form in the format supplied by the registrar including it being in black ink, 13.5 mm high and 70.5 mm wide.<br>
+    (5) The barcode must be set out in the location indicated on the Schedule 7 form being as follows-<br>
+    (a) 41mm from the left edge of the page,<br>
+    (b) 47.5mm from the top edge of the page,<br>
+    (c) 236mm from the bottom of the page; and <br>
+    (d) 98.55mm from the right edge of the page.</p>
+  <p><strong>Orange coloured forms to be obtained from the registrar</strong><br>
+    70. A document for which a form is provided in Part 2 of Schedule 7 must be delivered to the registrar on a form obtained from the registrar because the form must be on orange coloured paper. </p>
+  <p><strong>Use of black ink for text inserted in a Schedule 7 form</strong><br>
+    71. Text inserted in a Schedule 7 form must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Name and registered number</strong><br>
+    72. (1) A document specified in the following table (being one for which these rules require a Schedule 7 form to be used) is required by legislation to contain the company’s name, name of UK establishment or registered number of the overseas company to which the document relates.</p>
+
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>What is required by legislation?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Opening of a UK establishment</td>
+    <tr class="formnum">
+      <td valign="top">Return of opening of a UK establishment</td>
+      <td valign="top">Regulation 4(1) (a) of the Overseas Companies Regulations</td>
+      <td valign="top">Company’s name and name of the establishment if different from the name of the company</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Returns of alterations</td>
+    <tr class="formnum">
+      <td valign="top">Return of alteration in particulars</td>
+      <td valign="top">Regulation 13(1) and (5) of the Overseas Companies Regulations</td>
+      <td valign="top">Company’s name, company’s registered number,  the name (if different from the company’s name) and registered number of each UK establishment to which the return relates</td>
+    <tr class="formnum">
+      <td valign="top">Return of alteration in overseas company’s constitution </td>
+      <td valign="top">Regulation 14(1) and (5) of the Overseas Companies Regulations</td>
+      <td valign="top">Company’s name, company’s registered number,  the name (if different from the company’s name) and registered number of each UK establishment to which the return relates</td>
+    <tr class="formnum">
+      <td valign="top">Return of alteration as regards filing of certified copy of constitution</td>
+      <td valign="top">Regulation 15(2) and (4) of the Overseas Companies Regulations</td>
+      <td valign="top">Company’s name, company’s registered number,  the name (if different from the company’s name) and registered number of each UK establishment to which the return relates</td>
+    <tr class="formnum">
+      <td valign="top">Return of alteration of manner of compliance with accounting requirements</td>
+      <td valign="top">Regulation 16(2) and (4) of the Overseas Companies Regulations</td>
+      <td valign="top">Company’s name, company’s registered number,  the name (if different from the company’s name) and registered number of each UK establishment to which the return relates</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Document relating to disclosure of addresses</td>
+    <tr class="formnum">
+      <td valign="top">Application for higher protection </td>
+      <td valign="top">Regulation 25(1)  and paragraph 3 of Schedule 3 of the Overseas Companies Regulations</td>
+      <td valign="top">Name and registered  number</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top"  style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+    <tr class="formnum">
+      <td valign="top">Application for rectification of the register (application by an overseas company)</td>
+      <td valign="top">Section 1095 as applied to overseas companies by section 1059A(5) of the 2006 Act and regulation 4 of the Registrar Regulations </td>
+      <td valign="top">Name</td>
+    </table>
+  <p>(2) The following documents (being ones for which these rules require a Schedule 7 form to be used) are required by legislation to contain the company’s name and the registrar requires those documents to contain the registered number of the overseas company to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Regulation of the Overseas Companies Regulations under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Returns in case of insolvency proceedings</td>
+      <tr class="formnum">
+        <td valign="top">Return in case of winding up </td>
+        <td valign="top">Regulation 69(1)</td>
+      <tr class="formnum">
+        <td valign="top">Return in case of cessation of insolvency proceedings (other than winding up)</td>
+        <td valign="top">Regulation 71(1)</td>
+      <tr class="formnum">
+      <td valign="top">Return in case of cessation of insolvency proceedings (other than winding up)</td>
+      <td valign="top">Regulation 71(3)</td>
+    </table>
+  <p>((3) All other Schedule 7 forms must contain the name and registered number of the overseas company to which the Schedule 7 form relates. <br>
+(4) The name and registered number must be inserted in black typescript or handwritten in black ink in the name and number boxes on the Schedule 7 form. </p>
+  <p><strong>Signature </strong><br>
+    73. A Schedule 7 form must be signed by the person or persons indicated on the form. The signature must be applied to the Schedule 7 form where indicated on the form. </p>
+  <p align="center"><strong>Chapter 3</strong><br>
+      <strong>Non-scheduled form documents delivered under the Companies Act 2006</strong></p>
+  <p><strong>Application of Chapter</strong><br>
+    74. (1) Except as provided in paragraph (2), this Chapter applies to a non-scheduled form document delivered to the registrar under the 2006 Act. <br>
+    (2) This Chapter does not apply to certified copies or translations. Parts 9 and 10 impose requirements on certified copies and translations respectively. </p>
+  <p><strong>White paper and black ink</strong> <br>
+    75. (1) Except as provided in paragraph (2),  a document to which this Chapter applies must be on white paper and the text of the document must be in black typescript or handwritten in black ink. <br>
+    (2) This rule does not apply to the following documents-</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+    <tr class="formnum">
+      <td valign="top">Evidence relating to an application for higher protection</td>
+      <td valign="top">Regulation 25 and paragraphs 2, 3 and 4(1) of Schedule 3 to the Overseas Companies Regulations</td>
+    <tr class="formnum">
+      <td valign="top">Notification that a person wishes a decision on an application for higher protection to cease to apply</td>
+      <td valign="top">Regulation 25 and paragraph 6(a) of Schedule 3 to the Overseas Companies Regulations </td>
+    <tr class="formnum">
+      <td valign="top">Representations as to why a revocation decision should not be made</td>
+      <td valign="top">Paragraph 7 of Schedule 3 to the Overseas Companies Regulations or regulation 16(4) of the Address Regulations  </td>
+    <tr class="formnum">
+      <td valign="top">Evidence relating to an application under section 1088 of the 2006 Act as applied to overseas companies by section 1059A(5) of the 2006 Act</td>
+      <td valign="top">Regulation 9(3)(b) and 12(1) of the Address Regulations </td>
+    </table>
+
+  <p><strong>Name and registered number</strong> </p>
+  <p>76. (1) An objection by an overseas company is required by legislation to contain the name of the overseas company to which the document relates.</p>
+  <p> In this paragraph-</p>
+  <ul class="noBullet">
+    <li> "an objection by an overseas company" means an objection by an overseas company to an application for rectification of the register (objection delivered to the registrar under section 1095 of the 2006 Act (as applied to overseas companies by section 1059A(5) of the 2006 Act) and regulation 5(9) of the Registrar Regulations).</li>
+  </ul>
+  <p> (2) A document which is specified in the following table must contain the name and registered number of the overseas company to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the 2006 Act or regulation under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Names</td>
+    <tr class="formnum">
+      <td valign="top">Copy of any response received from a government department or other body (except where that copy accompanies a return under regulation 4(1) of the Overseas Companies Regulations)</td>
+      <td valign="top">Section 56(4)(b) of the 2006 Act as applied to overseas companies by section 1047(4)(b) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Copy of the written statement consenting to the same name (except where that copy accompanies a return under regulation 4(1) of the Overseas Companies Regulations) </td>
+      <td valign="top">Section 66 of the 2006 Act as applied to overseas companies by section 1047(4)(d) of the 2006 Act and regulation 12 of the Company and Business Names (Miscellaneous Provisions) Regulations 2009</td>
+    </table>
+  <p>(3) A document which is specified in the following table must contain the name and registered number of the overseas company to which the document relates. This is subject to the proviso in column (3) of the table.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>(1) Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>(2) Regulation of the Overseas Companies Regulations under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>(3) Is name and registered number required?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounting documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of the accounting documents</td>
+      <td valign="top">Regulation 32  </td>
+      <td valign="top">Yes but only required in one of the documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of accounting documents </td>
+      <td valign="top">Regulation 40 (applying a modified section 441(1) of the 2006 Act to overseas companies)</td>
+      <td valign="top">Yes but only required in one of the documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of latest accounting documents</td>
+      <td valign="top">Regulation 45 </td>
+      <td valign="top">Yes but only required in one of the documents</td>
+        <tr class="formnum">
+          <td valign="top">Copy of accounting documents</td>
+          <td valign="top">Regulation 55 (applying a modified section 441(1) of the 2006 Act to credit or financial institutions)</td>
+          <td valign="top">Yes but only required in one of the documents</td>
+      </table>
+  <p>(4) A name or registered number which is required by paragraph (2) or paragraph (3) of this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+  <p><strong>Signature</strong></p>
+  <p>    54.  A document which is specified in the following table must be signed by a person or persons specified for that document in the table. The signature must be applied to the document in a prominent position unless otherwise specified in the last column of the table. </p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:25%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:25%;"><strong>Regulation under which the document is delivered to the registrar </strong></td>
+      <td valign="top" style="width:25%;"><strong>Person or persons who must sign</strong></td>
+      <td valign="top" style="width:25%;"><strong>Location of signature</strong></td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounting documents </td>
+    <tr class="formnum">
+      <td valign="top">Copy of  accounting documents </td>
+      <td valign="top">Regulation 32, 40 (applying a modified section 441(1) of the 2006 Act to overseas companies), 45 or 55 (applying a modified section 441(1) of the 2006 Act to credit or financial institutions)</td>
+      <td valign="top">Director </td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+      <tr class="formnum">
+      <td valign="top">Notification that a person wishes a decision on an application for higher protection to cease to apply</td>
+      <td valign="top">The individual in respect of whom the application for higher protection was made or their personal representative</td>
+      <td valign="top">The individual in respect of whom the application for higher protection was made or their personal representative</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Paragraph 7(4) of Schedule 3 to the Overseas Companies Regulations</td>
+      <td valign="top">Paragraph 7(4) of Schedule 3 to the Overseas Companies Regulations</td>
+      <td valign="top">Individual in respect of whom the application for higher protection was made</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Representations as to why a revocation decision should not be made (revocation relating to section 1088 of the 2006 Act as applied to overseas companies by section 1059A(5))</td>
+      <td valign="top">Regulation 16(4) of the Address Regulations</td>
+      <td valign="top">The section 1088 beneficiary (as defined in the Address Regulations) </td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+    <tr class="formnum">
+      <td valign="top">Objection made by an overseas company</td>
+      <td valign="top">Director, secretary, permanent representative, administrator, administrative receiver, receiver manager, receiver or liquidator  </td>
+      <td valign="top">Director, secretary, permanent representative, administrator, administrative receiver, receiver manager, receiver or liquidator  </td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Objection made by a person who is not an overseas company</td>
+      <td valign="top">Regulation 5(9) of the Registrar Regulations </td>
+      <td valign="top">The person making the objection</td>
+      <td valign="top">In a prominent position on the document</td>
+    </table>
+  <p><strong>Print of name of signatory on some documents relating to addresses</strong></p>
+  <p>55. (1) This rule applies to-</p>
+  <ul class="noBullet">
+    <li> (a) Notification that a person wishes a decision on an application for higher protection to cease to apply (delivered to the registrar under paragraph 6 of Schedule 3 of the Overseas Companies Regulations), </li>
+    <li> (b) Representations as to why a decision should not be revoked (delivered under paragraph 7(4) of Schedule 3), and</li>
+    <li> (c) Representations as to why a revocation decision should not be made (delivered under regulation 16(4) of the Address Regulations).</li>
+  </ul>
+  <p> (2) The name of the person who signs a document to which this rule applies must be printed on the document. That printed name must be in black typescript or handwritten in black ink.</p>
+  <p><strong>PART 7<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A EUROPEAN PUBLIC-LIMITED LIABILITY COMPANY<br>
+    …</strong></p>
+  <p><strong>PART 8<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A LIMITED LIABILITY PARTNERSHIP</strong></p>
+  <p><strong>Chapter 1<br>
+    Application</strong></p>
+  <p><strong>Application of Part </strong></p>
+  <p>    70. (1) This Part imposes requirements as to the form and authentication of documents.</p>
+  <p> (2) This Part applies to specified documents delivered to the registrar which relate to an LLP.</p>
+  <p> (3) Parts 10 and 11 impose requirements on certified copies and verified copies and translations respectively. </p>
+  <p> (4) For a replacement document, Part 12 imposes requirements that are in addition to the requirements imposed by this Part. </p>
+  <p><strong>Interpretation</strong></p>
+  <p>    71.(1) In this Part-</p>
+  <ul class="noBullet">
+    <li> "LLP Act" means the Limited Liability Partnerships Act 2000;</li>
+    <li>"LLP Regulations 2008" means the Limited Liability Partnerships (Accounts and Audit)(Application of Companies Act 2006) Regulations 2008;</li>
+    <li> "LLP Regulations 2009" means the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009.</li>
+  </ul>
+  <p>(2) In this Part, any reference to the application by the LLP Regulations 2008 or LLP Regulations 2009 of a legislative provision relating to companies is to application of that legislative provision to LLPs.</p>
+  <p><strong>Chapter 2<br>
+    Documents in Schedule 7 form delivered under the Limited Liability Partnerships Act 2000 </strong></p>
+  <p><strong>Application of Chapter </strong></p>
+  <p>    72. This Chapter imposes requirements as to the use of a Schedule 7 form for specified documents delivered to the registrar under the LLP Act. </p>
+  <p><strong>Schedule 7 forms </strong></p>
+  <p>    73. (1) The Schedule 7 forms are to be used for documents delivered to the registrar under the legislative provisions which are referred to on those forms. </p>
+  <p> (2) For some legislative provisions there is more than one Schedule 7 form. The top of a Schedule 7 form refers to the circumstances in which it is to be used.<br>
+  </p>
+  <p><strong>Welsh language forms </strong></p>
+  <p>    74. (1) Each form in Part 2 of Schedule 7 is partly in Welsh and partly in English and can be used instead of a form in Part 1 of Schedule 7 where the form relates to a Welsh LLP.</p>
+  <p> (2) In this rule-</p>
+  <ul class="noBullet">
+    <li> "Welsh LLP" has the meaning given to it in regulation 17 of the LLP Regulations 2009.</li>
+  </ul>
+  <p><strong>Continuation forms</strong></p>
+  <p> 75. (1) Some of the Schedule 7 forms are continuation forms for other Schedule 7 forms. The top of a continuation form refers to "continuation page".</p>
+  <p> (2) A continuation form is to be used to continue the information inserted in a Schedule 7 form in the circumstances indicated on that Schedule 7 form. Where there is more than one continuation form for a particular Schedule 7 form the type of information to be continued determines which continuation form is to be used.<br>
+    <br>
+    <strong>Reproduction of a Schedule 7 form</strong></p>
+  <p>    76. (1) Subject to rule [78], a document for which a Schedule 7 form must be used must be reproduced as set out in Schedule 7 as to its text, layout and format and must be in black ink.</p>
+  <p> (2) Subject to rule [78], a Schedule 7 form must be on paper that complies with the following requirements- </p>
+  <ul>
+    <li>Size:	A4 </li>
+    <li> Colour:	White</li>
+    <li> Orientation:	Portrait   (Shorter edge across the top)</li>
+  </ul>
+  <p><strong>Barcode on some Schedule 7 forms which contain a usual residential address </strong></p>
+  <p>    77. (1) This rule applies to a form in Part 1 or Part 2 of Schedule 7 which is required by these rules to be used to deliver a document which is required by the LLP Act to contain the usual residential address of a member of an LLP.</p>
+  <p> (2) A Schedule 7 form to which this rule applies must contain the barcode indicated on that form in Schedule 7.</p>
+  <p> (3) A person reproducing that form for delivery to the registrar can obtain an image of the barcode from the registrar.</p>
+  <p> (4) The barcode must be included in the Schedule 7 form in the format supplied by the registrar including it being in black ink, 13.5 mm high and 70.5 mm wide.</p>
+  <p> (5) The barcode must be set out in the location indicated on the Schedule 7 form being as follows-</p>
+  <ul class="noBullet">
+    <li> (a) 41mm from the left edge of the page,</li>
+    <li> (b) 47.5mm from the top edge of the page,</li>
+    <li> (c) 236mm from the bottom of the page; and </li>
+    <li> (d) 98.55mm from the right edge of the page.</li>
+  </ul>
+  <p><strong>Orange coloured forms to be obtained from the registrar</strong></p>
+  <p>    78. A document for which a form is provided in Part 3 of Schedule 7 must be delivered to the registrar on a form obtained from the registrar because the form must be on orange coloured paper. <br>
+  </p>
+  <p><strong>Use of black ink for text inserted in a Schedule 7 form</strong></p>
+  <p>    79. Text inserted in a Schedule 7 form must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Name and registered number</strong></p>
+  <p>    80. (1) A document specified in the following table (being one for which these rules require a Schedule 7 form to be used) is required by legislation to contain the name and registered number of the LLP or proposed LLP to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>Section of the LLP Act or regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>What is required by legislation?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Incorporation document</td>
+    <tr class="formnum">
+      <td valign="top">Section 2(1)(a) of the LLP Act </td>
+      <td valign="top">Section 2(1)(a) of the LLP Act </td>
+      <td valign="top">Name</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Document relating to disclosure of addresses</td>
+      <tr class="formnum">
+      <td valign="top">Application to registrar to refrain from disclosing information to a credit reference agency (application by an LLP) </td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying regulation 6 of the Address Regulations </td>
+      <td valign="top">Name and registered number</td>
+    <tr class="formnum">
+      <td valign="top">Application to registrar to refrain from disclosing information to a credit reference agency (application by a proposed member of a proposed LLP)</td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying regulation 7 of the Address Regulations</td>
+      <td valign="top">Name of the proposed LLP</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Cross-Border Mergers</td>
+      <tr class="formnum">
+      <td valign="top">The particulars relating to a merging LLP as referred to in regulation 12(1)(c) of the Companies (Cross–Border Mergers) Regulations 2007 </td>
+      <td valign="top">Regulation 46 of the LLP Regulations 2009  applying the Companies (Cross-Border Mergers) Regulations 2007  </td>
+      <td valign="top">Name and registered number</td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+      <tr class="formnum">
+      <td valign="top">Application for rectification of the register (application by an LLP)</td>
+      <td valign="top">Regulation 66 of the LLP Regulations 2009 applying section 1095 of the 2006 Act and regulation 4 of the Registrar Regulations </td>
+      <td valign="top">Name</td>
+    </table>
+
+  <p>(2) All other Schedule 7 forms must contain the name and registered number of the LLP to which the Schedule 7 form relates. </p>
+  <p> (3) The name and registered number must be inserted in black typescript or handwritten in black ink in the name and number boxes on the Schedule 7 form. <br>
+  </p>
+  <p><strong>Signature</strong> </p>
+  <p>  81. (1) A Schedule 7 form must be signed by the person or persons indicated on the form. The signature must be applied to the Schedule 7 form where indicated on the form. </p>
+  <p> (2) Where a Schedule 7 form is delivered to the registrar under regulation 56 of the LLP Regulations 2009 (applying section 1025(5)(a) of the 2006 Act)(requirements for administrative restoration) a former member  is required to sign the form instead of the person or persons indicated on the form.</p>
+  <p><strong>Print of name of signatory on an application for striking off an LLP’s name</strong></p>
+  <p>    82. (1) This rule applies to an application for striking an LLP’s name off the register which is delivered to the registrar under regulation 51 of the LLP Regulations 2009 (applying section 1003 of the 2006 Act) (Form  LL DS 01 in Schedule 7).</p>
+  <p> (2) The name of each person who signs the Schedule 7 form must be printed where indicated on the form. That printed name must be in black typescript or handwritten in black ink.</p>
+  <p><strong>Chapter 3<br>
+    Non-scheduled form documents delivered under the Limited Liability Partnerships Act 2000</strong></p>
+  <p><strong>Application of Chapter</strong></p>
+  <p>    83. (1) Except as provided in paragraph (2), this Chapter applies to a non-scheduled form document delivered to the registrar under the LLP Act. </p>
+  <p> (2) This Chapter does not apply to certified copies, verified copies or translations. Parts 10 and 11 impose requirements on certified copies and verified copies and translations respectively. </p>
+  <p><strong>White paper and black ink</strong></p>
+  <p>    84. (1) Except as provided in paragraph (2),  a document to which this Chapter applies must be on white paper and the text of the document must be in black typescript or handwritten in black ink. </p>
+  <p> (2) This Rule does not apply to the following documents-</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Regulation under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Court direction</td>
+    <tr class="formnum">
+      <td valign="top">Direction from the court dispensing with the need for a statement by the creditor</td>
+      <td valign="top">Regulation 42 of the LLP Regulations 2009 applying section 887(2) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Charge documents</td>
+      <tr class="formnum">
+      <td valign="top">Instrument by which charge is created or evidenced</td>
+      <td valign="top">Regulation 32 of the LLP Regulations 2009 applying section 860(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Deed containing the charge or one of the debentures of the series</td>
+      <td valign="top">Regulation 33 of the LLP Regulations 2009 applying section 863(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Copy of the deed containing the charge or of one of the debentures of the series</td>
+      <td valign="top">Regulation 40 of the LLP Regulations 2009 applying section 882(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"    style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+      <tr class="formnum">
+      <td valign="top">Evidence relating to an application under section 243(4) of the 2006 Act </td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying section 243(4) of the 2006 Act and regulations 5(3)(b), 6(3)(b), 7(3)(b) and 8(1) of the Address Regulations</td>
+    <tr class="formnum">
+      <td valign="top">Notification that a person wishes a decision under section 243 of the 2006 Act to cease to apply</td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying regulation 15(1) of the Address Regulations</td>
+    <tr class="formnum">
+      <td valign="top">Representations as to why a revocation decision should not be made (revocation relating to section 243 of the 2006 Act) </td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying section 243(4) of the 2006 Act and Regulation 16(4) of the Address Regulations</td>
+    <tr class="formnum">
+      <td valign="top">Evidence relating to an application under section 1088 of the 2006 Act</td>
+      <td valign="top">Regulation 66 of the LLP Regulations 2009 applying regulations 9(3)(b), 11(3)(b) and 12(1) of the Address Regulations</td>
+    <tr class="formnum">
+      <td valign="top">Representation as to why a revocation decision should not be made (revocation relating to section 1088 of the 2006 Act)</td>
+      <td valign="top">Regulation 66 of the LLP Regulations 2009 applying section 1088 of the 2006 Act and Regulation 16(4) of the Address Regulations</td>
+    </table>
+
+  <p><strong>Name and registered number</strong></p>
+  <p>    85. (1) An objection by an LLP is required by legislation to contain the name of the LLP to which the document relates.</p>
+  <p> In this paragraph-</p>
+  <ul class="noBullet">
+    <li> "an objection by an LLP" means an objection by an LLP to an application for rectification of the register (objection delivered to the registrar under Regulation 67 of the LLP Regulations 2009 applying section 1095 of the 2006 Act and regulation 5(9) of the Registrar Regulations).</li>
+  </ul>
+  <p> (2) A document which is specified in the following table must contain the name and registered number of the LLP to which the document relates.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of document(s)</strong></td>
+      <td valign="top" style="width:30%;"><strong>Regulation under which the document is delivered to the registrar</strong></td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Orders charging land: Northern Ireland</td>
+    <tr class="formnum">
+      <td valign="top">Copies of an order (made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981) or of any notice (under Article 48 of the 1981 Order) </td>
+      <td valign="top">Regulation 35 of the LLP Regulations 2009 applying section 868(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Copies of an order made under Article 46 of the Judgments Enforcement (Northern Ireland) Order 1981</td>
+      <td valign="top">Regulation 35 of the LLP Regulations 2009 applying section 868(2) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top"   style="background-color:#00144D; color:#FFFFFF; text-align:center;">Names </td>
+    <tr class="formnum">
+      <td valign="top">Copy of any response received from a government department or other body (in connection with a change of name of an LLP)</td>
+      <td valign="top">Regulation 35 of the LLP Regulations 2009 applying section 868(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Copy of the written statement consenting to the same name but only when delivered in connection with a change in the name of an LLP under paragraph 5(1) of the Schedule to the LLP Act</td>
+      <td valign="top">Regulation 35 of the LLP Regulations 2009 applying section 868(2) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Auditor ceasing to hold office information</td>
+    <tr class="formnum">
+      <td valign="top">Copy of notice of resignation of auditor</td>
+      <td valign="top">Regulation 45 of the LLP Regulations 2008 applying section 517(1) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Copy of statement by auditor (under section 520 of the 2006 Act) of the circumstances connected with his ceasing to hold office</td>
+      <td valign="top">Regulation 46 of the LLP Regulations 2008 applying section 521(1) and (2) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Dissolved LLP</td>
+      <tr class="formnum">
+      <td valign="top">Notice of disclaimer of property vesting bona vacantia</td>
+      <td valign="top">Regulation 52 of the LLP Regulations 2009 applying section 1013(6) of the 2006 Act</td>
+    <tr class="formnum">
+      <td valign="top">Written consent by Crown representative (administrative restoration of an LLP)</td>
+      <td valign="top">Regulation 56 of the LLP Regulations 2009 applying section 1025(3) of the 2006 Act</td>
+    <tr class="formnum">
+      <td colspan="2" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Cross-Border Mergers</td>
+      <tr class="formnum">
+      <td valign="top">Copy of the order made under regulation 16 of the Companies (Cross–Border Mergers) Regulations 2007 (court approval of merger) </td>
+      <td valign="top">Regulation 46 of the LLP Regulations 2009 applying regulation 19(1) of the Companies (Cross–Border Mergers) Regulations 2007</td>
+    </table>
+  <p>(2) A document which is specified in the following table must contain the name and registered number of the LLP to which the document relates. This is subject to the proviso in column (3) of the table.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>(1) Description of document</strong></td>
+      <td valign="top" style="width:30%;"><strong>(2) Regulation under which the document is delivered to the registrar</strong></td>
+      <td valign="top" style="width:30%;"><strong>(3) Is name and registered number required?</strong></td>
+    <tr class="formnum">
+      <td colspan="3" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounts and related documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of balance sheet or abbreviated accounts and (where applicable) copy of profit and loss account and copy of auditor’s report</td>
+      <td valign="top">Regulation 17 of the LLP Regulations 2008 applying section 441(1) of the 2006 Act</td>
+      <td valign="top">Yes but only required in one of the documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of annual accounts in euros</td>
+      <td valign="top">Regulation 28 of the LLP Regulations 2008 applying section 469(2) of the 2006 Act</td>
+      <td valign="top">Yes but only required in one of the documents comprised in the annual accounts</td>
+    <tr class="formnum">
+      <td valign="top">Revised accounts or revised report (as those terms are defined in the Companies (Revision of Defective Accounts and Reports) Regulations 2008) and (where applicable) copy of the auditor’s report</td>
+      <td valign="top">Regulation 23 of the LLP Regulations 2008 applying section 454 of the 2006 Act and Regulation 14(2) of the Companies (Revision of Defective Accounts and Reports) Regulations 2008</td>
+      <td valign="top">Yes but where more than one of those documents is delivered at the same time under regulation 14(2) the name and registered number is only required in one of them</td>
+    </table>
+  <p>(3) A name or registered number which is required by paragraph (2) or (3) of this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document.</p>
+  <p><strong>Signature</strong></p>
+  <p>    86. (1) Subject to paragraph (2), a document which is specified in the following table must be signed by a person or persons specified for that document in the table. The signature must be applied to the document in a prominent position unless otherwise specified in the last column of the table. </p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:25%;"><strong>Description of document</strong></td>
+      <td valign="top" style="width:25%;"><strong>Regulation under which the document is delivered to the registrar </strong></td>
+      <td valign="top" style="width:25%;"><strong>Person or persons who must sign</strong></td>
+      <td valign="top" style="width:25%;"><strong>Location of signature</strong></td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Accounts and related documents</td>
+    <tr class="formnum">
+      <td valign="top">Copy of balance sheet or abbreviated accounts and (where applicable) copy of profit and loss account and copy of auditor’s report </td>
+      <td valign="top">Regulation 17 of the LLP Regulations 2008 applying section 441(1) of the 2006 Act</td>
+      <td valign="top">Designated member </td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Copy of annual accounts in euros</td>
+      <td valign="top">Regulation 28 of the LLP Regulations 2008 applying section 469(2) of the 2006 Act</td>
+      <td valign="top">Designated member</td>
+      <td valign="top">At end of balance sheet</td>
+    <tr class="formnum">
+      <td valign="top">Revised accounts or revised report (as those terms are defined in the Companies (Revision of Defective Accounts and Reports) Regulations 2008) and (where applicable) copy of the auditor’s report</td>
+      <td valign="top">Regulation 23 of the LLP Regulations 2008 applying section 454 of the 2006 Act and regulation 14(2) of the Companies (Revision of Defective Accounts and Reports) Regulations 2008</td>
+      <td valign="top">Designated member</td>
+      <td valign="top">In a prominent position on the document but where more than one of those documents is delivered at the same time under regulation 14(2) signature is only required on one of them</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Documents relating to disclosure of addresses</td>
+    <tr class="formnum">
+      <td valign="top">Notification that a person wishes a decision under section 243 of the 2006 Act to cease to apply</td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying section 243(4) of the 2006 Act and regulation 15(1) of the Address Regulations</td>
+      <td valign="top">The section 243 beneficiary (as defined in  the Address Regulations) or their personal representative</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Representations from an LLP as to why a revocation decision should not be made (where the application under section 243 of the 2006 Act was made by an LLP)</td>
+      <td valign="top">Regulation 19 of the LLP Regulations 2009 applying section 243(4) of the 2006 Act and regulation 16(4) of the Address Regulations</td>
+      <td valign="top">Designated member or member</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Representations  from an LLP as to why a revocation decision should not be made (where the application under section 1088 of the 2006 Act was made by an LLP)</td>
+      <td valign="top">Regulation 66 of the LLP Regulations 2009 applying section 1088 of the 2006 Act and Regulation 16(4) of the Address Regulations</td>
+      <td valign="top">Designated member or member</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Representations from  a person who is not an LLP as to why a revocation decision should not be made (where application under section 1088 of the 2006 Act was made by an individual)</td>
+      <td valign="top">Regulation 66 of the LLP Regulations 2009 applying section 1088 of the 2006 Act and regulation 16(4) of the Address Regulations</td>
+      <td valign="top">The section 1088 beneficiary (as defined in the Address Regulations) </td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td colspan="4" valign="top" style="background-color:#00144D; color:#FFFFFF; text-align:center;">Rectification of register</td>
+      <tr class="formnum">
+      <td valign="top">Objection made by an LLP</td>
+      <td valign="top">Regulation 67 of the LLP Regulations 2009 applying section 1095 of the 2006 Act and regulation 5(9) of the Registrar Regulations</td>
+      <td valign="top">Designated member, member,  administrator, administrative receiver, receiver manger, receiver, liquidator or judicial factor</td>
+      <td valign="top">In a prominent position on the document</td>
+    <tr class="formnum">
+      <td valign="top">Objection made by a person who is not an LLP</td>
+      <td valign="top">Regulation 67 of the LLP Regulations 2009 applying section 1095 of the 2006 Act and regulation 5(9?) of the Registrar Regulations</td>
+      <td valign="top">The person making the objection</td>
+      <td valign="top">In a prominent position on the document</td>
+    </table>
+  <p>(2) Where a document specified in the table in paragraph (1) is delivered to the registrar under regulation 56 of the LLP Regulations 2009 (applying section 1025(5)(a) of the 2006 Act)(requirements for administrative restoration), a former member is required to sign the document instead of the person or persons specified in the table.</p>
+  <p><strong>Print of name of signatory on some documents relating to addresses</strong></p>
+  <p>    87. (1) This rule applies to the following documents delivered to the registrar under regulation 19 of LLP Regulations 2009-</p>
+  <ul class="noBullet">
+    <li> (a) Notification that a person wishes a decision under section 243 of the 2006 Act to cease to apply (delivered under regulation 19 of the LLP Regulations 2009 applying regulation 15(1)(a) of the Address Regulations), and</li>
+    <li> (b) Representations from a person who is not an LLP as to why a revocation decision should not be made (delivered under regulation 19 of the LLP Regulations 2009 applying regulation 16(4) of the Address Regulations).</li>
+  </ul>
+  <p> (2) The name of the person who signs a document to which this rule applies must be printed on the document. That printed name must be in black typescript or handwritten in black ink.</p>
+  <p><strong>…<br>
+    PART 9<br>
+    FORM AND AUTHENTICATION OF DOCUMENTS RELATING TO A EUROPEAN ECONOMIC INTEREST GROUPING<br>
+    …</strong></p>
+  <p><strong>PART 10 <br>
+    CERTIFIED COPIES AND VERIFIED COPIES </strong></p>
+  <p><strong>Chapter 1<br>
+    Certified or verified copy of a charge instrument</strong></p>
+  <p><strong>Application of Chapter </strong></p>
+  <p>    90. This Chapter applies to a certified copy or verified copy of an instrument delivered to the registrar under the following provisions-</p>
+  <ul class="noBullet">
+    <li>(a) Sections 862(2), 866(1), 867(2), 878(1) and 880(2) of the 2006 Act, </li>
+    <li>(b) regulation 5(1) of the Overseas Companies (Company Contracts and Registration of Charges) Regulations 2009 , and</li>
+    <li>(c) regulations 32, 34 and 39 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying sections 862(2), 866(1), 867(2), 878(1) and 880(2) of the 2006 Act to LLPs.</li>
+  </ul>
+  <p><strong>Requirements as to certification or verification</strong></p>
+  <p>91. (1) The certification or verification of a copy document to which this Chapter applies must be given by a person who has an interest in the registration of the charge.</p>
+  <p>(2) The person giving the certificate or verification must sign at the end of the certificate or verification.</p>
+  <p><strong>Name and registered number</strong></p>
+  <p>92.  A copy document to which this Chapter applies must contain the name and registered number of the company or other body on whose register of charges the registrar is to enter the relevant charge. The name and registered number must be inserted in a prominent position in the document.</p>
+  <p><strong>Chapter 2<br>
+    Certified copy of constitution of an overseas company</strong></p>
+  <p><strong>Application of Chapter</strong></p>
+  <p>93. (1) This Chapter applies to a certified copy of the constitution of an overseas company delivered to the registrar under regulations 8(1), 14(2) or 15(2)(b)(i) of the Overseas Companies Regulations 2009.</p>
+  <p><strong>Requirements as to certification</strong></p>
+  <p>94. (1) The certification of a copy document to which this Chapter applies must be given by a director, secretary, permanent representative, administrator, administrative receiver, receiver manager, receiver or liquidator of the overseas company to which the copy relates.</p>
+  <p>(2) The certificate must be in black typescript or handwritten in black ink.</p>
+  <p>(3) The person giving the certificate must sign at the end of the certificate. </p>
+  <p><strong>White paper and black ink</strong></p>
+  <p>95. A copy document to which this Chapter applies must be on white paper and in black typescript or handwritten in black ink.</p>
+  <p><strong>Name and registered number</strong></p>
+  <p>96. (1) A certified copy of the constitution of an overseas company delivered under regulation (1) of the Overseas Companies Regulations 2009 must contain the name of the overseas company. </p>
+  <p>(2) All other copy documents to which this Chapter applies must contain the name and registered number of the overseas company to which the document relates. </p>
+  <p>(3) A name or registered number required by this rule must be inserted in black typescript or handwritten in black ink in a prominent position in the document. </p>
+  <p><strong>PART 11<br>
+    TRANSLATIONS</strong></p>
+  <p><strong>Chapter 1 <br>
+    Interpretation provisions<br>
+    Definitions </strong></p>
+  <p>97. (1) In this Part-</p>
+  <p>“translation” means a translation into English, a translation into Welsh or a translation into a language other than English or Welsh as the case may be; </p>
+  <p>"translation into a language other than English or Welsh" means a translation into a language other than English or Welsh delivered to the registrar under </p>
+  <ul class="noBullet">
+    <li> (a) the following provisions applicable to companies
+    	<ul><li> - section 1106(1) of the 2006 Act, or</li>
+    <li> - regulation 4(4) of the Companies (Cross-Border  Mergers) Regulations 2007, </li></ul>
+    </li>
+      <li>(b) the following provision applicable to overseas companies
+      <ul><li> - section 1106(1) of the 2006 Act as applied to overseas companies by section 1059A(5) of the 2006 Act,</li></ul>
+    </li>
+    <li> (c) the following provisions applicable to LLPs
+    	<ul>
+    	<li> - regulation 68 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying section 1106(1) of  the 2006 Act to LLPs, or</li>
+    	<li>- regulation 46 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying regulation 4(4) of the Companies (Cross-Border  Mergers) Regulations 2007 to LLPs;</li>
+        </ul>
+    </li>
+  </ul>
+  <p>"translation into English" means a translation into English which is delivered to the registrar under </p>
+  <ul class="noBullet">
+    <li> (a) section 1105(1) of the 2006 Act other than a translation which relates to a credit or financial institution that is not an overseas company,</li>
+    <li> (b) the following provisions applicable to companies
+    <ul>
+    <li> - section 1104(2) of the 2006 Act, or</li>
+    <li> - regulation 4(1)(b) or regulation 4(3) of the Companies (Cross-Border Mergers) Regulations 2007, </li>
+    </ul></li>
+    <li> (c) the following provisions applicable to LLPs
+    <ul>
+    <li> - regulation 68 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying section 1104(2) or section 1105(1) of the 2006 Act to LLPs, or</li>
+    <li> - regulation 46 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying regulation 4(1)(b) or regulation 4(3) of the Companies (Cross-Border Mergers) Regulations 2007 to LLPs;</li>
+    </ul></li>
+  </ul>
+  <p>"translation into Welsh" means a translation into Welsh delivered to the registrar under</p>
+  <ul class="noBullet">
+    <li> (a) the following provisions applicable to companies 
+    <ul>
+    <li> - section 1104(4) of the 2006 Act, or </li>
+    <li> - regulation 4(1)(b) of the Companies (Cross-Border Mergers) Regulations 2007;</li>
+    </ul></li>
+     <li>(b) the following provisions applicable to LLPs
+     <ul>
+    <li> - regulation 68 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying section 1104(4) of the 2006 Act to LLPs, or</li>
+    <li>- regulation 46 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 applying regulation 4(1)(b) of the Companies (Cross-Border Mergers) Regulations 2007 to LLPs;</li>
+    </ul></li>
+  </ul>
+  <p><strong>Chapter 2<br>
+    Certification of a translation </strong></p>
+  <p><strong>Requirements as to certification </strong></p>
+  <p>    98. (1) The certification of a translation as accurate must be given by one of the persons specified for that translation in the following table.</p>
+  <table cellpadding="1" class="dataTable">
+    <tr>
+      <td valign="top" style="width:40%;"><strong>Description of translation</strong></td>
+      <td valign="top" style="width:30%;"><strong>Person who must certify</strong></td>
+    <tr class="formnum">
+      <td valign="top">Translation of a document relating to a company</td>
+      <td valign="top">A director, secretary, person authorised, administrator, administrative receiver, receiver manager, receiver, liquidator; or if applicable, a CIC manager, receiver and manager (appointed under section 18 of the Charities Act 1993) or  judicial factor , in each case, of the company to which the document relates</td>
+    <tr class="formnum">
+      <td valign="top">Translation of a document relating to an overseas company</td>
+      <td valign="top">A director, secretary, permanent representative, administrator, administrative receiver, receiver manager, receiver, liquidator or judicial factor, in each case, of the overseas company to which the document relates</td>
+    <tr class="formnum">
+      <td valign="top">Translation of a document relating to an LLP</td>
+      <td valign="top">A member, designated member, administrator, administrative receiver, receiver manager, receiver, liquidator or judicial factor, in each case, of the LLP to which the document relates</td>
+    </table>
+  <p>    (2) The certificate must be in black typescript or handwritten in black ink.</p>
+  <p> (3) The person giving the certificate must sign at the end of the certificate.</p>
+  <p><strong>Chapter 3<br>
+    Form and authentication of translations</strong></p>
+  <p><strong>Requirements as to form of translation</strong></p>
+  <p>    99. (1) This rule imposes requirements on all translations. Rules [100] and [101] impose additional requirements as to form and authentication of some translations. </p>
+  <p> (2) A scheduled form translation (defined in paragraph (4)) must be delivered to the registrar in the relevant scheduled form. That translation must comply with the requirements in Parts 3 [4] [5] 6,[7], 8 as the case may be which are applicable to that scheduled form except any such requirements as to signature, supply of name and registered number and supply of a print of the name of signatory.</p>
+  <p> (3) A non-scheduled form translation (defined in paragraph (4)) must be on white paper and the text of the translation must be in black typescript or handwritten in black ink.</p>
+  <p> (4) In this rule-</p>
+  <ul class="noBullet">
+    <li> "non-scheduled form translation" means a translation which is not a scheduled form translation;</li>
+    <li> "scheduled form translation" means a translation of a document that is or was delivered in scheduled form or that would have been delivered in scheduled form if delivered in paper form instead of in electronic form.</li>
+  </ul>
+  <p><strong>Translation covering form (translation into a language other than English or Welsh)</strong></p>
+  <p>    100. (1) This rule applies to a translation into a language other than English or Welsh. The requirements in this rule are in addition to those imposed by rule 99.</p>
+  <p> (2) A translation to which this rule applies must be accompanied by the following information-</p>
+  <ul class="noBullet">
+    <li> (a) a description of the original document to which the translation relates, and</li>
+    <li> (b) (if the original document does not accompany the translation) the date of registration of that original document by the registrar.</li>
+  </ul>
+  <p>    (3) That information must be delivered to the registrar in a translation covering form (defined in paragraph (9)).</p>
+  <p> (4) A translation covering form must be reproduced as set out in Schedule 9 as to its text, layout and format and must be in black ink.</p>
+  <p> (5) A translation covering form must be on paper that complies with the following requirements-</p>
+  <ul>
+    <li>Size:	A4 </li>
+    <li> Colour:	White</li>
+    <li> Orientation:	Portrait   (Shorter edge across the top)</li>
+  </ul>
+  <p>(6) Text inserted in a translation covering form must be in black typescript or handwritten in black ink.</p>
+  <p> (7) A translation covering form must contain the name and registered number of the company or other body to which the form relates. The name and registered number must be inserted in black typescript or handwritten in black ink in the name and number boxes on the translation covering form. </p>
+  <p> (8) A translation covering form must be signed by one of the persons indicated on that form. The signature must be applied to the translation covering form where indicated on the form. </p>
+  <p> (9) In this Rule-</p>
+  <ul class="noBullet">
+    <li> "translation covering form" means the following form-
+    	<ul>
+    	<li> (a) (for a document relating to a company [ … ] or an overseas company)the form in Part 1 of Schedule 9;</li>
+    	<li> (b) (for a document relating to an LLP) the form in Part 2 of Schedule 9.</li>
+    	</ul>
+  	</li>
+  </ul>
+  <p><strong>Name and registered number (translation into Welsh) </strong></p>
+  <p>    101. A translation into Welsh must contain the name and registered number of the company or other body to which the translation relates. The name and registered number must be inserted in black typescript or handwritten in black ink in a prominent position in the translation.</p>
+  <p><strong>PART 12<br>
+    REPLACEMENT DOCUMENTS</strong></p>
+  <p><strong>Requirements applicable to a replacement document</strong></p>
+  <p>102. A replacement document (as defined in rule 4) must comply with the following-</p>
+  <ul class="noBullet">
+    <li> (a) the requirements in Part 2 (manner of delivery and receipt),</li>
+    <li> (b) the requirements in Parts 3, [  ] 6  …8,10 and 11 (as the case may be) that are applicable to that document, and</li>
+    <li> (c) the requirements in rule [103] (replacement covering form).</li>
+  </ul>
+  <p><strong>Replacement covering form</strong></p>
+  <p>103. (1) A replacement document must be accompanied by the following information-</p>
+  <ul class="noBullet">
+    <li> (a) a description of the original document to which the replacement relates, and</li>
+    <li> (b) the date of registration of that original document by the registrar.</li>
+  </ul>
+  <p> (2) That information must be delivered to the registrar in a replacement covering form (defined in paragraph 8).</p>
+  <p> (3) A replacement covering form must be reproduced as set out in Schedule 10 as to its text, layout and format and must be in black ink.</p>
+  <p> (4) A replacement covering form must be on paper that complies with the following requirements- </p>
+  <ul>
+    <li>Size:	A4 </li>
+    <li> Colour:	White</li>
+    <li> Orientation:	Portrait   (Shorter edge across the top)</li>
+  </ul>
+  <p>(5) Text inserted in a replacement covering form must be in black typescript or handwritten in black ink.</p>
+  <p> (6) A replacement covering form must contain the name and registered number of the company or other body to which the form relates. The name and registered number must be inserted in black typescript or handwritten in black ink in the name and number boxes on the replacement covering form.</p>
+  <p> (7) A replacement covering form must be signed by one of the persons indicated on that form. The signature must be applied to the replacement covering form where indicated on the form.</p>
+  <p> (8) In this rule-</p>
+  <ul class="noBullet">
+    <li> "replacement covering form" means the following form-
+    	<ul>
+        <li> (a) (for a document relating to a company […. ] or an overseas company) the form in Part 1 of Schedule 10;</li>
+    	<li> (b) (for a document relating to an LLP) the form in Part 2 of Schedule 10.</li>
+  		</ul>
+        </li>
+   	</ul>
+  <p><strong>PART 13<br>
+    REVOCATION</strong></p>
+  <p><strong>Revocation of existing rules</strong></p>
+  <p>    104. (1) The existing rules (defined in paragraph (3)) are revoked, subject to paragraph (2).</p>
+  <p> (2) The revocation of the existing rules does not affect the operation of those rules in relation to a document delivered to the registrar in pursuance of an obligation arising before 1st October 2009.</p>
+  <p> (3) In this rule-</p>
+  <ul class="noBullet">
+    <li> "existing rules" means
+    	<ul>
+    	<li> (a) the registrar’s rules 2007 ; and</li>
+   		<li> (b) the requirements in regulation 5 of the Companies (Welsh Language Forms and Documents) Regulations 1994  that took effect pursuant to paragraph 1 of Schedule 5 to the Companies Act 2006 (Commencement No.1, Transitional Provisions and Savings) Order 2006   as if they were imposed by means of rules under section 1117 of the 2006 Act.</li>
+        </ul>
+	</li>
+  </ul>
+  <table cellpadding="1" width="100%">
+    <tr>
+      <td valign="top" style="width:20%;">Signed by: </td>
+      <td valign="top" style="width:80%;">........ Registrar of Companies for England and Wales</td>
+    <tr class="formnum">
+      <td valign="top">&nbsp;</td>
+      <td valign="top">........ Registrar of Companies for Scotland</td>
+    <tr class="formnum">
+      <td valign="top">&nbsp;</td>
+      <td valign="top">........ Registrar of Companies for Northern Ireland </td>
+    </table>
+  <p><strong>SCHEDULE 1<br>
+    PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE RULES</strong></p>
+  <p>(1) The following provisions of the Companies Act 2006-</p>
+  <ul class="noBullet">
+    <li> Sections 1059A, 1068, 1071, 1076(3), 1106(4), 1111 and 1117 </li>
+  </ul>
+  <p> (2) Section 26 of the Welsh Language Act 1993</p>
+  <p> (3) The following provisions of the Companies (Cross-Border Mergers) Regulations 2007-</p>
+  <ul class="noBullet">
+    <li> Regulations 4(1)(b), 4(4), 12(6)(a) and 19(4)(a)</li>
+  </ul>
+  <p> (4) The following provisions of the Limited Liability Partnerships Act 2000 and the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009</p>
+  <ul class="noBullet">
+    <li> Section 15 and 17 of the Limited Liability Partnerships Act 2000</li>
+    <li>Regulation 46 and 68 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 </li>
+  </ul>
+  <p><strong>SCHEDULE 2<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO COMPANIES DELIVERED UNDER THE COMPANIES ACT 2006<br>
+  </strong></p>
+  <p><strong>Part 1<br>
+    English forms<br>
+  </strong></p>
+  <p><strong>Part 2<br>
+    Welsh language forms<br>
+  </strong></p>
+  <p><strong>Part 3<br>
+    Orange coloured forms<br>
+  </strong></p>
+  <p><strong>SCHEDULE 3<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO COMPANIES DELIVERED UNDER THE COMPANIES (CROSS-BORDER MERGERS) REGULATIONS 2007<br>
+  </strong></p>
+  <p><strong>SCHEDULE 4<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO SECTION 1040 COMPANIES <br>
+  </strong></p>
+  <p><strong>SCHEDULE 5<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING OVERSEAS COMPANIES </strong></p>
+  <p><strong>Part 1<br>
+    English forms<br>
+  </strong></p>
+  <p><strong>Part 2<br>
+    Orange coloured forms</strong></p>
+  <p><strong>SCHEDULE 6<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO EUROPEAN PUBLIC-LIMITED LIABILITY COMPANIES <br>
+  </strong></p>
+  <p><strong>SCHEDULE 7<br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO LIMITED LIABILITY PARTNERSHIPS <br>
+  </strong></p>
+  <p><strong>Part 1<br>
+    English forms<br>
+  </strong></p>
+  <p><strong>Part 2<br>
+    Welsh language forms<br>
+  </strong></p>
+  <p><strong>Part 3<br>
+    Orange coloured forms<br>
+  </strong></p>
+  <p><strong>SCHEDULE 8 <br>
+    SCHEDULED FORMS FOR DOCUMENTS RELATING TO EUROPEAN ECONOMIC INTEREST GROUPINGS <br>
+  </strong></p>
+  <p><strong>SCHEDULE 9<br>
+    TRANSLATION COVERING FORMS</strong></p>
+  <p><strong>Part 1<br>
+    Companies [ …]and overseas companies</strong></p>
+  <p><strong>Part 2 <br>
+    Limited Liability Partnerships</strong></p>
+  <p><strong>[…]</strong></p>
+  <p><strong>SCHEDULE 10 <br>
+    REPLACEMENT COVERING FORMS</strong></p>
+  <p><strong>Part 1<br>
+    Companies […]and overseas companies</strong></p>
+  <p><strong>Part 2 <br>
+    Limited Liability Partnerships</strong></p>
+  <p><strong>[…]</strong></p>
+    <p><strong>Draft 2009 rules: Version dated 19 June 2009</strong></p>
+    <div align=center>
+  <a name="volume4"></a>
+
+  <p class="GBBoxes"><strong>REGISTRAR’S RULES 2009<br>
+   VOLUME 4</strong></p>
+  <p><strong>AUTHENTICATION OF A CERTIFICATE SENT BY THE REGISTRAR BY ELECTRONIC MEANS<br>
+  </strong></p>  
+  </div>
+  <p><em>Made [	] 2009<br>
+    Coming into force 1st October 2009</em></p>
+
+  <p>CONTENTS OF VOLUME 4</p>
+  <p>1.  Commencement<br>
+    2.  Application of this Volume<br>
+    3.  Revocation of s710A approvals<br>
+    4.  Definitions and general interpretation<br>
+    5.  Authentication and issue of e-certificates</p>
+<hr>
+  <p>SCHEDULES</p>
+  <p>Schedule 1 - Visual representation of the seal</p>
+  <p>The registrar of companies makes the following rules in exercise of the powers conferred by section 1115(2) and section 1117 of the Companies Act 2006<br>
+  </p>
+  <p><strong>Commencement</strong></p>
+  <p>    1. The rules in this Volume come into force on 1st October 2009.</p>
+  <p><strong>Application of this Volume</strong></p>
+  <p>    2.(1) The rules in this Volume apply to electronic certificates issued by the registrar on or after 1st October 2009.</p>
+  <p> (2)  Other Volumes of the registrar’s rules 2009 cover the following matters-</p>
+  <ul class="noBullet">
+    <li> (a) Requirements applicable to documents delivered to the registrar in electronic form (Volume 1);</li>
+    <li> (b) Requirements applicable to documents delivered to the registrar in paper form (Volume 2);</li>
+    <li> (c) Requirements applicable to a document or part of a document delivered to the registrar on a CD-ROM or DVD-ROM (Volume 3);</li>
+    <li> (d)  Fees payable to the registrar (Volume 4).</li>
+  </ul>
+  <p><strong>Revocation of s710A approvals</strong> </p>
+  <p>  3. All approvals issued by the registrar pursuant to section 710A of the Companies Act 1985 in respect of the communication and authentication by the registrar of information in non-legible form are revoked with effect from 1st October 2009.</p>
+  <p><strong>Definitions and general interpretation</strong></p>
+  <p>    4.(1)  In this Volume of the rules-</p>
+  <p>"application" means a document or documents delivered to the registrar in electronic form and in respect of which the registrar is under a duty to issue a certificate if properly delivered to him;</p>
+  <p> "e-certificate" means a document in the form of an electronic portable document format (PDF) file that, if it were in hard copy form, would be required to be signed by the Registrar or authenticated by his seal;</p>
+  <p>"seal" means electronic code under the control of the registrar;</p>
+  <p>"visual representation of the seal" means any of the images contained in Schedule 1;</p>
+  <p>Unless the context otherwise requires, references to sections are to sections of the Companies Act 2006.</p>
+  <p>(2)  In this Volume of the rules-</p>
+  <ul class="noBullet">
+    <li> (a) any reference to a "rule" or "rules" is a reference to the rules in this Volume of the registrar’s rules 2009 and any reference to a numbered rule or Schedule is to the rule or Schedule so numbered in this Volume;</li>
+    <li> (b) any reference to an Act includes a reference to any subordinate legislation made under that Act;</li>
+    <li>(c) words in the singular shall include the plural and vice versa and a reference to a gender shall include a reference to all genders.</li>
+  </ul>
+  <p><strong>Authentication and issue of e-certificates</strong></p>
+  <p>    5.(1)  This rule only applies to e-certificates sent by the registrar using electronic means. </p>
+  <p> (2) Upon registering a properly delivered application the registrar will create an authenticated e-certificate.</p>
+  <p> (3) The registrar authenticates the e-certificate by incorporating his seal within it such that the legible copy of the electronic file representing the e-certificate bears a visual representation of the seal.<br>
+  </p>
+  <p> 
+    SCHEDULES</p>
+  <p><strong>Schedule 1 - Visual representations of the seal</strong></p>-->
+  
+<!-- Content-End --></td>
+<td align="left" valign="top">
+<div class="rightNavigation">
+  <!--#include virtual="/inc/quicklinksInfoandGuide.html" -->
+  
+  <!-- Quicklinks -->
+
+  <!--#include virtual="/inc/quicklinksGeneral.html" -->
+<!-- END Quicklinks -->
+
+</div></td>
+</tr>
+</table><!--#include virtual="/inc/footer2012.html" -->
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+</body>
+</html>

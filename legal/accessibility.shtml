@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>Accessibility</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Accessibility">
+<meta name="creator" content="Marketing">
+<meta name="contributor" content="">
+<meta name="identifier" content="Accessibility">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="Accessibility, W3C, usability ">
+<meta name="description" content="Information on Accessibility of the website">
+
+<meta name="date-source-created" content="January 2007">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="30/04/2012">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Guidance">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation"content="http://www.companieshouse.gov.uk/welsh/legal/accessibility_W.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012noTabs.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="2" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" class="bluemidtext">
+    <!-- Content-Start title="Accessibility" -->
+
+<h2>Accessibility</h2>
+<p>Companies House is committed to providing a website that is accessible to the widest possible audience - regardless of ability or browsing technology and including those who have visual, hearing, motor and cognitive impairments.</p>
+<p>This website endeavours to conform to the <a href="http://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a> Web Content Accessibility Guidelines 2.0. Our online services (Companies House Direct, WebCHeck and WebFiling) may not meet these guidelines at this present time but we are in the process of developing them. </p>
+  <p> This website is built using code compliant with W3C standards for HTML and Cascading Style Sheets. We design the site with usability and accessibility in mind. </p>
+  <p> If you have any problems accessing any information on the site please Email: <a href="mailto:ismith@companieshouse.gov.uk">ismith@companieshouse.gov.uk</a></p>
+  
+  <h3> Adjusting text size </h3>
+  <p> To increase or decrease the text size, simply adjust your browser's settings: </p>
+  <ul>
+    <li> For Microsoft Internet Explorer, go to the 'View' menu, select 'Text Size' and then the option that suits you (please note that medium is default). </li>
+    <li> For Mozilla Firefox, go to the 'View', select 'Text Size' and then either 'Increase' or 'Decrease' until the text is the size you require. </li>
+  </ul>
+  <h3> Text Only </h3>
+  <p> To view our text only site please go to the 'Text Only' link (access key '2') on our top navigation. Please note that this only works on our promotional website and not on WebCHeck or WebFiling. </p>
+  <h3> Images </h3>
+  <p>  All content images used in this site include descriptive ALT attributes. Purely decorative graphics or those used for layout include null ALT attributes. If you wish to hide images please adjust your browser's settings: </p>
+  <ul>
+    <li> In <strong>Internet Explorer</strong>, go to Tools then Internet Options then Advanced, scroll down to the Multimedia section and uncheck the 'Show pictures' option (to restore, recheck the 'Show pictures' option).<br>
+    </li>
+    <li> In <strong>Firefox</strong>, go to Tools then Options, then the Content tab and uncheck the 'load images automatically' option (to restore, recheck the 'load images automatically' option).<br>
+    </li>
+    <li> In <strong>Chrome</strong>, go to Customise (spanner icon) then Options, and select the Under the Bonnet tab. Select Content settings under Privacy, and via the Images tab check 'Do not show images' (to restore, check 'Show all images').<br>
+    </li>
+    <li> In <strong>Safari</strong>, go to the Customise (gear icon) then Preferences, and select the Appearances tab and uncheck the 'Display images when the page opens' option (to restore, recheck the 'Display images when the page opens' option). </li>
+  </ul>
+  <h3> PDF </h3>
+  <p> We use PDF format for many of the forms on our site. You will need Adobe reader (or another PDF viewer) to view PDF documents. <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Download the more recent version of Adobe reader here.</a></p>
+  <h3> Contact us </h3>
+  <p> If you have any questions or comments, please contact Mr Ian Smith: <a href="mailto:ismith@companieshouse.gov.uk">ismith@companieshouse.gov.uk</a></p>
+  <h3> Useful Links</h3>
+  <p> The following websites will have useful advice and information about web accessibility. </p>
+  <ul>
+    <li><a href="http://www.w3.org/" target="_blank">World Wide Web Consortium (W3C) (opens in new window)</a></li>
+    <li><a href="http://www.w3.org/WAI/" target="_blank">W3C Web Accessibility Initiative (WAI) (opens in new window)</a></li>
+    <li><a href="http://www.rnib.org.uk/professionals/webaccessibility/Pages/web_accessibility.aspx" target="_blank">RNIB web access centre (opens in new window)</a></li>
+    <li><a href="http://www.drc.org.uk/" target="_blank">Disability Rights Commission (opens in new window)</a></li>
+    <li><a href="http://www.bbc.co.uk/accessibility/" target="_blank">BBC My Web My Way (opens in new window)</a></li>
+  </ul>
+  <p>  
+      <!-- Content-End -->
+  </td>
+</tr>
+</table>
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+</body>
+</html>

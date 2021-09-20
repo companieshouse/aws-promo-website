@@ -1,0 +1,20 @@
+@charset "utf-8";
+#last-24-hours-docs, #last-month-docs {height:9em; }
+#last-month-total-docs {height:10.5em; }
+#chs-referrer, #daily-chs {height:17.5em; }
+#images-ordered {height:9em; }
+#daily-response-times {height:7em; }
+#live-response-times{margin-top:5em;}
+#g1, #g2, #g3, #g4, #g5 {height:9em;}
+#gauge, #chd-performance, #wck-performance, #xml-performance, #chs-performance, #chips-performance, #ewf-performance {height:240px;} 
+.page-header {margin-bottom:0; padding-bottom:0.5em;}
+.page-header .hgroup h1 {padding-bottom: 1rem; font-size:45px;}
+.totals h2.heading-medium strong {margin-bottom:-0.2em;}
+.totals .column-third span {margin-bottom:-4em;}
+#total-processed {height:12em;}
+.page-header .hgroup h2.subtitle{ margin:-0.25em 0 -1em 0; display:block; font-size:1.1em}
+h2.response-times-header{margin-top:1.5em; margin-bottom:0.5em;}
+h2.response-times-daily {margin-top:1em;}
+.heading-large.tv {margin-top:0.85em;}
+.heading-medium.tv {margin-top:0.85em; margin-bottom:0;}
+.subtitle.inline {padding-left:1em; color:#6f777b;}

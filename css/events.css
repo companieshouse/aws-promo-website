@@ -1,0 +1,125 @@
+#whatisit {float:left; width:520px; margin-right:30px;}
+#wherewhen {float:right; margin-right:20px; width:175px;}
+
+h3.what {background:url(/images/info24px.png) no-repeat center left; padding:5px -0 5px 30px;}
+h3.where {background:url(/images/compass24px.png) no-repeat center left; padding:5px 0 5px 30px;}
+h3.when {background:url(/images/clock24px.png) no-repeat center left; padding:5px 0 5px 30px; margin-top:50px; }
+h3.book {background:url(/images/tick24px.png) no-repeat bottom left; padding:35px 0 5px 30px;}
+form p {margin: 10px 0 3px 0;}
+
+/* === List Styles === */
+.contact_form ul {
+    list-style-type:none;
+	list-style-position:outside;
+	margin:0px;
+	padding:0px;
+}
+.contact_form li{
+	padding:12px 12px 12px 0; 
+	position:relative;
+} 
+
+/* === Form Header === */
+.contact_form h2 {
+	margin:0;
+	display: inline;
+}
+
+/* === Form Elements === */
+.contact_form label, .contact_form legend {
+	width:160px;
+	margin-top: -3px;
+	display:inline-block;
+	float:left;
+	padding:3px 8px 3px 3px;
+}
+.contact_form input {
+	height:20px; 
+	width:280px; 
+	padding:5px 8px;
+}
+.contact_form textarea {padding:8px; width:280px;}
+.contact_form select  {padding:8px; width:300px;}
+.contact_form select.eventTime  {width:auto;}
+.contact_form input[type="radio"] {width:10px; border:none; height:10px;}
+.contact_form input[type="radio"] + label {float:none; width:130px;}
+.contact_form fieldset {margin: 10px 0 0 0;}
+
+/* form element visual styles */
+.contact_form input, .contact_form textarea, .contact_form select { 
+	border:1px solid #aaa;
+	box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+	border-radius:2px;
+	padding-right:10px;
+	-moz-transition: padding .25s; 
+	-webkit-transition: padding .25s; 
+	-o-transition: padding .25s;
+	transition: padding .25s;
+}
+.contact_form input:focus, .contact_form textarea:focus {
+	background: #fff; 
+	border:1px solid #555; 
+	box-shadow: 0 0 3px #aaa; 
+	padding-right:70px;
+}
+
+/* === Button Style === */
+button.submit {
+	background-color: #68b12f;
+	background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
+	background: -webkit-linear-gradient(top, #68b12f, #50911e);
+	background: -moz-linear-gradient(top, #68b12f, #50911e);
+	background: -ms-linear-gradient(top, #68b12f, #50911e);
+	background: -o-linear-gradient(top, #68b12f, #50911e);
+	background: linear-gradient(top, #68b12f, #50911e);
+	border: 1px solid #509111;
+	border-bottom: 1px solid #5b992b;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	box-shadow: inset 0 1px 0 0 #9fd574;
+	-webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+	-moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+	-ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+	-o-box-shadow: 0 1px 0 0 #9fd574 inset;
+	color: white;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+	text-shadow: 0 -1px 0 #396715;
+	margin:10px 0 0 170px;
+}
+button.submit:hover {
+	opacity:.85;
+	cursor: pointer; 
+}
+button.submit:active {
+	border: 1px solid #20911e;
+	box-shadow: 0 0 10px 5px #356b0b inset; 
+	-webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+	-moz-box-shadow: 0 0 10px 5px #356b0b inset;
+	-ms-box-shadow: 0 0 10px 5px #356b0b inset;
+	-o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+p.formPara {width:150px; }
+label.error {
+    color: #FF0000;
+    display: block;
+    padding: 5px 5px 0 30px;
+	margin:5px 10px 25px 170px;
+	background:url(/images/red_error.png) center left no-repeat;
+	width:100%;
+}
+
+del.booked {
+    color: #FF0000;
+}
+div.bookingForm p.information {margin-left:170px; background-image :url(/images/25pxBlueUpArrow.png); width:425px;}
+img.arrow {
+	float: right;
+	margin-left:10px;
+	position:absolute;
+}	
+span.eventsDisclaimer {padding:20px 250px 0 170px; display:block;}

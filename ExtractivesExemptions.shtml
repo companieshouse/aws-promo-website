@@ -1,0 +1,67 @@
+<!--#include virtual="/dashboard/includes/header1-no-refresh.html" -->
+<title>Companies House Extractives Service
+</title>
+<!--#include virtual="/inc/header2-gds.html" -->
+<style type="text/css">
+  /*Hacked styles needed to make the page match the orgiginal, ie override default GOV.UK standards*/
+  strong {
+    font-weight: bold;
+  }
+</style>
+
+<main id="page-container" role="main">
+
+  <!--<div class="header-context" id="global-breadcrumb">
+    <nav role="navigation">
+      <ol class="group">
+	  <li><a href="">Home</a></li>
+      </ol>
+      </nav>
+</div>-->
+
+  <header class="page-header group">
+    <div class="hgroup">
+      <h1>Companies House Extractives Service
+</h1>
+
+    </div>
+    <!--hgroup-->
+  </header>
+
+
+
+  <div class="text" id="content">
+    <p>Companies that have filed a statement explaining why a report on payments to governments has not been filed (form EX01):</p>
+    <ul class="list-bullet">
+      <li><a href="/about/pdf/Waldorf-Production-UK-Limited-05030838-2019.pdf">Waldorf Production UK Limited 05030838 (2019) (PDF 734Kb)</a></li>
+      <li><a href="/about/pdf/EX01-Curzon-Energy-PLC.pdf">Curzon Energy PLC 9976843 (2019) (PDF 515Kb)</a></li>
+      <li><a href="/about/pdf/EX01-MOGUK.pdf">Marubeni Oil & Gas (U.K.) Limited 03947050 (2019) (PDF 821Kb)</a></li>
+      <li><a href="/about/pdf/EX01-Rockrose.pdf">RockRose UKCS10 Limited 04105025 (2019) (PDF 294Kb)</a></li>
+      <li><a href="/about/pdf/EX01-Barrick-TZ-Limited.pdf">Barrick TZ Limited 07123187 (2019) (PDF 1.3MB)</a></li>
+
+    </ul>
+  </div>
+  <!--text"-->
+</main><!-- / #page-container -->
+
+<footer class="group js-footer" id="footer" role="contentinfo">
+  <div class="footer-wrapper">
+    <div class="footer-meta" style="padding:0;">
+      <div class="footer-meta-inner">
+        <ul>
+          <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
+          <li><a href="/legal/cookies.shtml">Cookies</a></li>
+          <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--end footer-->
+
+
+
+
+</body>
+
+</html>
