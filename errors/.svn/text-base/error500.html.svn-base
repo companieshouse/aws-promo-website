@@ -1,0 +1,336 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>500 Error - Internal Server Error</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="500 Error - Internal Server Error">
+<meta name="creator" content="">
+<meta name="contributor" content="">	
+<meta name="identifier" content="">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="03/10/2013">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="FAQ's">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="http://www.companieshouse.gov.uk/welsh/infoAndGuide/faq/fullList_W.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/tableless.css" rel="stylesheet" type="text/css">
+<link href="/css/reset.css" rel="stylesheet" type="text/css">
+<link href="/css/text.css" rel="stylesheet" type="text/css">
+<link href="/css/960.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery.ui.autocomplete.css" rel="stylesheet" type="text/css">
+<link href="/css/style2012.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+#FAQmenu {display:none;}
+#FAQmenuMain {font-weight:bold;}
+#errorPage a.serviceBox:link {
+	height:90px;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<!-- Start of /inc/header.html -->
+<div class="container_16">
+
+  <div class="grid_3">
+  <a href="/index.shtml"><img src="/images/CompaniesHouseNewLogo.png" alt="Companies House - back to home page"></a></div>
+  <h1 class="hidden">Companies House</h1>
+  <!-- end .grid_3 -->
+
+  <div class="grid_13">
+     
+        
+        <ul id="functionMenu">
+            <li><a href="/parser.pl" title="Text only">Text Only</a>&nbsp; |</li>
+            <li><a href="/legal/accessibility.shtml" title="Acessibility">Accessibility</a>&nbsp; |</li>
+           	<li><a href="http://www.tyrcwmniau.gov.uk/" title="Cymraeg">Cymraeg</a></li>
+        </ul><!--End of end of ul id="functionMenu"-->
+        
+     
+        
+  </div><!-- end .grid_13 -->
+
+
+  
+    <div class="grid_3">
+  </div>  <!-- end .grid_3 -->
+
+  <div class="grid_13">
+         <!-- Start of search -->       
+      	<div id="search">
+        <form action="/htsearch.cgi" method="get" class="formsearch">
+		<input type="hidden" name="config" value="htdig">
+		<input type="hidden" name="restrict" value="">
+		<input type="hidden" name="exclude" value="/rss"> 
+     	<input name="words" type="text" value="" id="words">
+        <input type="submit" name="Submit" value="Search" class="searchButton2012">
+        </form>
+        </div><!--End of end of div id="search"-->
+      	<!-- End of search -->
+        
+        
+</div> <!-- end .grid_16 -->
+
+
+<!--start of tabbed navigation section-->
+
+  <div class="grid_16">
+      	<ul id="navigation" class="engNav">
+            <li><a href="/index.shtml" title="Home">Home</a></li>
+        	<li><a href="/toolsToHelp/fileInformation.shtml" title="File Information">File Information</a></li>
+            <li><a href="/toolsToHelp/findCompanyInfo.shtml" title="Find Information">Find Information</a></li>
+            <li><a href="/infoAndGuide/companyRegistration.shtml" title="Start A Company">Start a Company</a></li>
+            <li><a href="/infoAndGuide/windingUpCompany.shtml" title="Close A Company">Close a Company</a></li>
+	        <li><a href="/forms/introduction.shtml" title="Forms">Forms</a></li>
+            <li><a href="/about/guidance.shtml" title="Guidance">Guidance</a></li>
+            <li><a href="/about/functionsHistory.shtml" title="About Us">About Us</a></li>
+            <li><a href="/toolsToHelp/ourServices.shtml" title="Our Services">Our Services</a></li>
+            <li><a href="/contact/index.shtml" title="Contact Us">Contact Us</a></li>
+            <li><a href="/infoAndGuide/faq/topFAQs.shtml" title="Frequently Asked Questions">FAQs</a></li>
+ 
+        </ul><!--End of end of ul id="navigation"-->
+  </div> <!-- end .grid_16 -->
+
+<!--end of tabbed navigation section-->
+
+
+
+
+  <div class="grid_16">
+	<div class="tabUnder">&nbsp;</div>
+  </div> <!-- end .grid_16 -->
+<!-- End of /inc/header.html -->
+
+<div class="wrapper"> <!-- Start of wrapper -->
+
+<!-- Content-Start title="Sorry, your page cannot be found" -->
+<div class="wrapright"> 	  
+	<div class="right">
+
+     <h2>500 Error - Internal Server Error</h2>
+     <h3>The requested URL was not found on this server.</h3>
+<p>If you typed the page address in your browser’s address bar, make sure that it is spelt correctly. </p>
+  
+<p>You may have followed a broken link from another site or found an error somewhere on our site. Here are some other ways to find the content you're looking for.</p>
+<ul>
+  <li> Try our site search (top right of every page)</li>
+  <li>Search the archived copies of <a href="http://webarchive.nationalarchives.gov.uk/*/http://www.companieshouse.gov.uk">the Companies House website at the UK Government Web Archive</a></li>
+  <li> If you still can't find what you're looking for, please email <a href="mailto:enquiries@companieshouse.gov.uk?subject=Companies House Website - Broken link">enquiries@companieshouse.gov.uk</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You may be interested in:</strong></p>
+<div id="errorPage">
+  <a href="/webfiling/fastrack/" class="serviceBox"><span>Our WebFiling service</span><img src="/images/whitePC_upArrow24px.png" alt=""></a>
+  <a href="http://www.companieshouse.gov.uk/info" class="serviceBox"><span>Our WebCHeck service</span><img src="/images/whiteSearch24px.png" alt=""></a>
+  <a href="/infoAndGuide/faq/topFAQs.shtml" class="serviceBox"><span>Our Top<br>FAQs</span><img src="/images/whiteQuestionMark24px.png" alt=""></a>
+</div>
+
+</div>  
+</div>    
+<!-- Content-End -->
+
+<!-- Start of inc/faqmenu.html -->
+<div class="leftNavigation">
+
+<ul id="themenu">
+    <li id="FAQmenuMain"><a href="/infoAndGuide/faq/fullList.shtml">Full list of FAQs</a>
+    <ul id="FAQmenu">
+        <li id="FAQaccounts"><a href="/infoAndGuide/faq/accountsAndReports.shtml" >Accounts &amp; Reports</a></li>
+        <li id="FAQamendingAccounts"><a href="/infoAndGuide/faq/amendingAccounts.shtml" >Amending Accounts</a></li>
+        <li id="FAQarticles"><a href="/infoAndGuide/faq/articlesOfAssociation.shtml" >Articles of Association</a></li>
+        <li id="FAQbranches"><a href="/infoAndGuide/faq/branchesPlaceBusiness.shtml" >Branches &amp; Places of Business</a></li>
+        <li id="FAQcapital"><a href="/infoAndGuide/faq/capital.shtml" >Capital</a></li>
+        <li id="FAQcertificate"><a href="/infoAndGuide/faq/certOfGoodStanding.shtml" >Certificate of good standing</a></li>
+        <li id="FAQchangeName"><a href="/infoAndGuide/faq/changeCompNameRes.shtml" >Change Of Company Name</a></li>
+        <li id="FAQcompAct"><a href="/infoAndGuide/faq/companiesAct2006.shtml" >Companies Act 2006</a></li>
+        <li id="FAQcompAdmin"><a href="/infoAndGuide/faq/companyAOD.shtml" >Companies Administration, Objections And Directions</a></li>
+        <li id="FAQpolicySE"><a href="/infoAndGuide/faq/europeanCompanies.shtml" >Companies House Policy on SE's (European Companies)</a></li>
+        <li id="FAQcompCharges"><a href="/infoAndGuide/faq/companyCM.shtml" >Company Charges &amp; Mortgages</a></li>
+        <li id="FAQcompNames"><a href="/infoAndGuide/faq/companyNames.shtml" >Company Names</a></li>
+        <li id="FAQdirAddresses"><a href="/infoAndGuide/faq/directorsAddresses.shtml" >Directors - addresses</a></li>
+        <li id="FAQdirOther"><a href="/infoAndGuide/faq/directorsOther.shtml" >Directors - other</a></li>
+        <li id="FAQdisq"><a href="/infoAndGuide/faq/ddr.shtml" >Disqualified Directors Register</a></li>
+        <li id="FAQforms"><a href="/infoAndGuide/faq/generalDocQ.shtml" >Forms&nbsp;</a></li>
+        <li id="FAQinformal"><a href="/infoAndGuide/faq/informalCorrection.shtml" >Informal Correction</a></li>
+        <li id="FAQlate"><a href="/infoAndGuide/faq/LFPandAppeals.shtml " >Late Filing Penalties</a></li>
+        <li id="FAQlegislation"><a href="/infoAndGuide/faq/legalisationOfCert.shtml" >Legalisation of certificates given by the Registrar of Companies</a></li>
+        <li id="FAQllps"><a href="/infoAndGuide/faq/llpFAQ.shtml" >Limited Liability Partnerships</a></li>
+        <li id="FAQliquidation"><a href="/infoAndGuide/faq/liquidationInsolve.shtml" >Liquidation &amp; Insolvency</a></li>
+        <li id="FAQmeetings"><a href="/infoAndGuide/faq/meetingsResolutions.shtml" >Meetings &amp; Resolutions</a></li>
+        <li id="FAQmembers"><a href="/infoAndGuide/faq/membersShareholders.shtml" >Members &amp; Shareholders</a></li>
+        <li id="FAQmemorandum"><a href="/infoAndGuide/faq/memorandumOfAssociation.shtml" >Memorandum of Association</a></li>
+        <li id="FAQmodel"><a href="/about/modelArticles/modelArticles.shtml" >Model Articles</a></li>
+        <li id="FAQnireland"><a href="/infoAndGuide/faq/northernIreland.shtml" >Northern Ireland</a></li>
+        <li id="FAQoverseas"><a href="/infoAndGuide/faq/overseasCompanies.shtml" >Overseas Companies</a></li>
+        <li id="FAQprincipalBusActivities"><a href="/about/miscellaneous/principalBusActivitiesList.shtml" >Principal Business Activities</a></li>
+        <li id="FAQprosecuting"><a href="/infoAndGuide/faq/prosecutingSO.shtml" >Prosecuting Solicitors Office</a></li>
+        <li id="FAQrectification"><a href="/infoAndGuide/faq/chargeRegister.shtml" >Rectification of Charge Register</a></li>
+        <li id="FAQroa"><a href="/infoAndGuide/faq/registeredOfficeAddress.shtml" >Registered Office (RO) Address </a></li>
+        <li id="FAQregNewComp"><a href="/infoAndGuide/faq/registerNewComp.shtml" >Registering A New Company </a></li>
+        <li id="FAQregPowers"><a href="/infoAndGuide/faq/registrarsPowers.shtml" >Registrar's Powers</a></li>
+        <li id="FAQregRules"><a href="/about/policyDocuments/registrarsRules/registrarsRules.pdf" >Registrar's Rules (PDF)</a></li>
+        <li id="FAQregCompromise"><a href="/infoAndGuide/faq/schemeArrange.shtml" >Registration of a Compromise or Arrangement - a Scheme of Arrangement</a></li>
+        <li id="FAQrightToManage"><a href="/about/miscellaneous/rightToManage.shtml" >Right to Manage a Company</a></li>
+        <li id="FAQsameDayServices"><a href="/infoAndGuide/faq/sameDayServices.shtml" >Same Day Services</a></li>
+        <li id="FAQsecondFiling"><a href="/forms/secondFilingFAQs.shtml" >Second Filings</a></li>
+        <li id="FAQsecs"><a href="/infoAndGuide/faq/secretaries.shtml" >Secretaries</a></li>
+        <li id="FAQSIC"><a href="/about/sic2007.shtml">SIC Codes</a></li>
+        <li id="FAQslavenburg"><a href="/infoAndGuide/faq/slavenburg.shtml" >Slavenburg</a></li>
+        <li id="FAQstriking"><a href="/infoAndGuide/faq/strikingOff.shtml" >Striking Off, Dissolution &amp; Restoration</a></li>
+        <li id="FAQtrading"><a href="/infoAndGuide/faq/tradingDisclosures.shtml" >Trading Disclosures</a></li>
+        <li id="FAQURA"><a href="/infoAndGuide/faq/URA.shtml" >Usual Residential Addresses (URA)</a></li>
+        
+        
+        <li id="FAQsoftware"><a href="/toolsToHelp/efilingfaq.shtml" >Software Filing Service</a></li>
+        <li id="FAQwebfiling"><a href="/infoAndGuide/faq/webFiling.shtml" >WebFiling Service</a></li>
+        <li id="FAQwebIncs"><a href="/infoAndGuide/faq/webIncorporationServiceFAQs.shtml" >Web Incorporation Service</a></li>
+        <li id="FAQproof"><a href="/infoAndGuide/proofFaqsWebFiling.shtml" >FAQs for New PROOF Sign-in via WebFiling</a></li>
+        </ul>
+</li>       
+
+</ul>
+</div>
+<!-- End of inc/faqmenu.html -->
+
+</div> <!-- End of wrapper -->
+
+
+<!-- START /inc/footer2012.html -->
+
+
+<div class="grid_16">
+	<div id="footer">
+
+   	<div class="grid_4">
+    <ul>
+    	<li><a href="/infoAndGuide/glossary.shtml">Glossary</a></li>
+    	<!--<li><a href="/sitemap.shtml">Site Map</a></li>-->
+    	<li><a href="/pressDesk/introduction.shtml">Press Desk</a></li>
+       	<li><a href="/infoAndGuide/index.shtml">Help</a></li>
+    </ul>
+  </div> <!-- end .grid_4 -->
+    <div class="grid_4">
+    <ul>
+        <li><a href="/legal/termsAndConditions.shtml#privacy">Privacy and Cookies</a></li>
+        <li><a href="/legal/termsAndConditions.shtml#disclaimer">Disclaimer</a></li>
+        <li><a href="/legal/crown.shtml">Crown Copyright &copy 2012</a></li>    	
+        <li><a href="/legal/termsAndConditions.shtml">Terms and Conditions</a></li> 
+    </ul>
+  </div>  <!-- end .grid_4 -->
+
+
+  <!-- end .grid_4 -->
+    <div class="grid_4">
+    <ul>
+    	<li><a href="http://webarchive.nationalarchives.gov.uk/*/http://www.companieshouse.gov.uk">Companies House Web Archive</a></li>
+		<li><a href="/freedomInformation/freedomInfo.shtml">Information Rights</a></li>
+		<li><a href="/links/introduction.shtml">Links</a></li>
+	</ul>
+  </div>  <!-- end .grid_4 -->
+  
+    <!-- end .grid_4 -->
+    <div class="grid_4">
+	<div class="footerSocial">
+    <ul>
+	    <li><a href="/rss/latestnews.xml"class="footerRSS" title="Subscribe to the Companies House News RSS feed">Subscribe to the Companies House News RSS feed</a></li>	
+        <li><a href="http://www.youtube.com/TheCompaniesHouse" class="footerYouTube" title="Companies House YouTube Channel">Companies House YouTube Channel</a></li>	
+        <li><a href="http://www.twitter.com/CompaniesHouse" class="footerTwitter" title="Companies House on Twitter">Companies House on Twitter</a></li>
+		<li><a href="http://www.linkedin.com/company/companies-house/products?trk=tabs_biz_product" class="footerLinkedIn" title="Companies House on LinkedIn">Companies House on LinkedIn</a></li>	
+		<li><a href="http://www.facebook.com/CompaniesHouse" class="footerFacebook" title="Companies House Facebook Page">Companies House Facebook Page</a></li>
+	<!--	<li><a href="#"class="footerGooglePlus" title="Companies House Google Plus"></a></li>-->
+        </ul>
+	</div><!-- end div class="footerSocialIcons" -->
+  	</div>  <!-- end .grid_4 -->
+  
+   
+  	<div class="grid_16">
+	<div class="promoIcons">
+    <ul>
+        <li><a href="/promo/cics/" class="cics">Community Interest Companies</a></li>
+        <li><a href="/about/ifts.shtml" class="ifts">Information Fair Trader Scheme</a></li>
+        <li><a href="/promo/bis/" class="bis">UK Department for Business, Innovation and Skills</a></li>
+        <li><a href="/promo/start/" class="start">StartUp Britain</a></li>				
+        <li><a href="/promo/govuk/" class="govuk">GOV.UK</a></li>	
+	</ul>  
+    </div><!-- end div class="promoIcons" -->
+    </div><!-- end .grid_16 -->
+
+        <div class="clear"></div>
+        
+</div> <!-- end div id="footer" -->  
+</div><!-- end .grid_16 -->        
+
+<!--Start of Javascript/jQuery-->
+
+	<script type="text/javascript" src="/js/jquery-1.7.min.js"></script>
+    
+    <script type="text/javascript" src="/js/jquery.ui.core.js"></script> <!--Automplete-->
+    <script type="text/javascript" src="/js/jquery.ui.widget.js"></script> <!--Automplete-->
+    <script type="text/javascript" src="/js/jquery.ui.position.js"></script> <!--Automplete-->
+    <script type="text/javascript" src="/js/jquery.ui.autocomplete.js"></script> <!--Automplete-->
+    <script type="text/javascript">
+        $(function() {   // Autocomplete
+            var availableTags = [
+                "Accounts",
+                "AD01",
+                "Annual Return",
+                "AP01",
+                "AR01",
+                "Articles Of Association",
+                "Change of Name",
+				"Companies House Direct",
+                "Company Names",
+                "Director",
+                "Dormant Accounts",
+                "DS01",
+                "Forms",
+                "Late Filing Penalties",
+                "LLP",
+                "Model Articles",
+                "SIC Codes",
+                "Stock Transfer",
+                "TM01",
+                "Webcheck",
+                "WebFiling"
+            ];
+            $( "#words" ).autocomplete({
+                source: availableTags
+            });
+        });
+    
+  
+        $(document).ready(function() { // Newsbox: so content is accessible with JS turned off - Index only
+            $('.cn_wrapper').css('height', '300px');
+            $('a.cn_more').css('position', 'absolute');
+            $('.cn_content').css('position', 'absolute');
+        });
+        </script>
+    
+
+
+<!--End of Javascript/jQuery-->
+<!-- END /inc/footer2012.html -->
+
+</body>
+</html>
