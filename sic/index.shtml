@@ -7,11 +7,11 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 <title>Nature of business: Standard Industrial Classification (SIC) codes</title>
-<!--[if gt IE 8]><!--><link href="http://resources.companieshouse.gov.uk/dashboard/companies-house_files/govuk-template.css" media="screen" rel="stylesheet" type="text/css"><!--<![endif]-->
+<!--[if gt IE 8]><!--><link href="/dashboard/companies-house_files/govuk-template.css" media="screen" rel="stylesheet" type="text/css"><!--<![endif]-->
 <!--[if IE 6]><link href="/dashboard/companies-house_files/govuk-template-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="/dashboard/companies-house_files/govuk-template-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 8]><link href="/dashboard/companies-house_files/govuk-template-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-<link href="http://resources.companieshouse.gov.uk/dashboard/companies-house_files/govuk-template-print.css" media="print" rel="stylesheet" type="text/css">
+<link href="/dashboard/companies-house_files/govuk-template-print.css" media="print" rel="stylesheet" type="text/css">
 <link href="//d1w3bn27loeaix.cloudfront.net/stylesheets/cookie-consent/cookie-banner-3.11.0.min.css" rel="stylesheet" />
 <!--[if IE 8]>
     <script type="text/javascript">
@@ -26,7 +26,7 @@
     </script>
 <![endif]-->
 <!--[if gte IE 9]><!-->
-  <link href="http://resources.companieshouse.gov.uk/dashboard/companies-house_files/fonts.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/dashboard/companies-house_files/fonts.css" media="all" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 
 <!--[if lt IE 9]>
@@ -42,12 +42,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--[if gt IE 8]><!--><link href="http://resources.companieshouse.gov.uk/dashboard/companies-house_files/elements-page.css" rel="stylesheet" type="text/css"><!--<![endif]-->
+<!--[if gt IE 8]><!--><link href="/dashboard/companies-house_files/elements-page.css" rel="stylesheet" type="text/css"><!--<![endif]-->
 <!--[if IE 6]><link href="/dashboard/companies-house_files/elements-page-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="/dashboard/companies-house_files/elements-page-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 8]><link href="/dashboard/companies-house_files/elements-page-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 
-<link href="http://resources.companieshouse.gov.uk/css/gds-style.css" rel="stylesheet" type="text/css" content="text/html; charset=UTF-8">
+<link href="/css/gds-style.css" rel="stylesheet" type="text/css" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <style>
@@ -134,7 +134,7 @@
     <div class="header-global">
       <div class="header-logo">
         <a class="content" id="logo" title="Go to the Companies House homepage" href="https://www.gov.uk/government/organisations/companies-house">
-        <img alt="" src="http://resources.companieshouse.gov.uk/dashboard/companies-house_files/org_crest_27px.png">Companies House</a>
+        <img alt="" src="/dashboard/companies-house_files/org_crest_27px.png">Companies House</a>
       </div>
     </div>
   </div>
@@ -193,7 +193,7 @@
   }
 </style>
 <main id="page-container" role="main">
-  <p class="font-xsmall language-switcher"><a href="http://resources.companieshouse.gov.uk/welsh/sic/">Cymraeg</a></p>
+  <p class="font-xsmall language-switcher"><a href="/welsh/sic/">Cymraeg</a></p>
 
   <header class="page-header group" id="content">
     <div class="hgroup">
@@ -3251,7 +3251,7 @@
     <div class="footer-meta" style="padding:0;">
       <div class="footer-meta-inner">
         <ul>
-          <li><a href="http://resources.companieshouse.gov.uk/legal/termsAndConditions.shtml">Policies</a></li>
+          <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
           <li><a href="https://ewf.companieshouse.gov.uk/cookies">Cookies</a></li>
           <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
         </ul>
@@ -3261,8 +3261,8 @@
 </footer>
 <!--end footer-->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script src="http://resources.companieshouse.gov.uk/js/tableSearch.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="/js/tableSearch.js"></script>
 
 <script type="text/javascript">
   $(function() {

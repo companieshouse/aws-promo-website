@@ -30,8 +30,110 @@
 <meta name="relation"content=" http://www.companieshouse.gov.uk/welsh/about/functionsHistory_W.shtml">
 <meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
 
-<!--#include virtual="/inc/css.html" -->
-<!--#include virtual="/inc/css2012.html" --><style type="text/css">
+<!-- Start of inc/css.html -->
+<link href="http://www.companieshouse.gov.uk/rss/latestnews.xml" rel="alternate" title="Companies House News" type="application/rss+xml">
+
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/tableless.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 6]>
+<style type="text/css">
+#boxes {margin-left:99px;}
+#menu :hover ul {display:none;}
+</style>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<style type="text/css">
+.news ul {list-style:none; margin:-18px 50px 0 0; padding:0;}
+</style>
+<![endif]-->
+<!-- Start of inc/css2012.html -->
+
+<link href="/css/reset.css" rel="stylesheet" type="text/css">
+<link href="/css/text.css" rel="stylesheet" type="text/css">
+<link href="/css/960.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery.ui.autocomplete.css" rel="stylesheet" type="text/css">
+<link href="/css/style2012.css" rel="stylesheet" type="text/css">
+<link href="/css/cookieInfo.css" rel="stylesheet" type="text/css">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+
+
+<!--[if lt IE 9 ]>
+<style type="text/css">
+.anythingSlider-default .anythingControls ul {
+	margin-top: 0 !important;
+}
+.anythingSlider-default .anythingControls ul a {
+	margin-bottom: 9px !important;
+}
+</style>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<style type="text/css">
+#sub-panel a {
+	margin-top:-15px;
+}
+#homepageAlert.gov {
+	width:950px;
+}
+#homepageAlert {
+	width:971px;
+    left:10px;
+}
+#homepageAlert.time a:hover, #homepageAlert.time a:focus {
+	color:#fff;
+    background-color:#006699;
+}
+#homepageAlert.time a:visited {
+    text-decoration:underline;
+        background-color:#006699;
+}
+.tabUnder {
+	margin:-17px -20px 0 -0px;
+}
+.landingPage a {
+	padding-right: 45px;
+    width:243px;
+}
+ul.contactNav {
+    display:block;
+	clear:both;
+}
+.searchButton2012 {
+    text-transform: capitalize;
+}
+.smallAccordion {
+	margin-top:10px !important;
+}
+</style>
+<![endif]-->
+
+<!--[if IE 8]>
+<style type="text/css">
+#footer .footerSocial ul li {
+	display: block;
+}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+.rightNavigation {
+	position:relative;
+    left:0;
+}
+img.downloadItNow {margin-top:20px;}
+.searchButton2012 {
+	padding:4px 12px 4px 12px;
+}
+.searchButton2012:hover, .searchButton2012:focus  {
+}
+</style>
+<![endif]-->
 #board, #events, #careers,#functionMain , #stats, #procurement, #fraud, #surveys {display:none;}
  #library{font-weight:bold}
 </style>
@@ -39,7 +141,16 @@
 </head>
 
 <body>
-<!--#include virtual="/inc/header2012.html" -->
+<!-- Start of /inc/header2012moved.html -->
+<a name="top" id="top"></a>
+<div class="container_16 moved">
+
+<h1>The Companies House website moved to <br /><a href="https://www.gov.uk/companieshouse">gov.uk/companieshouse</a> on 10 December 2014</h1>
+<h2>This archived content is likely to be out of date.<br /> Links, forms, search and other functionality may not work.</h2>
+
+</div> <!-- end div class="container_16" -->
+
+<!-- End of /inc/header2012moved.html -->
 <table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
 <tr>
   <td colspan="3" align="left" valign="top">&nbsp;</td>
@@ -52,7 +163,99 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<!--#include virtual="/inc/aboutusmenu.html" -->
+<!-- /inc/aboutUsMenu.html -->
+<!--<h2 class="menu_header"><span>About Us</span></h2>-->
+<ul id="themenu">
+
+  <li id="functionMain"><a href="/about/functionsHistory.shtml">Main Functions and History</a></li>
+  <li id="boardMain"><a href="/about/boardManagement.shtml">Companies House  Board and Management</a></li>
+  <li id="PDG"><a href="/about/miscellaneous/PDG.shtml">Public Data Group</a></li>
+  <li id="careersMain"><a href="/careers/careers.shtml">Careers</a>
+  
+    <ul id="careers">
+    <li id="vacancies"><a href="/careers/currentVacancies.shtml" >Current Vacancies</a></li>
+      <li id="vacancies1"><a href="/careers/vdates/CH_Online_External_Application_Form.doc">Application form (Word 294KB)</a></li>
+       <li id="vacancies2"><a href="/careers/vdates/CH_Monitoring_Form.doc">Monitoring forms to be completed (Word 196KB)</a></li>
+          <li id="sifted"><a href="/careers/siftedApplications.shtml" >Sifted Applications</a></li>
+      <li id="gis"><a href="/careers/vdates/guaranteedInterviewScheme.pdf" >The Guaranteed Interview Scheme and Form (PDF 253KB)</a></li>
+          <li id="equalMain"><a href="/careers/equalityAndDiversity.shtml">Equality and Diversity</a>
+          <ul id="equalDiversity">
+          <li id="equalityAct"><a href="/careers/equalityAct2010.shtml">Equality Act 2010</a></li>
+          <li id="equalityGuidance"><a href="/careers/equalityDiversityGuidance.shtml">Equality and Diversity Guidance</a></li>
+          <li id="EIAs"><a href="/careers/EIAs.shtml">Equality Impact Assessments (EIAs)</a></li>
+          <li id="equalityReporting"><a href="/careers/equalityDiversityReporting.shtml">Equality and Diversity Reporting</a></li>
+          </ul></li>
+      </ul>
+  </li>
+  <li id="bankHolidays"><a href="/about/miscellaneous/bankHolidays.shtml" >Public holidays &amp; office closures</a></li>
+  <li id="eventsMain"><a href="/about/chEvents.shtml">Events Calendar</a>
+    <ul id="events">
+      <li id="events3"><a href="/about/eventsInformation.shtml">Events Information</a></li>
+    <li id="events4"><a href="/about/focusGroup.shtml">Focus Groups</a></li>
+    </ul>
+  </li>
+  <li id="libraryMain"><a href="/about/chLibrary.shtml">Library</a>
+    <ul id="library">
+      <li id="library1"><a href="/about/corporateDocuments.shtml">Corporate Documents</a></li>
+      <li id="library2"><a href="/about/policyDocuments.shtml">Policy Documents</a></li>
+          <li id="library11"><a href="/about/policyDocuments/registrarsRules/infoRegistrarsRules.shtml">Registrar's Rules</a></li>
+      <li id="library3"><a href="/about/guidance.shtml">Detailed Guidance</a></li>
+         <li id="library8"><a href="/about/guidance1985.shtml">Archived Guidance</a></li>
+      <li id="library9"><a href="/about/tableA/index.shtml">Model Articles</a></li>
+      <li id="library4"><a href="/forms/formsOnline.shtml">Paper Forms</a></li>
+          <li id="library5"><a href="/registermagazine/index.shtml">Register Magazine (and Archive)</a></li>
+      <li id="library6"><a href="/about/miscellaneous.shtml">Miscellaneous</a></li>
+      <li id="library7"><a href="/about/accountPolicyChange.shtml">Company Policy Changes</a></li>
+          <li id="library10"><a href="/about/informalCorrection.shtml">Companies Act 2006: Informal Correction</a></li>
+    </ul>
+  </li>
+  
+  <li id="frenchGerman"><a href="/infoAndGuide/langGuidance.shtml">Deutsch/Fran&ccedil;ais/Cymraeg Guidance</a></li>
+  <li id="welsh_service"><a href="/about/miscellaneous/welshService.shtml">Welsh Service</a></li>
+  <li id="freedomMain"><a href="/freedomInformation/freedomInfo.shtml">Information Rights</a></li>
+  
+  <li id="statsMain"><a href="/about/statisticsAndSurveys.shtml">Statistics</a>
+  
+    <ul id="stats">
+      <li id="stats1"><a href="/about/businessRegisterStat.shtml">Monthly Company Register Statistics</a></li>
+        <li id="stats1a"><a href="https://www.gov.uk/government/statistics/announcements?utf8=%E2%9C%93&organisations%5B%5D=companies-house">Future release dates for monthly statistics</a></li>
+      <li id="stats4"><a href="/about/companiesRegActivities.shtml">Yearly Company Register Activities</a></li>
+          <li id="stats5"><a href="/about/publicTargets.shtml">Public Targets</a></li>
+          <li id="stats6"><a href="/about/lateFilingPenaltiesStatistics.shtml">Late Filing Penalties</a></li>
+          <li id="stats7"><a href="/about/transparencyAgenda.shtml">Transparency Agenda</a></li>
+          <li id="stats9"><a href="http://www.bis.gov.uk/insolvency/about-us/our-performance-statistics/insolvency-statistics">Insolvency Statistics</a></li>
+    </ul>
+  
+      <li id="surveysMain"><a href="/about/surveys.shtml">Surveys</a>
+  
+    <ul id="surveys">
+      <li id="stats3"><a href="/about/surveys.shtml">Our Surveys</a></li>
+           <li id="stats8"><a href="/about/staffSurvey.shtml">Staff Survey</a></li>
+            <li id="URIsurvey"><a href="https://response.questback.com/companieshouse/churi/">URI Survey</a></li>
+  <li id="Userpanel"><a href="http://www.companieshouse.gov.uk/about/userPanel.shtml">User Panel</a></li>
+    </ul>
+  
+  <li id="supplyMain"><a href="/about/supplyingCh.shtml">Procurement and Contracts</a>
+    <ul id="procurement">
+      <li id="procurement1"><a href="/about/procurementStrategy.shtml">Procurement Strategy</a></li>
+      <li id="procurement2"><a href="/about/termsConditionsContracts.shtml">Terms and Conditions for Contracts</a></li>
+      <li id="procurement3"><a href="/about/listCurrentContracts.shtml">List of Current Contracts</a></li>
+      <li id="procurement4"><a href="/about/contractsPublicTender.shtml">Contracts Currently Available for Public Tender</a></li>
+      <li id="procurement5"><a href="/about/procurementContacts.shtml">Procurement Contacts</a></li>
+    </ul>
+  </li>
+   <li id="fraudMain"><a href="/about/fraud.shtml">Fraud &amp; PROOF</a>
+    <ul id="fraud">
+      <li id="fraud1"><a href="/infoAndGuide/reportingFraud.shtml">Reporting fraud to us</a></li>
+      <li id="fraud3"><a href="/about/miscellaneous/misc1.shtml">Important fraud warnings</a></li>
+      <li id="fraud4"><a href="/infoAndGuide/proof.shtml">PROtected Online Filing (PROOF) Service</a></li>
+          <li id="fraud2"><a href="/infoAndGuide/proofFaqsWebFiling.shtml">PROtected Online Filing (PROOF) FAQs</a></li>
+  
+    </ul>
+  </li>
+   <li id="bogus"><a href="/securityAdvice/index.shtml">Bogus email security advice</a></li>
+  
+  </ul>
 <br></td>
 <td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt="" ></td>
 <td align="left" valign="top" class="bluemidtext">
@@ -393,9 +596,192 @@
 </td>
 </tr>
 </table>
-<!--#include virtual="/inc/footer2012.html" -->
-<!--#include virtual="/inc/statsTracker.html" -->
-<!--#include virtual="/inc/cookieInfo.html" -->
+<!-- START /inc/footer2012.html -->
+
+<div class="container_16">
+
+  <div class="grid_16">
+    <div id="footer">
+  
+       <div class="grid_4">
+      <ul>
+        <li><a href="/infoAndGuide/glossary.shtml">Glossary</a></li>
+        <li><a href="/about/statisticsAndSurveys.shtml">Statistics</a></li>
+        <li><a href="/pressDesk/introduction.shtml">Press Desk</a></li>
+       <li><a href="/about/chEvents.shtml">Events</a></li>
+      </ul>
+    </div> <!-- end .grid_4 -->
+      <div class="grid_4">
+      <ul>
+          <li><a href="/legal/termsAndConditions.shtml#privacy">Privacy and Cookies</a></li>
+          <li><a href="/legal/termsAndConditions.shtml#disclaimer">Disclaimer</a></li>
+          <li><a href="/legal/crown.shtml" role="contentinfo">Crown Copyright &copy; 2014</a></li>
+          <li><a href="/legal/termsAndConditions.shtml">Terms and Conditions</a></li>
+      </ul>
+    </div>  <!-- end .grid_4 -->
+  
+  
+    <!-- end .grid_4 -->
+      <div class="grid_4">
+      <ul>
+        <li><a href="http://webarchive.nationalarchives.gov.uk/*/http://www.companieshouse.gov.uk">Companies House Web Archive</a></li>
+      <li><a href="/freedomInformation/freedomInfo.shtml">Information Rights</a></li>
+      <li><a href="/links/introduction.shtml">Links</a></li>
+          <li><a href="/infoAndGuide/index.shtml">Help</a></li>
+    </ul>
+    </div>  <!-- end .grid_4 -->
+  
+      <!-- end .grid_4 -->
+      <div class="grid_4">
+    <div class="footerSocial" >
+      <ul>
+        <li><a href="/rss/latestnews.xml" class="footerRSS" title="Subscribe to the Companies House News RSS feed">Subscribe to the Companies House News RSS feed</a></li>
+          <li><a href="http://www.youtube.com/TheCompaniesHouse" class="footerYouTube" title="Companies House YouTube Channel">Companies House YouTube Channel</a></li>
+          <li><a href="http://www.twitter.com/CompaniesHouse" class="footerTwitter" title="Companies House on Twitter">Companies House on Twitter</a></li>
+      <li><a href="http://www.linkedin.com/company/companies-house/products?trk=tabs_biz_product" class="footerLinkedIn" title="Companies House on LinkedIn">Companies House on LinkedIn</a></li>
+      <li><a href="http://www.facebook.com/CompaniesHouse" class="footerFacebook" title="Companies House Facebook Page">Companies House Facebook Page</a></li>
+       </ul>
+    </div><!-- end div class="footerSocialIcons" -->
+      </div>  <!-- end .grid_4 -->
+  
+  
+      <div class="grid_16">
+    <div class="promoIcons">
+      <ul>
+          <li><a href="/promo/cics/" class="cics">Community Interest Companies</a></li>
+          <li><a href="/about/ifts.shtml" class="ifts">Information Fair Trader Scheme</a></li>
+          <li><a href="/promo/bis/" class="bis">UK Department for Business, Innovation and Skills</a></li>
+          <li><a href="/promo/start/" class="start">StartUp Britain</a></li>
+          <li><a href="/promo/govuk/" class="govuk">GOV.UK</a></li>
+  
+    </ul>
+      </div><!-- end div class="promoIcons" -->
+      </div><!-- end .grid_16 -->
+  
+          <div class="clear"></div>
+  
+  </div> <!-- end div id="footer" -->
+  </div><!-- end .grid_16 -->
+  </div><!-- end div class="container_16"-->
+  
+  <!--Start of Javascript/jQuery-->
+  
+    <script type="text/javascript" src="/js/jquery-1.7.min.js"></script>
+  
+      <script type="text/javascript" src="/js/jquery.ui.core.js"></script> <!--Automplete-->
+      <script type="text/javascript" src="/js/jquery.ui.widget.js"></script> <!--Automplete-->
+      <script type="text/javascript" src="/js/jquery.ui.position.js"></script> <!--Automplete-->
+      <script type="text/javascript" src="/js/jquery.ui.autocomplete.js"></script> <!--Automplete-->
+      <script type="text/javascript">
+          $(function() {   // Autocomplete
+              var availableTags = [
+                  "Accounts",
+                  "AD01",
+                  "Annual Return",
+                  "AP01",
+                  "AR01",
+                  "Articles Of Association",
+                  "Change of Name",
+          "Companies House Direct",
+                  "Company Names",
+                  "Director",
+                  "Dormant Accounts",
+                  "DS01",
+                  "Forms",
+                  "Late Filing Penalties",
+                  "LLP",
+                  "Model Articles",
+                  "SIC Codes",
+                  "Stock Transfer",
+                  "TM01",
+                  "Webcheck",
+                  "WebFiling"
+              ];
+              $( "#words" ).autocomplete({
+                  source: availableTags
+              });
+          });
+  
+  
+          $(document).ready(function() { // Newsbox: so content is accessible with JS turned off - Index only
+              $('.cn_wrapper').css('height', '300px');
+              $('a.cn_more').css('position', 'absolute');
+              $('.cn_content').css('position', 'absolute');
+          });
+          </script>
+  
+  
+  
+          <script type="text/javascript">  // back to top link
+  //plugin
+  jQuery.fn.topLink = function(settings) {
+    settings = jQuery.extend({
+      min: 1,
+      fadeSpeed: 200
+    }, settings);
+    return this.each(function() {
+      //listen for scroll
+      var el = $(this);
+      el.hide(); //in case the user forgot
+      $(window).scroll(function() {
+        if($(window).scrollTop() >= settings.min)
+        {
+          el.fadeIn(settings.fadeSpeed);
+        }
+        else
+        {
+          el.fadeOut(settings.fadeSpeed);
+        }
+      });
+    });
+  };
+  
+  //usage w/ smoothscroll
+  $(document).ready(function() {  // back to top link
+    //set the link
+    $('#top-link').topLink({
+      min: 400,
+      fadeSpeed: 500
+    });
+  //smoothscroll
+        $('#top-link').click(function(e) {
+          e.preventDefault();
+          $('body,html').animate({scrollTop:0},800);
+        });
+  });
+  </script>
+  
+  
+  
+  
+  
+  <a href="#top" id="top-link">Back to top</a>
+  
+  
+  
+  <!--End of Javascript/jQuery-->
+  <!-- END /inc/footer2012.html -->
+<!-- Start Piwik Tracking Code -->
+<!-- var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.companieshouse.gov.uk/piwik/" : "http://stats.companieshouse.gov.uk/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.companieshouse.gov.uk/piwik/piwik.php?idsite=1" style="border:0" alt=""></p></noscript>-->
+<!-- End Piwik Tracking Code -->
+<!-- START /inc/cookieInfo.html -->
+
+<div id="cookieInfo">
+  <a href="/legal/cookies.shtml">
+  <span class="hidden">Our Cookie Policy</span>
+  <img src="/images/cookieGraphic.png" alt="Cookie Policy" width="82" height="82">
+  </a>
+</div>
+
+<!-- END /inc/cookieInfo.html -->
 
 </body>
 </html>
