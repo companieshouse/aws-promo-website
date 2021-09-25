@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>Disclaimer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="language" content="English, Welsh">
+<meta name="coverage" content="">
+<meta name="title" content="Crown Copyright 2003">
+<meta name="contributor" content="">
+<meta name="description" content="Guidance on Crown copyright protection">
+<meta name="creator" content=" Companies House Marketing Team">
+<meta name="type" content="HTML,TEXT,">
+<meta name="source" content="">
+<meta name="disposal" content=" ">
+<meta name="publisher" content="Companies House, Crown Way, Cardiff. CF14 3UZ ">
+<meta name="CH-Date" content="Oct 2003">
+<meta name="accessibility" content="">
+<meta name="identifier" content="">
+<meta name="audience" content="">
+<meta name="CH-Mandate" content="">
+<meta name="format" content="HTML,TEXT,">
+<meta name="keywords" content="Guidance, Crown Copyright">
+<meta name="relation" content="">
+<meta name="rights" content="Crown Copyright ">
+
+<!-- Start of inc/css.html -->
+<link href="http://www.companieshouse.gov.uk/rss/latestnews.xml" rel="alternate" title="Companies House News" type="application/rss+xml"> 
+
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/tableless.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 6]>
+<style type="text/css"> 
+#boxes {margin-left:99px;}
+#menu :hover ul {display:none;}
+</style>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<style type="text/css"> 
+.news ul {list-style:none; margin:-18px 50px 0 0; padding:0;}
+</style>
+<![endif]-->
+
+<!-- End of inc/css.html --><script language="JavaScript" type="text/javascript">
+<!--
+function openurl(opt) {
+   if (opt == "info") { 
+      txt = document.dropdown.information.value;
+   }
+   if (opt == "tools") {
+   txt = document.dropdown.tools.value;
+   }
+   if(txt != "") {
+   window.location = txt;
+   }
+}
+
+function doIt()
+{
+var S='Company information at your fingertips';
+var text='I found this information on the Companies House website and thought that you would find it useful %0D%0D';
+var link=document.location;
+self.location="mailto:?subject="+S+"&body="+text+link;
+}
+
+function popup( url, width, height ) {
+     window.open(url,'popup', 'toolbar=0,scrollbars=1,location=0,status=1,menubar=1,resizable=yes,width=' + width + ',height=' + height + '');
+  }
+
+function openurl(opt) {
+   if (opt == "info") {
+      txt = document.dropdown.information.value;
+   }
+   if (opt == "tools") {
+   txt = document.dropdown.tools.value;
+   }
+   if(txt != "") {
+   window.location = txt;
+   }
+}
+
+//-->
+
+</script>
+
+</head>
+
+<body>
+<Script Language = "JavaScript" type="text/javascript">
+<!--  Hide script from older browsers
+ var urlAddress = "http://www.companieshouse.gov.uk";
+ var pageName = "Companies House";
+
+ function addToFavorites()
+ {
+  if (window.external)
+  {
+   window.external.AddFavorite(urlAddress, pageName);
+  }
+  else
+  { 
+   alert("Sorry! Your browser doesn't support this function.");
+  }
+ }
+ 
+ function remove(v) 
+ {
+	v.value = "";
+ }
+// -->
+</script>
+		<form action="/htsearch.cgi" method="post" class="formsearch">
+
+<input type="hidden" name="config" value="htdig">
+<input type="hidden" name="restrict" value="">
+<input type="hidden" name="exclude" value="">
+<div id="topNavDBlue">
+<a href="/about/functionsHistory.shtml" class="whitenav" title="the accesskey = '6'" accesskey='6'>About us</a> |
+<a href="/forms/introduction.shtml" class="whitenav" title="the accesskey = '7'" accesskey='7'>Forms</a> | 
+<a href="/careers/careers.shtml" class="whitenav" title="the accesskey = '8'" accesskey='8'>Careers</a> | 
+<a href="/contact/contactUs.shtml" class="whitenav" title="the accesskey = '9'" accesskey='9'>Contact us</a> | 
+<a href="/pressDesk/introduction.shtml" class="whitenav" title="the accesskey = 'n'" accesskey='n'>Press Desk</a> | 
+<a href="/legal/disclaimer.shtml" class="whitenav" title="the accesskey = 'i'" accesskey='i'>Disclaimer</a> | 
+<a href="http://www.tyrcwmniau.gov.uk/" class="whitenav" title="the accesskey = 'c'" accesskey='c' lang="cym">Cymraeg</a></div>
+
+<div id="topNavMBlue">
+
+<div id="search"><label for="words">Search this website</label>
+  <input name="words" type="text" class="searchbox2" value="Enter Keywords" id="words" onfocus="return remove(this);" ><input type="submit" name="Submit" value="GO" class="whitegobutton2"></div>
+  
+<div id="topNavMBlueText">
+<a href="/index.shtml" title="the accesskey = '1'" accesskey='1'>Home</a> | 
+<a href="/parser.pl" title="the accesskey = '2'" accesskey='2'>Text only</a> | 
+<a href="/links/introduction.shtml" title="the accesskey = '4'" accesskey='4'>Links</a> | 
+<a href="/sitemap.shtml" title="the accesskey = '5'" accesskey='5'>Site Map</a> 
+</div>
+
+</div>
+</form>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout">
+<tr>
+  <td colspan="4" align="left" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" align="left" valign="top" class="padding36">
+<!-- Start of Top FAQs -->
+<a href="/infoAndGuide/faq/topFAQs.shtml" id="faqSmall" title="Top FAQs - quick answers to our most frequently asked questions">
+	<span class="head">Top FAQs</span>
+	quick answers to our most frequently asked questions
+</a>
+<!-- end of Start of Top FAQs --><h2>Disclaimer</h2></td>
+</tr>
+
+<tr>
+  <td colspan="4" align="left" valign="top" class="headerDevider"><img src="/images/spacer.gif" width="100%" height="7" alt="" border="0"></td>
+  </tr>
+  <tr>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="180" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="25" height="1" alt="" border="0"></td>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="211" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top"><br>
+<br></td>
+<td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt="" border="0"></td>
+<td colspan="2" align="left" valign="top" class="bluemidtext"><strong>Disclaimer </strong><BR>
+<BR>
+<!-- Content-Start title="Our Surveys" -->
+The information available on this site is not intended to be comprehensive, and many details which may be relevant to particular circumstances have been omitted. Accordingly it should not be regarded as being a complete source of company law and information, and readers are advised to seek independent professional advice before acting on anything contained herein. Companies House cannot take any responsibility for the consequences of errors or omissions. <BR>
+              <br>
+              <strong>Notes for Users of Company Search or Disqualified Directors Search </strong><BR>
+            <BR>
+            The information available here is an extract from the Register of Companies / Register of Disqualified Directors which are updated on a regular basis. This may mean that occasional inaccuracies occur which we correct as soon as they are drawn to our attention. If you spot something which you think might be wrong, let us know so we can, if necessary, correct the database. <BR>
+              <br>
+              <strong><a name="compInfo"></a>Company Information Supplied by Companies House </strong><BR>
+              <BR>
+              Companies House is a registry of company information. We carry out basic checks to make sure that documents have been fully completed and signed, but we do not have the statutory power or capability to verify the accuracy of the information that companies send to us. We accept all information that companies deliver to us in good faith and place it on the public record. The fact that the information has been placed on the public record should not be taken to indicate that Companies House has verified or validated it in any way. <br>
+              <br>
+When Companies House examines accounts it only make basic checks on them, for example to ensure that the appropriate documents are there, that they are for the correct financial year and that they have been signed. If, subsequently, we receive a complaint that the accounts do not comply with the Companies Acts in some way we have a duty to draw this to the company&rsquo;s attention and, if appropriate, to ask for a set of revised accounts which do comply with the requirements.              <BR>
+              <br>
+              <strong>Links to external websites </strong><BR>
+              <BR>
+    It is our policy to obtain permission to link to other websites. We are not responsible for the content or reliability of the linked websites. Listing should not be taken as endorsement of any kind. We cannot guarantee that these links will work all of the time and we have no control over the availability of linked pages.<!-- Content-End -->
+  </td>
+</tr>
+<tr>
+  <td colspan="4" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="mediumBlueBg" summary="Table containing contact centre telephone number and email address">
+    <tr>
+      <td class="whiteBg"><img src="/images/spacer.gif" alt="" border="0"  width="1" height="20"></td>
+    </tr>
+  </table></td>
+</tr>
+<tr>
+  <td class="dotDevider" colspan="4"><img src="/images/spacer.gif" alt="" border="0"  width="1" height="2"></td>
+  </tr>
+<tr>
+  <td  class="whiteBg" colspan="4"><img src="/images/spacer.gif" alt="" border="0"  width="1" height="5"></td>
+  </tr>
+<tr>
+  <td class="mediumBlueBg" colspan="4"><img src="/images/spacer.gif" alt="" border="0"  width="1" height="1"></td>
+  </tr>
+<tr>
+  <td class="mediumLightBlueBg" colspan="4"><img src="/images/spacer.gif" alt="" border="0"  width="1" height="3"></td>
+  </tr>
+<tr>
+  <td align="left" valign="middle" class="whiteBg" colspan="4"><img src="/images/bullet_type4.gif" alt=""  width="10" height="4" border="0"class="padding53BottomNav"><a href="javascript:history.back()" class="bottomNavigation">Back</a><img src="/images/bullet_type4.gif" alt=""  width="10" height="4" border="0"  class="padding53BottomNav"><a href="#top" class="bottomNavigation">Top</a><img src="/images/bullet_type4.gif" alt=""  width="10" height="4" border="0"  class="padding53BottomNav"><a href="javascript:popup('/webcheck/pfriendly?tg=disclaimer.shtml', 500, 500)" class="bottomNavigation">Print Page</a><img src="/images/bullet_type4.gif" alt=""  width="10" height="4" border="0"  class="padding53BottomNav"><a onFocus="blur()" href="javascript:doIt()" class="bottomNavigation">Email page</a><img src="/images/bullet_type4.gif" alt="" width="10" height="4" border="0" class="padding53BottomNav"><a href="/sitemap.shtml" class="bottomNavigation">Site Map</a></td>
+  </tr>
+
+
+
+
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="mediumBlueBg" summary="Table containing contact centre telephone number and email address">
+<tr>
+<td align="left" valign="middle" class="padding53BottomNav2"><span class="smallwhitelink"><img src="/images/telephoneIcon.gif" alt="Telephone icon" width="11" height="7"> Contact Centre : +44 (0)303 1234 500 (<a href="/about/miscellaneous/contactCentreNumber.shtml" class="textLink" style="color: #FFFFFF;">national call rate</a>)&nbsp;<span class="helpdeskPurple">Minicom - 02920381245 &nbsp; 08:30 to 18:00 (UK time) <a href="/contact/contactUs.shtml" class="helpdeskPurple">Mon-Fri</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/emailIcon.gif" alt="Email icon" width="9" height="7"> Email:  <a href="mailto:enquiries@companies-house.gov.uk" class="helpdeskPurple"> 
+enquiries@companies-house.gov.uk</a></span></td>
+</tr>
+<tr>
+<td align="left" valign="middle" class="mediumLightBlueBg"><img src="/images/spacer.gif" alt="" width="1" height="3"></td>
+</tr>
+</table>
+
+<!-- Disclaimer and DTI table -->
+
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="paddingTopBottom6">
+    <a href="/legal/privacy.shtml" class="smallblack">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/acceptableUse.shtml" class="smallblack">Acceptable use statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/accessibility.shtml" class="smallblack">Accessibility</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/cookies.shtml" class="smallblack">Use of cookies</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/freedomInformation/freedomInfo.shtml" class="smallblack">Information Rights</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/pdf/codeCompliance.pdf" class="smallblack">Code of Compliance</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/crown.shtml" class="smallblack">&copy; Crown Copyright 2010</a> </td>
+  </tr>
+  <tr>
+    <td class="paddingTopBottom6" align="right" style="float:right;">
+    <a href="/about/ifts.shtml" target="_blank"><img src="/images/ifts_logo.gif" alt="IFTS Accredited"></a>&nbsp;
+    <a href="/promo/bis/" target="_blank"><img src="/images/berr_logo.gif" alt="http://www.bis.gov.uk" width="83" height="31"></a>&nbsp;&nbsp;<a href="/promo/businesslink/" target="_blank"><img src="/images/buslinkicon.jpg" alt="http://www.businesslink.gov.uk/" width="86" height="29"></a> </td>
+  </tr>
+</table>
+<!-- End Disclaimer and DTI table -->
+
+
+</body>
+</html>
