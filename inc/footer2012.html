@@ -1,0 +1,165 @@
+<!-- START /inc/footer2012.html -->
+
+<div class="container_16">
+
+    <div class="grid_16">
+        <div id="footer">
+    
+           <div class="grid_4">
+        <ul>
+            <li><a href="/infoAndGuide/glossary.shtml">Glossary</a></li>
+            <li><a href="/about/statisticsAndSurveys.shtml">Statistics</a></li>
+            <li><a href="/pressDesk/introduction.shtml">Press Desk</a></li>
+             <li><a href="/about/chEvents.shtml">Events</a></li>
+        </ul>
+      </div> <!-- end .grid_4 -->
+        <div class="grid_4">
+        <ul>
+            <li><a href="/legal/termsAndConditions.shtml#privacy">Privacy and Cookies</a></li>
+            <li><a href="/legal/termsAndConditions.shtml#disclaimer">Disclaimer</a></li>
+            <li><a href="/legal/crown.shtml" role="contentinfo">Crown Copyright &copy; 2014</a></li>
+            <li><a href="/legal/termsAndConditions.shtml">Terms and Conditions</a></li>
+        </ul>
+      </div>  <!-- end .grid_4 -->
+    
+    
+      <!-- end .grid_4 -->
+        <div class="grid_4">
+        <ul>
+            <li><a href="http://webarchive.nationalarchives.gov.uk/*/http://www.companieshouse.gov.uk">Companies House Web Archive</a></li>
+            <li><a href="/freedomInformation/freedomInfo.shtml">Information Rights</a></li>
+            <li><a href="/links/introduction.shtml">Links</a></li>
+            <li><a href="/infoAndGuide/index.shtml">Help</a></li>
+        </ul>
+      </div>  <!-- end .grid_4 -->
+    
+        <!-- end .grid_4 -->
+        <div class="grid_4">
+        <div class="footerSocial" >
+        <ul>
+            <li><a href="/rss/latestnews.xml" class="footerRSS" title="Subscribe to the Companies House News RSS feed">Subscribe to the Companies House News RSS feed</a></li>
+            <li><a href="http://www.youtube.com/TheCompaniesHouse" class="footerYouTube" title="Companies House YouTube Channel">Companies House YouTube Channel</a></li>
+            <li><a href="http://www.twitter.com/CompaniesHouse" class="footerTwitter" title="Companies House on Twitter">Companies House on Twitter</a></li>
+            <li><a href="http://www.linkedin.com/company/companies-house/products?trk=tabs_biz_product" class="footerLinkedIn" title="Companies House on LinkedIn">Companies House on LinkedIn</a></li>
+            <li><a href="http://www.facebook.com/CompaniesHouse" class="footerFacebook" title="Companies House Facebook Page">Companies House Facebook Page</a></li>
+           </ul>
+        </div><!-- end div class="footerSocialIcons" -->
+          </div>  <!-- end .grid_4 -->
+    
+    
+          <div class="grid_16">
+        <div class="promoIcons">
+        <ul>
+            <li><a href="/promo/cics/" class="cics">Community Interest Companies</a></li>
+            <li><a href="/about/ifts.shtml" class="ifts">Information Fair Trader Scheme</a></li>
+            <li><a href="/promo/bis/" class="bis">UK Department for Business, Innovation and Skills</a></li>
+            <li><a href="/promo/start/" class="start">StartUp Britain</a></li>
+            <li><a href="/promo/govuk/" class="govuk">GOV.UK</a></li>
+    
+        </ul>
+        </div><!-- end div class="promoIcons" -->
+        </div><!-- end .grid_16 -->
+    
+            <div class="clear"></div>
+    
+    </div> <!-- end div id="footer" -->
+    </div><!-- end .grid_16 -->
+    </div><!-- end div class="container_16"-->
+    
+    <!--Start of Javascript/jQuery-->
+    
+        <script type="text/javascript" src="/js/jquery-1.7.min.js"></script>
+    
+        <script type="text/javascript" src="/js/jquery.ui.core.js"></script> <!--Automplete-->
+        <script type="text/javascript" src="/js/jquery.ui.widget.js"></script> <!--Automplete-->
+        <script type="text/javascript" src="/js/jquery.ui.position.js"></script> <!--Automplete-->
+        <script type="text/javascript" src="/js/jquery.ui.autocomplete.js"></script> <!--Automplete-->
+        <script type="text/javascript">
+            $(function() {   // Autocomplete
+                var availableTags = [
+                    "Accounts",
+                    "AD01",
+                    "Annual Return",
+                    "AP01",
+                    "AR01",
+                    "Articles Of Association",
+                    "Change of Name",
+                    "Companies House Direct",
+                    "Company Names",
+                    "Director",
+                    "Dormant Accounts",
+                    "DS01",
+                    "Forms",
+                    "Late Filing Penalties",
+                    "LLP",
+                    "Model Articles",
+                    "SIC Codes",
+                    "Stock Transfer",
+                    "TM01",
+                    "Webcheck",
+                    "WebFiling"
+                ];
+                $( "#words" ).autocomplete({
+                    source: availableTags
+                });
+            });
+    
+    
+            $(document).ready(function() { // Newsbox: so content is accessible with JS turned off - Index only
+                $('.cn_wrapper').css('height', '300px');
+                $('a.cn_more').css('position', 'absolute');
+                $('.cn_content').css('position', 'absolute');
+            });
+            </script>
+    
+    
+    
+            <script type="text/javascript">  // back to top link
+    //plugin
+    jQuery.fn.topLink = function(settings) {
+      settings = jQuery.extend({
+        min: 1,
+        fadeSpeed: 200
+      }, settings);
+      return this.each(function() {
+        //listen for scroll
+        var el = $(this);
+        el.hide(); //in case the user forgot
+        $(window).scroll(function() {
+          if($(window).scrollTop() >= settings.min)
+          {
+            el.fadeIn(settings.fadeSpeed);
+          }
+          else
+          {
+            el.fadeOut(settings.fadeSpeed);
+          }
+        });
+      });
+    };
+    
+    //usage w/ smoothscroll
+    $(document).ready(function() {  // back to top link
+      //set the link
+      $('#top-link').topLink({
+        min: 400,
+        fadeSpeed: 500
+      });
+    //smoothscroll
+          $('#top-link').click(function(e) {
+            e.preventDefault();
+            $('body,html').animate({scrollTop:0},800);
+          });
+    });
+    </script>
+    
+    
+    
+    
+    
+    <a href="#top" id="top-link">Back to top</a>
+    
+    
+    
+    <!--End of Javascript/jQuery-->
+    <!-- END /inc/footer2012.html -->
