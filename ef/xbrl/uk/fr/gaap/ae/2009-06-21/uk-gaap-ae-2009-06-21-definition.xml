@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+Taxonomy Definition Linkbase based on XBRL Spec 2.1.
+--><linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+   <definitionLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:label="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:type="locator"/>
+      <loc xlink:href="../../gcd/2004-12-01/uk-gcd-2004-12-01.xsd#uk-gcd_EntityCurrentLegalName" xlink:label="uk-gcd_EntityCurrentLegalName" xlink:type="locator"/>
+      <definitionArc order="1.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gcd_EntityCurrentLegalName" xlink:type="arc"/>
+      <loc xlink:href="../../gcd/2004-12-01/uk-gcd-2004-12-01.xsd#uk-gcd_BalanceSheetDate" xlink:label="uk-gcd_BalanceSheetDate" xlink:type="locator"/>
+      <definitionArc order="2.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gcd_BalanceSheetDate" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_NetAssetsLiabilitiesIncludingPensionAssetLiability" xlink:label="uk-gaap-pt_NetAssetsLiabilitiesIncludingPensionAssetLiability" xlink:type="locator"/>
+      <definitionArc order="3.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-pt_NetAssetsLiabilitiesIncludingPensionAssetLiability" xlink:type="arc"/>
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_DirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct" xlink:label="uk-gaap-ae_DirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct" xlink:type="locator"/>
+      <definitionArc order="4.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-ae_DirectorsAcknowledgeTheirResponsibilitiesUnderCompaniesAct" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_DateApproval" xlink:label="uk-gaap-pt_DateApproval" xlink:type="locator"/>
+      <definitionArc order="5.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-pt_DateApproval" xlink:type="arc"/>
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_MembersHaveNotRequiredCompanyToObtainAnAudit" xlink:label="uk-gaap-ae_MembersHaveNotRequiredCompanyToObtainAnAudit" xlink:type="locator"/>
+      <definitionArc order="6.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-ae_MembersHaveNotRequiredCompanyToObtainAnAudit" xlink:type="arc"/>
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_CompaniesHouseDocumentAuthentication" xlink:label="uk-gaap-ae_CompaniesHouseDocumentAuthentication" xlink:type="locator"/>
+      <definitionArc order="7.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-ae_CompaniesHouseDocumentAuthentication" xlink:type="arc"/>
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_CompanyNotDormant" xlink:label="uk-gaap-ae_CompanyNotDormant" xlink:type="locator"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_TotalAssetsLessCurrentLiabilities" xlink:label="uk-gaap-pt_TotalAssetsLessCurrentLiabilities" xlink:type="locator"/>
+      <definitionArc order="4.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompanyNotDormant" xlink:to="uk-gaap-pt_TotalAssetsLessCurrentLiabilities" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_ShareholderFunds" xlink:label="uk-gaap-pt_ShareholderFunds" xlink:type="locator"/>
+      <definitionArc order="7.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompanyNotDormant" xlink:to="uk-gaap-pt_ShareholderFunds" xlink:type="arc"/>
+      <loc xlink:href="uk-gaap-ae-2009-06-21.xsd#uk-gaap-ae_DateApprovalDirectorsReport" xlink:label="uk-gaap-ae_DateApprovalDirectorsReport" xlink:type="locator"/>
+      <loc xlink:href="../../gcd/2004-12-01/uk-gcd-2004-12-01.xsd#uk-gcd_EntityBusinessDescription" xlink:label="uk-gcd_EntityBusinessDescription" xlink:type="locator"/>
+      <definitionArc order="1.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_DateApprovalDirectorsReport" xlink:to="uk-gcd_EntityBusinessDescription" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:label="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:type="locator"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_TurnoverGrossOperatingRevenue" xlink:label="uk-gaap-pt_TurnoverGrossOperatingRevenue" xlink:type="locator"/>
+      <definitionArc order="1.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_TurnoverGrossOperatingRevenue" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_CostSales" xlink:label="uk-gaap-pt_CostSales" xlink:type="locator"/>
+      <definitionArc order="2.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_CostSales" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_DistributionCosts" xlink:label="uk-gaap-pt_DistributionCosts" xlink:type="locator"/>
+      <definitionArc order="3.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_DistributionCosts" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_AdministrativeExpenses" xlink:label="uk-gaap-pt_AdministrativeExpenses" xlink:type="locator"/>
+      <definitionArc order="4.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_AdministrativeExpenses" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_TotalOperatingProfitLoss" xlink:label="uk-gaap-pt_TotalOperatingProfitLoss" xlink:type="locator"/>
+      <definitionArc order="5.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_TotalOperatingProfitLoss" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_ProfitLossOnOrdinaryActivitiesBeforeTax" xlink:label="uk-gaap-pt_ProfitLossOnOrdinaryActivitiesBeforeTax" xlink:type="locator"/>
+      <definitionArc order="7.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_ProfitLossOnOrdinaryActivitiesBeforeTax" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_TaxRelatedToProfitOrLossOnOrdinaryActivities" xlink:label="uk-gaap-pt_TaxRelatedToProfitOrLossOnOrdinaryActivities" xlink:type="locator"/>
+      <definitionArc order="8.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_TaxRelatedToProfitOrLossOnOrdinaryActivities" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_ProfitLossOnOrdinaryActivitiesAfterTax" xlink:label="uk-gaap-pt_ProfitLossOnOrdinaryActivitiesAfterTax" xlink:type="locator"/>
+      <definitionArc order="9.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_ProfitLossOnOrdinaryActivitiesAfterTax" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_GrossDividendPayment-AllShares" xlink:label="uk-gaap-pt_GrossDividendPayment-AllShares" xlink:type="locator"/>
+      <definitionArc order="10.0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-pt_RetainedProfitLossForFinancialYearTransferredToReserves" xlink:to="uk-gaap-pt_GrossDividendPayment-AllShares" xlink:type="arc"/>
+      <loc xlink:href="../../pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd#uk-gaap-pt_NameApprovingDirector" xlink:label="uk-gaap-pt_NameApprovingDirector" xlink:type="locator"/>
+      <definitionArc order="3.5" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/requires-element" xlink:from="uk-gaap-ae_CompaniesHouseRegisteredNumber" xlink:to="uk-gaap-pt_NameApprovingDirector" xlink:type="arc"/>
+   </definitionLink>
+</linkbase>
