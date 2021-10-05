@@ -176,16 +176,7 @@
         </div>
       </header>
 
-      <div class="covid">
-        <p>At Companies House, our priority is to protect the welfare of our employees. Due to the impact of coronavirus (COVID-19) it’s taking much longer than usual to process paper documents.</p>
-        <h2 class="heading-medium text">File online</h2>
-        <p>Use our online services to help us process your information as quickly as possible. You can:</p>
-        <ul class="list-bullet">
-          <li><a href="https://www.gov.uk/file-your-company-annual-accounts">file your accounts</a></li>
-          <li><a href="https://www.gov.uk/file-your-confirmation-statement-with-companies-house">file your confirmation statement</a></li>
-          <li><a href="https://www.gov.uk/file-changes-to-a-company-with-companies-house">make changes to your company</a></li>
-        </ul>
-      </div>
+
 
       <h2 class="heading-medium text">Important information</h2>
       <ul class="list-bullet">
