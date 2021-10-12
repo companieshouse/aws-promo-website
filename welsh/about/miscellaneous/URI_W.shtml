@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="cy">
+<head>
+<title>Tŷ’r Cwmnïau’n lansio Dynodwyr Adnodd Unffurf</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Tŷ’r Cwmnïau’n lansio Dynodwyr Adnodd Unffurf">
+<meta name="creator" content=" Amy Harcombe">
+<meta name="contributor" content="">
+<meta name="identifier" content="">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="URI, Uniform Resource Identifiers, company URI">
+<meta name="description" content="Information on company URIs (Uniform Resource Identifiers)">
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="18/10/2011">
+<meta name="date-html-modified" content="02/11/2012">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="Press">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="http://www.companieshouse.gov.uk/about/miscellaneous/URI.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" --><style type="text/css">
+#events, #library, #careers, #stats, #directors, #steering, #board, #procurement, #fraud, #statistics, #surveys {display:none;}
+</style>
+
+</head>
+
+<body>
+<!--#include virtual="/welsh/inc/header2012_W.html" -->
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="3" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="180" height="1" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+<td style="width:100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#include virtual="/welsh/inc/servicesMenu_W.html" -->
+<br></td>
+<td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+<td align="left" valign="top" class="bluemidtext">  
+
+ <!-- Content-Start title="Tŷ’r Cwmnïau’n lansio Dynodwyr Adnodd Unffurf" -->
+ <p><strong> T&#375;&rsquo;r Cwmn&iuml;au'n lansio Dynodwyr Adnodd Unffurf </strong></p>
+  <p> Mae T&#375;&rsquo;r Cwmn&iuml;au wedi datblygu gwasanaeth newydd i gyflenwi manylion sylfaenol am gwmnïau, gan ddefnyddio Dynodydd Adnodd Unffurf (URI) syml ar gyfer pob cwmni ar ein cofrestr. Cyfeiriad gwe unigryw sy’n cynrychioli'r cwmni (gan ddefnyddio'r parth 'business.data.gov.uk') yw'r URI; a bydd yn rhoi manylion sylfaenol ar gyfer y cwmni hwnnw. </p>
+  <p> Mae datblygu Dynodwyr Adnodd Unffurf ar gyfer cwmnïau'n gyson ag agenda eglurder y llywodraeth o'i gwneud yn haws i gael data cyhoeddus; a bydd yn cynnig ffordd fwy effeithlon o gysylltu data i ddefnyddwyr a'r diwydiant gwybodaeth fusnes. </p>
+  <p> I gael mwy o wybodaeth am y ffordd mae Dynodwyr Adnoddau Unigryw (URI) Tŷ’r Cwmnïau yn gweithio gweler <a href="http://www.w3.org/TR/cooluris/#r303gendocument">http://www.w3.org/TR/cooluris/#r303gendocument</a>, yn arbennig Adran 4.2 </p>
+  <p><strong> Pa fformatau gaiff eu cynnal? </strong></p>
+  <p> Mae chwe fformat yn cael eu cynnal ar gyfer Dynodwyr Adnodd Unffurf cwmnïau: </p>
+  <p> RDF, JSON, XML, CSV, YAML ac HTML. </p>
+  <p><strong> Sut ydw i'n gofyn am wybodaeth trwy Ddynodydd Adnodd Unffurf?</strong></p>
+  <p> Bydd angen i chi ddefnyddio'r rhif cwmni priodol yn strwythur yr URI: </p>
+  <div class="emailBox"> http://business.data.gov.uk/id/company/{companynumber} </div>
+  <p> Er enghraifft, byddai cwmni rhif 02050399 yn cael ei gynrychioli fel hyn: </p>
+  <div class="emailBox"> http://business.data.gov.uk/id/company/02050399 </div>
+  <p><strong> Pa ddata gaiff eu rhoi ar gyfer Dynodwyr Adnodd Unffurf? </strong></p>
+  <p> Caiff data eu dychwelyd yn y fformat sy’n briodol i’r system sy’n gofyn amdanynt, gan ddefnyddio cyd-drafod cynnwys (gweler <a href="http://www.w3.org/TR/cooluris/#r303gendocument">http://www.w3.org/TR/cooluris/#r303gendocument</a> )  </p>
+  <p>Dim ond manylion sylfaenol am y cwmni, megis: enw'r cwmni, cyfeiriad y swyddfa gofrestredig, statws y cwmni, dyddiad corffori, gwlad ei darddiad, math o gwmni, natur y busnes (SIC), dyddiad cyfeirnod cyfrifyddu, dyddiad ffeilio'r cyfrifon/ffurflen flynyddol ddiwethaf, dyddiad mae'r cyfrifon/ffurflen flynyddol nesaf yn ddyledus, enwau blaenorol. </p>
+  <p><strong> Beth fydd hyn yn ei olygu ar gyfer cynhyrchion a gwasanaethau eraill rwy'n eu cael oddi wrth D&#375;&rsquo;r Cwmn&iuml;au? </strong></p>
+  <p> Nid oes unrhyw newidiadau i unrhyw un o'r gwasanaethau eraill a ddarperir gan D&#375;&rsquo;r Cwmn&iuml;au. Bydd y rhain yn parhau i gal eu darparu yn yr un fformat. Cyfleuster ar wah&acirc;n yw'r URI. </p>
+  <a href="http://www.companieshouse.gov.uk/about/pdf/uniformResourceIdentifiersCustomerGuide.pdf"> Mwy o fanylion am Ddynodwyr Adnodd Unffurf a rhestr o'r wybodaeth am gwmn&iuml;au a roddir (Saesneg yn unig) (PDF 393kb)</a>
+  <!-- Content-End --></td>
+<td align="left" valign="top"><div class="rightNavigation">
+    
+    <!-- Quicklinks -->
+    <div class="rightNavigation">
+      <div class="quickLinks">
+        <h2>Cysylltiadau Sydyn</h2>
+        <br>
+        <div class="quicklinksdots">&nbsp;</div>
+        <img src="/images/quicklinks_yellow_ar.gif" alt="Quicklink Icon" width="32" height="23" style="float: right;"> 
+		<a href="http://www.companieshouse.gov.uk/about/pdf/uniformResourceIdentifiersCustomerGuide.pdf">
+        <strong> Canllaw i Gwsmeriaid ar Ddynodwyr Adnodd Unffurf (URI) (Saesneg yn unig) </strong> (PDF 393kb)</a>
+       
+	   <div class="quicklinksdots">&nbsp;</div>
+        <img src="/images/quicklinks_yellow_webfiling.gif" alt="Link to Our Targets" width="32" height="23"  style="float: right;">        <strong><a href="/welsh/toolsToHelp/ourServices_W.shtml"> Gwasanaethau Tŷ’r Cwmnïau</a></strong>
+<div class="quicklinksdots">&nbsp;</div>        <img src="/images/quicklinks_yellow_surveys.gif" alt="Link to Our Targets" width="32" height="23"   style="float: right;">
+   <a href="/about/surveys.shtml">   <strong>Arolygon:</strong><br>
+        Mae gennym ddiddordeb yn eich barn ar y gwasanaeth rydym yn ei gynnig.</a>
+         
+        <div class="quicklinksdots">&nbsp;</div>      </div>
+    </div>
+    
+<!-- END Quicklinks -->
+    
+</div></td>
+</tr>
+</table>
+<!--#include virtual="/welsh/inc/footer2012_W.html" -->
+<!--#include virtual="/welsh/inc/statsTracker_W.html" -->
+<!--#include virtual="/welsh/inc/cookieInfo_W.html" -->
+</body>
+</html>

@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="cy">
+<head>
+<title>Cwestiynau Cyffredin am Gynnyrch Swmp-ddata Cyfrifon</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Companies House Policy on SE's (European Companies)">
+<meta name="creator" content="Helen Fletcher, Policy and Planning">
+<meta name="contributor" content="">
+<meta name="identifier" content="Companies House Policy on SE's">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="Companies House Policy, SE companies, European Companies">
+<meta name="description" content="Information on Companies House Policy on SE's (European Companies)">
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="18/10/2013">
+<meta name="date-html-modified" content="">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="information">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+<style type="text/css">
+#FAQmenu {display:none;}
+#FAQmenuMain {font-weight:bold;}
+</style>
+
+
+</head>
+
+<body>
+<!--#include virtual="/welsh/inc/header2012_W.html" -->
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="3" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="180" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="25" height="1" alt="" border="0"></td>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#include virtual="/welsh/inc/faqmenu_W.html" -->
+<br></td>
+<td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+<td align="left" valign="top" class="bluemidtext">  
+<!-- Content-Start title="Cwestiynau Cyffredin am Gynnyrch Data Cyfrifon Am Ddim" -->
+<h2>Cwestiynau Cyffredin am Gynnyrch Data Cyfrifon Am Ddim</h2>
+
+    <a class="accordion-expand-all accordion-expand-welsh hidden" href="#">Dangos pobeth</a>
+    <div id="accordion">
+    
+ <h3>Pam mae Tŷ’r Cwmnïau wedi datblygu cynnyrch di-dâl?</h3>
+ <div class="content">
+ <p>Gan fod y rhan fwyaf o gyfrifon yn cael eu ffeilio’n electronig erbyn hyn, mae Tŷ’r Cwmnïau wedi penderfynu sicrhau bod y wybodaeth hon ar gael ar fformat data. Am y tro cyntaf, bydd gan ddefnyddwyr gyfle i drin data cyfrifon i ddiwallu eu hanghenion eu hunain.</p>
+ <p>Mae Tŷ’r Cwmnïau wedi cael cyllid gan <a href="https://www.gov.uk/government/policy-advisory-groups/public-sector-transparency-board">Fwrdd Tryloywder y Sector Cyhoeddus</a>, sy’n golygu y caiff y cynnyrch hwn ei gyhoeddi’n ddi-dâl.</p>
+ <p>Fel aelod o’r <a href="/welsh/about/miscellaneous/PDG_W.shtml">Grŵp Data Cyhoeddus</a> (PDG), mae Tŷ’r Cwmnïau wedi ymrwymo i’w agenda data agored a’i nod yw sicrhau bod ei wybodaeth ar gael yn rhwyddach, a bod cymaint o wybodaeth ag sy’n bosibl ar gael yn rhwydd.</p>
+ </div><!--End of div class="content"-->  
+ 
+    
+<h3>Pa fathau o gyfrifon sy'n cael eu cynnwys?</h3>
+  <div class="content">
+<ul>
+  <li>Cyfrifon archwiliedig llawn (dim ond y rhai hynny gydag adroddiad archwilwyr ariannol safonol) </li>
+  <li>Cyfrifon llawn heb eu      harchwilio</li>
+  <li>Cyfrifon cryno heb eu      harchwilio</li>
+  <li>Cyfrifon cwmnïau segur</li>
+</ul>
+<p>Bydd yr holl gyfrifon a gynhwysir wedi cael eu paratoi’n unol â safon GAAP (Generally Accepted Accounting Practice) y Deyrnas Unedig.</p>
+<p>Nodwch: nid yw fersiynau diwygiedig o’r cyfrifon hyn wedi’u cynnwys gan nad ydynt yn cael eu cyflwyno’n electronig</p>
+
+   </div><!--End of div class="content"-->  
+   
+<h3>Pa fathau o ffeiliau a ddefnyddir yn y cynnyrch data?</h3>
+  <div class="content">
+<p>Bydd tua 97% o’r ffeiliau data unigol ar fformat iXBRL (inline eXtensible Business Reporting Language) (ffeil HTML).&nbsp; Bydd y 3% arall ar fformat XBRL (ffeil XML).</p>
+<p>  Bydd gan y ffeil ZIP ddyddiol (.zip) faint ffeil gywasgedig gyfartalog o oddeutu 30Mb, ac oddeutu 500Mb fydd maint cyfartalog y ffeil fisol. Fel arfer bydd maint y ffeil heb ei chywasgu ryw 10 gwaith yn fwy.</p>
+<p>Bydd meintiau’r ffeiliau’n amrywio drwy gydol y mis ac yn tueddu i gynyddu tua diwedd y mis, gan gynyddu’n sylweddol yn ystod cyfnodau brig ffeilio cyfrifon ar ddiwedd mis Medi a mis Rhagfyr.</p>
+   </div><!--End of div class="content"-->  
+   
+   <h3>Pa fath o ddilysu a weithredir gyda'r data cyfrifon?</h3>
+  <div class="content">
+<p>Mae dilysu'n amrywio rhwng fformat XBRL a fformat iXBRL, ac yn ôl a ffeiliwyd y cyfrifon gan ddefnyddio gwasanaeth WebFiling Tŷ'r Cwmnïau neu drwy feddalwedd trydydd parti.</p>
+<p>  Mae cyfrifon a gyflwynir gan ddefnyddio gwasanaeth WebFiling Tŷ'r Cwmnïau'n cael eu dilysu wrth i'r data gael eu mewnbynnu er mwyn sicrhau bod y ffigurau'n mantoli.&nbsp; </p>
+<p>  Bydd Tŷ'r Cwmnïau'n dilysu dogfennau a gyflwynir er mwyn sicrhau y rhoddir gwybodaeth graidd (e.e. dyddiad y Fantolen, Dyddiad Cymeradwyo, Dechrau'r cyfnod hysbysu ac ati).</p>
+<p>  Bydd yr holl ddogfennau a gyflwynir yn cyfeirio at dacsonomïau penodol, sy'n diffinio dilysiad  generig i gael ei gymhwyso i elfennau'r data (e.e. ariannol, rhifol, Boolean ac ati). Mae dogfennau a gyflwynir ar fformat iXBRL yn cyfeirio ar hyn o bryd at y tacsonomi UK GAAP 2009  er enghraifft (<a href="http://www.xbrl.org/uk/gaap/core/2009-09-01/uk-gaap-full-2009-09-01.xsd">http://www.xbrl.org/uk/gaap/core/2009-09-01/uk-gaap-full-2009-09-01.xsd</a>). Bydd dogfennau a gyflwynir ar fformat XBRL yn cyfeirio at fersiynau blaenorol o'r tacsonomi.</p>
+<p>  Gellir cyfeirio at y sgemâu canlynol mewn dogfennau “instance” XBRL:</p>
+<ul>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-06-21/uk-gaap-ae-2009-06-21.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/uk-gaap-ae-2009-06-21.xsd</a> </li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd</a> </li>
+  <li><a href="/ef/xbrl/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2005-06-01/uk-gaap-ae-2005-06-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/uk-gaap-ae-2005-06-01.xsd</a> </li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/gcd/2004-12-01/uk-gcd-2004-12%20-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/gcd/2004-12-01/uk-gcd-2004-12      -01.xsd</a> </li>
+  <li><a href="/ef/xbrl/gaap/gcd/2004-12-01/uk-gcd-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/gcd/2004-12-01/uk-gcd-2004-12-01.xsd</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd</a></li>
+  <li><a href="/ef/xbrl/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd</a></li>
+  <li><a href="/ef/xbrl/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd</a></li>
+</ul>
+   </div><!--End of div class="content"-->  
+   
+<h3>Sut mae'r meysydd data'n cael eu fformadu?</h3>
+  <div class="content">
+<p>Mae fformat cyfrifon WebFiling Tŷ'r Cwmnïau yn sefydlog (wedi'i bennu gan Dŷ'r Cwmnïau) ond bydd y fformat yn amrywio gan ddibynnu pa dempled WebFiling a ddefnyddiwyd.</p>
+<p>  Ar gyfer cyfrifon a ffeiliwyd trwy feddalwedd trydydd parti, mae fformat dogfennau a gyflwynir ar fformat iXBRL yn cael ei ddiffinio gan y cyflwynydd (yn y ffeil HTML), tra bydd XBRL yn cydymffurfio â fformat sefydlog a bennir gan ddalennau arddull.</p>
+<p>  Gellir cyfeirio at y dalennau arddull canlynol mewn dogfennau “instance” XBRL:</p>
+<ul>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-adobe-stylesheet.xsl</a> </li>
+</ul>
+   </div><!--End of div class="content"-->  
+   
+<h3>Pa safon cyfrifyddu mae'r cyfrifon yn cael eu paratoi'n unol â hi?</h3>
+  <div class="content">
+<p>Ar hyn o bryd, dim ond cyfrifon sy’n cael eu paratoi’n unol â safon UK GAAP (Generally Accepted Accounting Practice) y gellir eu cyflwyno i Dŷ’r Cwmnïau’n electronig. Nid yw cyfrifon sy’n cael eu paratoi’n unol â safon IFRS (International Financial Reporting Standards) yn cael eu cynnwys ar hyn o bryd.</p>
+   </div><!--End of div class="content"-->  
+   
+<h3>Ydi'r holl wybodaeth a roddir yn y cyfrifon wedi'i thagio?</h3>
+  <div class="content">
+<p>Nac ydi. Ni fydd cyfrifon yn cynnwys ond elfennau wedi'u tagio sy'n berthnasol i'r wybodaeth a gyflwynir. Cyfrifoldeb y ffeiliwr meddalwedd yw tagio i'r lefel manylder sy'n briodol yn ei dyb ef. Fodd bynnag, canfu dadansoddiad o sampl fod mwy na 90% o'r data a gyflwynwyd wedi'u tagio'n briodol.</p>
+   </div><!--End of div class="content"-->  
+   
+<h3>Ydi Tŷ'r Cwmnïau'n newid data cyn iddynt fod ar gael?</h3>
+  <div class="content">
+<p>Ydi, er mwyn cynnal diogelwch y cyflwynydd data, mae nifer fach o elfennau'n cael eu newid.</p>
+<p>  Ar gyfer dogfennau a gyflwynir ar fformat iXBRL, mae cynnwys yr elfennau ‘NameAuthor' a ‘DescriptionOrTitleAuthor' yn cael ei dynnu allan h.y. rhoddir nwl yn lle'r cynnwys.</p>
+<p>  Ar gyfer dogfennau a gyflwynir ar fformat XBRL, mae cynnwys yr elfen ‘CompaniesHouseDocumentAuthentication' yn cael ei dynnu allan, h.y. rhoddir gofodau yn ei le. </p>
+   </div><!--End of div class="content"-->  
+   
+ <h3>Ydi cyfrifon diwygiedig neu ddiwygio wedi’u cynnwys yn y cynnyrch data? </h3>
+ <div class="content">
+ <p>Nac ydynt. Rhaid i’r holl gyfrifon diwygiedig gael eu cyflwyno ar bapur ac nid ydynt wedi’u cynnwys ar hyn o bryd yn y cynnyrch data cyfrifon, sy’n cynnwys cyfrifon a ffeiliwyd yn electronig yn unig.</p>
+
+<p>Er mwyn bod yn sicr bod gennych y data cyfrifon diweddaraf am gwmni, gwiriwch hanes ffeilio’r cwmni gan ddefnyddio ein gwasanaeth <a href="/toolsToHelp/WCInfo.shtml">WebCheck.</a> </p>
+
+
+</div><!--End of div class="content"--> 
+
+
+   </div><!--End of div id="accordion"--> 
+   <a href="http://download.companieshouse.gov.uk/en_monthlyaccountsdata.html" class="arrowButton">Rhagor o wybodaeth am Gynnyrch Data Cyfrifon Am Ddim </a>
+<!-- Content-End -->    </td>
+</tr>
+</table>
+<!--#include virtual="/welsh/inc/footer2012_W.html" -->
+
+<script src="/js/jquery.collapse.js" type="text/javascript"></script>
+<script src="/js/jquery.collapse.CH_W.js" type="text/javascript"></script>    
+<!--#include virtual="/welsh/inc/statsTracker_W.html" -->
+<!--#include virtual="/welsh/inc/cookieInfo_W.html" -->
+</body>
+</html>

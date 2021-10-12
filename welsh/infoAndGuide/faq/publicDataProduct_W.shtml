@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="cy">
+<head>
+<title>Cwestiynau Cyffredin am Gynnyrch Data Cwmni </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="CH-Title" content="Cwestiynau Cyffredin am Gynnyrch Data Cwmni ">
+<meta name="CH-Creator" content="Companies House Product Development">
+<meta name="CH-Contributor" content=""> 
+<meta name="CH-Identifier" content="Free Public Data Product FAQs">
+<meta name="CH-Publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="CH-Subject" content="Free Public Data Product, Public Data Group">
+<meta name="CH-Description" content=" Free Public Data Product FAQs">
+
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="08/06/2012">
+<meta name="date-html-modified" content="08/10/2013">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="FAQ's">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="http://www.companieshouse.gov.uk/infoAndGuide/faq/URA.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+<style type="text/css">
+#FAQmenu {display:none;}
+#FAQmenuMain {font-weight:bold;}
+</style>
+
+</head>
+
+<body>
+<!--#include virtual="/welsh/inc/header2012_W.html" -->
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td colspan="3" align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="180" height="1" border="0" alt=""></td>
+<td align="left" valign="top"><img src="/images/spacer.gif" width="25" height="1" alt="" border="0"></td>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#include virtual="/welsh/inc/faqmenu_W.html" -->
+<br></td>
+<td align="left" valign="top" class="navDeviderImage"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+<td align="left" valign="top" class="bluemidtext"> 
+    <!-- Content-Start title="Cwestiynau Cyffredin am Gynnyrch Data Cwmni " -->
+
+<h2>Cwestiynau Cyffredin am Gynnyrch Data Cwmni </h2>
+    <p><strong>Pam mae Tŷ’r Cwmnïau wedi datblygu cynnyrch di-dâl?</strong></p>
+    <ul>
+      <li>Mae Tŷ’r Cwmnïau bellach yn rhan o’r Grŵp Data Cyhoeddus (gyda’r Swyddfa      Dywydd, yr Arolwg Ordnans a’r Gofrestrfa Tir). Cafodd y grŵp ei sefydlu i gynyddu,      cymaint ag sy’n bosibl, werth y data a gedwir gan y sefydliadau sy’n aelodau      ohono, i’r budd economaidd a chymdeithasol hirdymor. Mae hyn yn cynnwys sicrhau      bod amrywiaeth o setiau data craidd ar gael yn ddi-dâl. </li>
+      <li>Mae’r nodau hyn yn cyd-fynd yn dda gyda strategaeth bresennol Tŷ’r Cwmnïau, sef sicrhau bod mwy o wybodaeth ar gael am ddim lle bo’n bosibl. </li>
+      <li>Mae’r cynnyrch hwn yn cyflawni’r amcanion hynny, gan sicrhau bod gwybodaeth graidd am gwmnïau ar gael yn ddi-dâl. </li>
+    </ul>
+    <p><strong>Pa wybodaeth fydd wedi’i chynnwys yn y cynnyrch?</strong></p>
+    <ul>
+      <li>Bydd y wybodaeth a fydd ar gael yn cynnwys; rhif y cwmni, ei gyfeiriad,      statws, dyddiad corffori, dyddiadau cyfrifon a ffeilio ffurflenni      blynyddol, cod SIC, Dynodwyr Adnoddau Unigryw (URI) a gwybodaeth sylfaenol      am arwystlon morgais.  </li>
+      <li>Bydd dolen ar y sgrin o’r enw ‘PDF’ yn dangos disgrifiad o’r data yn y      ffeiliau</li>
+    </ul>
+      
+    <p><strong>Defnyddio rhaglen Microsoft Excel 2003 a’i chyfyngiadau</strong></p>
+    <ul>
+      <li>Rydym      yn argymell defnyddio rhaglen Microsoft Excel 2007 neu ddiweddarach. Mae      gan Excel 2003 derfyn uchaf ar nifer y rhesi i bob taflen waith ac mae ein      ffeiliau’n cynnwys llawer mwy o resi na hynny, felly byddai’n agor taflen      waith ac ynddi ddim ond y 65,000 rhes gyntaf yn y ffeil ac yn dangos neges      gwall 'File not loaded completely'.</li>
+      <li>Mae yna ffyrdd      osgoi ar gyfer hyn, sy’n golygu defnyddio macro Visual Basic&nbsp;ond      efallai y bydd yn haws i chi rannu’r ffeil eich hun yn gyfres o ffeiliau      llai (pob un yn 65,000 o resi neu lai) fel y gall Excel 2003 eu hagor yn      hawdd ac mae yna holltwyr CSV sy’n gwneud hyn ar gael yn rhwydd ar y      rhyngrwyd. </li>
+      <li>Neu      gallech fewnforio’r ffeil i MS Access 2003 (neu ddiweddarach) os yw hynny      ar gael i chi, gan fod gan honno derfyn rhesi uwch. </li>
+    </ul>
+    <p>
+        <strong>Maint ffeiliau </strong> </p>
+    <ul>
+      <li>Dangosir maint y      ffeiliau fel rhan o enwau’r ffeiliau ar y sgrin.</li>
+    </ul>
+    <p>
+        <strong>Ym mha drefn ddylwn i lawrlwytho’r ffeiliau?</strong> </p>
+    <ul>
+      <li>Mae’r data yn y      ffeiliau yn nhrefn y wyddor wedi’i seilio ar Enw’r Cwmni ond gellir ei      lawrlwytho mewn unrhyw drefn </li>
+    </ul>
+    <p> <strong>Amser i lawrlwytho?</strong> </p>
+    <ul>
+      <li>Cyflymder      cyfartalog band eang yn y Deyrnas Unedig yw 7.6Mbps (ffynhonnell: Ofcom, Tachwedd      2011), felly gall pob ffeil gymryd hyd at nifer o funudau i lawrlwytho </li>
+    </ul>
+
+    <p><strong>Pam mae’r lawrlwythiad ar fformat CSV?</strong> </p>
+    <ul>
+
+      <li>Er mwyn cadw pethau mor syml ag sy’n bosibl a sicrhau’r cytunedd ehangaf posibl, rydym wedi darparu’r ffeil ar fformat CSV (comma separated value) y mae meddalwedd sydd ar gael yn gyffredin (fel MS Excel) yn gallu ei fewnforio’n awtomatig. Mae hefyd modd i bobl ei ddarllen. </li>
+    </ul>
+<p> <a href="http://download.companieshouse.gov.uk/cy_output.html" class="arrowButton">Cynnyrch Data Cwmni Am Ddim</a></p>
+      <!-- Content-End -->  </td>
+</tr>
+</table>
+<!--#include virtual="/welsh/inc/footer2012_W.html" -->
+<!--#include virtual="/welsh/inc/statsTracker_W.html" -->
+<!--#include virtual="/welsh/inc/cookieInfo_W.html" --></body>
+</html>
