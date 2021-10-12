@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>Free Accounts Data Product FAQs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Accounts Bulk Data Product FAQs">
+<meta name="creator" content="">
+<meta name="identifier" content="">
+<meta name="publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="27/09/2013">
+<meta name="date-html-created" content="">
+<meta name="date-html-modified" content="11/12/2013">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="FAQ's">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+
+<style type="text/css">
+#FAQmenu {display:none;}
+#FAQmenuMain {font-weight:bold;}
+</style>
+
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012noTabs.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top" class="bluemidtext">
+
+  <!-- Content-Start title="Free Accounts Data Product FAQs" -->
+<h2>Free Accounts Data Product FAQs</h2>
+ 
+<a class="accordion-expand-all hidden" href="#">Show all</a>
+
+<div id="accordion">
+
+<h3>Why has Companies House developed a free product?</h3>
+<div class="content">
+<p>With the majority of accounts now filed electronically, Companies House has decided to make this information available in data format. For the first time, users will have the opportunity to manipulate accounts data to meet their own needs.</p>
+<p>The Free Accounts Data Product was developed with funding from the <a href="https://www.gov.uk/government/policy-advisory-groups/public-sector-transparency-board">Public Sector Transparency Board</a>.</p>
+<p>As a member of the <a href="https://www.gov.uk/government/groups/public-data-group">Public Data Group (PDG)</a>, Companies House is committed to its open data agenda and aims to make its information more easily accessible, and maximise the information that is made freely available.</p>
+</div><!--End of div class="content"--> 
+
+<h3>What accounts types are included?</h3>
+<div class="content">
+  <ul>
+    <li>Full audited accounts (only those with a standard auditors report)</li>
+    <li>Full unaudited accounts </li>
+    <li>Abbreviated unaudited accounts</li>
+    <li>Dormant company accounts</li>
+  </ul>
+  <p>All the accounts included will have been prepared to UK GAAP (Generally Accepted Accounting Practice) standard.</p>
+ <p> Note: revised versions of these accounts are not included as these are not submitted electronically</p>
+</div><!--End of div class="content"-->  
+
+<h3>What file types are used within the data product?</h3>
+<div class="content">
+<p>Approximately 97% of the individual data files will be in iXBRL (inline eXtensible Business Reporting Language) format (HTML file). The remaining 3% will be in XBRL format (XML file).</p>
+<p>The daily ZIP file (.zip) will have an average compressed file size of around 30Mb, while the monthly file will average around 500Mb.  The uncompressed file size will usually be about 10 times greater.</p>
+<p>File sizes will vary throughout the month and tend to increase towards the end of the month, with substantial increases during the peak filing periods at the end of September and December.</p>
+</div><!--End of div class="content"-->  
+
+<h3>What type of validation is applied to the accounts data?</h3>
+<div class="content">
+<p>Validation differs between XBRL and iXBRL formats, and whether accounts were filed using the Companies House WebFiling service or via third-party software.</p>
+<p>Accounts submissions using the Companies House WebFiling service are validated at the point of data entry to ensure the figures balance.  </p>
+<p>Companies House will validate submissions to ensure core information is provided (e.g. Balance Sheet date, Date of Approval, Start of reporting period etc.).</p>
+<p>All submissions will refer to specific taxonomies, which define generic validation to be applied to data elements (e.g. monetary, numeric, Boolean etc.). iXBRL submissions currently refer to the UK GAAP (Generally Accepted Accounting Practice) 2009 taxonomy, for example (<a href="http://www.xbrl.org/uk/gaap/core/2009-09-01/uk-gaap-full-2009-09-01.xsd">http://www.xbrl.org/uk/gaap/core/2009-09-01/uk-gaap-full-2009-09-01.xsd</a>). XBRL submissions will refer to previous versions of the taxonomy.</p>
+<p>The following schemas may be referenced in XBRL instance documents:</p>
+<ul>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/uk-gaap-ae-2009-06-21.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/uk-gaap-ae-2009-06-21.xsd</a> </li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd</a> </li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/uk-gaap-ae-2008-04-06.xsd</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/uk-gaap-ae-2005-06-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/uk-gaap-ae-2005-06-01.xsd</a> </li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/gcd/2004-12-01/uk-gcd-2004-12%20-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/gcd/2004-12-01/uk-gcd-2004-12 -01.xsd</a> </li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/gcd/2004-12-01/uk-gcd-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/gcd/2004-12-01/uk-gcd-2004-12-01.xsd</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/pt/2004-12-01/uk-gaap-pt-2004-12-01.xsd</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ci/2004-12-01/uk-gaap-ci-2004-12-01.xsd</a></li>
+</ul>
+</div><!--End of div class="content"-->  
+
+
+<h3>How are the data fields formatted?</h3>
+<div class="content">
+<p>The format of Companies House WebFiling accounts is fixed (determined by Companies House), but the format will differ depending on which WebFiling template was used.</p>
+<p>For accounts filed via third-party software, the format of iXBRL submissions are defined by the presenter (in the HTML file), while XBRL will conform to a fixed format determined by style sheets</p>
+<p>The following style sheets may be referenced in XBRL instance documents:</p>
+<ul>
+  <li><a href="/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-10-01/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2009-06-21/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/uk/fr/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2008-04-06/stylesheet/CH-AE-adobe-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-dormant-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-dormant-stylesheet.xsl</a></li>
+  <li><a href="http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-adobe-stylesheet.xsl">http://www.companieshouse.gov.uk/ef/xbrl/gaap/ae/2005-06-01/stylesheet/CH-AE-adobe-stylesheet.xsl</a> </li>
+</ul>
+</div><!--End of div class="content"-->  
+
+<h3>What accounting standard are the accounts prepared to?</h3>
+<div class="content">
+<p>At present, only accounts prepared to UK GAAP (Generally Accepted Accounting Practice) standard can be submitted to Companies House electronically. Accounts prepared to IFRS (International Financial Reporting Standards) standard are not currently included.</p>
+</div><!--End of div class="content"-->  
+
+
+<h3>Is all the information provided in the accounts tagged?</h3>
+<div class="content">
+<p>No, accounts will only contain tagged elements relevant to the information submitted. It is the responsibility of the software filer to tag to the level of detail that they feel is appropriate. However, a sample analysis identified that over 90% of the data submitted was indeed tagged appropriately.</p>
+</div><!--End of div class="content"-->  
+
+<h3>Does Companies House alter the data before it is made available?</h3>
+<div class="content">
+<p>Yes, to preserve the security of the data presenter, a small number of elements are altered.</p>
+<p>For iXBRL (inline eXtensible Business Reporting Language) submissions, the content of the ‘NameAuthor’ and ‘DescriptionOrTitleAuthor’ elements are removed i.e. content replaced with null.</p>
+<p>For XBRL submissions the content of the 'CompaniesHouseDocumentAuthentication’ element is removed, i.e. replaced with spaces.</p>
+</div><!--End of div class="content"--> 
+
+<h3>Are revised or amending accounts included in the data product?</h3>
+<div class="content"> 
+<p>No.  All revised accounts must be submitted in paper format and are not currently included in the accounts data product, which only includes accounts filed electronically.  </p>
+
+<p>To be certain that you have the latest accounts data for a company, please check the company’s filing history using our <a href="http://wck2.companieshouse.gov.uk/">WebCheck</a> service.</p>
+</div>
+</div><!--End of div class="content"--> 
+</div><!--End of div id="accordion"-->
+<a href="http://download.companieshouse.gov.uk/en_monthlyaccountsdata.html" class="arrowButton">More information about Free Accounts Data Product</a>
+<!-- Content-End --></td>
+</tr>
+</table>
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+<script src="/js/jquery.collapse.js" type="text/javascript"></script>
+<script src="/js/jquery.collapse.CH.js" type="text/javascript"></script>
+</body>
+</html>

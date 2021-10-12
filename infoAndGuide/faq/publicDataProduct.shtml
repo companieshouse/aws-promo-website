@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML lang="en">
+<head>
+<title>Company Data Product FAQs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="CH-Title" content="Company Data Product FAQs">
+<meta name="CH-Creator" content="Companies House Product Development">
+<meta name="CH-Contributor" content=""> 
+<meta name="CH-Identifier" content="Free Public Data Product FAQs">
+<meta name="CH-Publisher" content="Companies House, Executive Agency, Crown Way, Cardiff CF14 3UZ">
+<meta name="CH-Subject" content="Free Public Data Product, Public Data Group">
+<meta name="CH-Description" content=" Free Public Data Product FAQs">
+
+<meta name="date-source-created" content="">
+<meta name="date-source-modified" content="">
+<meta name="date-html-created" content="26/06/2012">
+<meta name="date-html-modified" content="08/10/2013">
+<meta name="status" content="">
+
+<meta name="accessibility" scheme="WCAG10" content="Double-A">
+<meta name="language" content="English, Welsh">
+<meta name="type" content="FAQ's">
+<meta name="format" content="HTML, TEXT, PDF">
+<meta name="coverage" content="">
+<meta name="source" content="">
+<meta name="disposal" content="">
+<meta name="audience" content="">
+<meta name="relation" content="http://www.companieshouse.gov.uk/welsh/infoAndGuide/faq/fullList_W.shtml">
+<meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
+
+<!--#include virtual="/inc/css.html" -->
+<!--#include virtual="/inc/css2012.html" -->
+
+
+<style type="text/css">
+#FAQmenu {display:none;}
+#FAQmenuMain {font-weight:bold;}
+</style>
+</head>
+
+<body>
+<!--#include virtual="/inc/header2012noTabs.html" -->
+<table width="960" border="0" cellpadding="0" cellspacing="0" ID="CompaniesHouse" summary="Structural table containing Companies House website layout" align="center">
+<tr>
+  <td align="left" valign="top">&nbsp;</td>
+</tr>
+
+  <tr>
+<td width="100%" align="left" valign="top"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td align="left" valign="top" class="bluemidtext">
+    <!-- Content-Start title="Company Data Product FAQs" -->
+    <h2>Company Data Product FAQs</h2>
+ 
+ 	<p><strong>Why has Companies House developed a free product? </strong></p>
+ 	<ul>
+      <li>Companies House is now part of the Public Data Group (with Met Office, Ordnance Survey and Land Registry). The group was set up to maximise the value of the data held by member organisations, for longer term social and economic benefits. This includes making a range of core data sets available free of charge. </li>
+      <li>These aims fit well with CH’s existing strategy, to make more information available for free where possible. </li> 	
+      <li>This product delivers on these objectives, making core company information available free of charge. </li>
+      </ul>
+    
+    <p><strong>What information will be included in the product?</strong></p>
+    <ul>
+      <li>The information made available will include; the company number, address, status, incorporation date, account and annual return filing dates, SIC code, URI and basic information about mortgage charges.  </li>
+      <li>A link on the      screen called ‘PDF’ will display a description of the data in the files</li>
+    </ul>
+         
+    <p><strong>Using Microsoft Excel 2003 and its limitations</strong></p>
+    <ul>
+      <li>We recommend using Microsoft Excel 2007 or later.&nbsp;Excel 2003 has a maximum limit of rows per worksheet and our files contain considerably more rows than that, so it  would open a worksheet containing just the first 65k rows of the file and display a 'File not loaded completely' error message.</li>
+      <li>There are workarounds for this, involving using a Visual Basic macro but you  may find it easier to split the file up yourself into a set of smaller files (each one of 65k rows or less) to allow Excel 2003 to open them easily and there are CSV splitters freely available that do this  on the Internet. </li>
+      <li>Or you could import the file into MS Access 2003 (or later) if that is available to you, as that has a higher row limit.</li>
+    </ul>
+    <p><strong>Size of files </strong></p>
+    <ul>
+      <li>The size of the files is shown as part of the file names on the screen. </li>
+    </ul>
+    <p><strong>What order should I download the files in?</strong></p>
+    <ul>
+      <li>The data in the files is in alphabetical order based on Company Name but can be downloaded in any order.  </li>
+    </ul>
+    <p><strong>Time to download?</strong></p>
+    <ul>
+      <li>Average UK Broadband speed is 7.6Mbps (source Ofcom, Nov 2011), so each file can take up to several minutes to download.</li>
+    </ul>
+    <p><strong>Why is the download in CSV format?</strong></p>
+    <ul>
+      <li>In order to keep things as simple as possible and ensure the widest possible compatibility, we have provided the file in      CSV (comma separated value) format which commonly available software (such as MS Excel) is able to import automatically. It is also ‘human-readable’. </li>
+      </ul>
+  <p><a href="http://download.companieshouse.gov.uk/en_output.html" class="arrowButton">Free Company Data Product</a></p>  
+    
+    <!-- Content-End -->   </td>
+</tr>
+</table>
+<!--#include virtual="/inc/statsTracker.html" -->
+<!--#include virtual="/inc/cookieInfo.html" -->
+</body>
+</html>
