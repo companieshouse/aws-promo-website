@@ -3312,13 +3312,7 @@
   }
   document.onkeypress = stopEnterKey;
 </script>
-<!--<script>
 
-Hiding this as it has been reported the server has been shut down
-
-    var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.companieshouse.gov.uk/piwik/" : "http://stats.companieshouse.gov.uk/piwik/");
-    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script>-->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
