@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class=" js no-touch" lang="">
+<html class=" js no-touch" lang="en">
   <!--<![endif]-->
 
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 
-    <title>Service information</title>
+    <title>Service information - Companies House</title>
     <!--[if gt IE 8]><!--><link href="/dashboard/companies-house_files/govuk-template.css" media="screen" rel="stylesheet" type="text/css"><!--<![endif]-->
 <!--[if IE 6]><link href="/dashboard/companies-house_files/govuk-template-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="/dashboard/companies-house_files/govuk-template-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
@@ -51,7 +51,7 @@
 <link href="/dashboard/companies-house_files/ch-dashboard.css" rel="stylesheet" type="text/css" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    <link rel="stylesheet"           href="http://d3h8s956nb2b0l.cloudfront.net/stylesheets/govuk-frontend/v5.11.0/govuk-frontend-5.11.0.min.css"  />
+    <link href="http://d3h8s956nb2b0l.cloudfront.net/stylesheets/govuk-frontend/v5.11.0/govuk-frontend-5.11.0.min.css" media="all" rel="stylesheet" type="text/css">
 
 
 
@@ -95,6 +95,9 @@
 #back-to-top.show {
   opacity: 1;
 }
+strong {
+  font-weight: bold;
+}
 </style>
   </head>
   <body class="js-enabled">
@@ -123,18 +126,10 @@
  <div id="global-header-bar">
     <div class="inner-block">
         <div class="header-bar"></div>
-
     </div>
 </div>
 
-    <style type="text/css">
-      /*Hacked styles needed to make the page match the orgiginal, ie override default GOV.UK standards*/
-      strong {
-        font-weight: bold;
-      }
-    </style>
-      }
-    </style>
+ 
 
     <main id="page-container" role="main">
 
