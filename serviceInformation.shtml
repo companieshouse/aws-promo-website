@@ -57,45 +57,52 @@
 
 
 <style type="text/css">
-#logo {
-  background: left 30% / 15% 100% no-repeat url("./Service information_files/org_crest_27px.png");
-  padding-left: 60px;
+.ch-header {
+    background-color:black;
+    color: white;
 }
-#logo:focus {
-  background-image: url("./Service information_files/org_crest_27px_black.png");
-  padding-left: 60px;
-  background-color: #ffdd00 !important;
+.ch-header__logo {
+    display: inline-block;
+    font-size: 34px;
+    margin-top: 14px;
+    margin-bottom: 14px;
 }
-#logo.govuk-link:focus {
-  color: black !important;
-  background-color: #ffdd00 !important;
+.ch-header__link {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.28125em;
+    color: white !important;
+    text-decoration: none;
+    border-left: 0.0625em solid #c93c2f;
+    padding-left: 0.28125em;
+    &:focus {
+        border-left-color: #c93c2f;
+        outline: 3px solid transparent;
+        box-shadow: 0 0 0 4px #ffdd00;
+        background-color: transparent;
+        padding:5px;
+    }
 }
-#back-to-top {
-  position: fixed;
-  bottom: 50px;
-  right: 40px;
-  z-index: 9999;
-  width: 52px;
-  height: 52px;
-  text-align: center;
-  line-height: 50px;
-  background: #005EA5;
-  color: #fff;
-  cursor: pointer;
-  border: 0;
-  border-radius: 2px;
-  text-decoration: none;
-  transition: opacity 0.2s ease-out;
-  opacity: 0;
+.ch-header__logo-text {
+    z-index: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 0.6875em;
+    line-height: 1;
+    letter-spacing: -0.025em;
+    margin-bottom: -0.26em;
+    padding-bottom: 0.16em;
+    border-bottom: 0.1em solid transparent;
 }
-#back-to-top:hover {
-  background: #2e8aca;
-}
-#back-to-top.show {
-  opacity: 1;
-}
-strong {
-  font-weight: bold;
+.ch-header__icon {
+    z-index: 1;
+    fill: blue; 
+    background-image: url("/dashboard/companies-house_files/crest-white.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1em;
+    width: 1.125em;
 }
 </style>
   </head>
@@ -114,15 +121,16 @@ strong {
 
 
 <!--   Start header-->
-<header class="with-proposition" id="global-header" role="banner">
-      <div class="header-wrapper">
-        <div class="header-global">
-          <div class="header-logo">
-            <a id="logo" title="Go to the Companies House homepage" href="https://www.gov.uk/government/organisations/companies-house" class="govuk-link">Companies House</a>
-          </div>
-        </div>
-      </div>
-    </header>
+<header class="ch-header">
+  <div class="ch-header__container govuk-width-container">
+    <div class="ch-header__logo">
+      <a href="/" class="ch-header__link">
+        <div class="ch-header__icon"></div>
+        <span class="ch-header__logo-text">Companies House</span>
+      </a>
+    </div>
+  </div>
+</header>
  <!--   End header-->
 
  <div id="global-header-bar">
