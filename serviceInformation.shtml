@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8" lang=""><![endif]-->
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
 <html class=" js no-touch" lang="">
   <!--<![endif]-->
@@ -51,14 +51,57 @@
 <link href="/dashboard/companies-house_files/ch-dashboard.css" rel="stylesheet" type="text/css" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
+    <link rel="stylesheet"           href="http://d3h8s956nb2b0l.cloudfront.net/stylesheets/govuk-frontend/v5.11.0/govuk-frontend-5.11.0.min.css"  />
+
+
+
+<style type="text/css">
+#logo {
+  background-image: url("/dashboard/companies-house_files/org_crest_27px.png");
+  background-position: left 30%;
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  padding-left: 60px;
+  background-color: #ffdd00;
+  background: left 30% / 15% 100% no-repeat url("/dashboard/companies-house_files/org_crest_27px_black.png"");
+  background-color: #ffdd00 !important;
+}
+#logo.govuk-link:focus {
+  color: black !important;
+  background-color: #ffdd00 !important;
+}
+/* Consolidated #back-to-top styles */
+#back-to-top {
+  position: fixed;
+  bottom: 50px;
+  right: 40px;
+  z-index: 9999;
+  width: 52px;
+  height: 52px;
+  text-align: center;
+  line-height: 50px;
+  background: #005EA5;
+  color: #fff;
+  cursor: pointer;
+  border: 0;
+  border-radius: 2px;
+  text-decoration: none;
+  transition: opacity 0.2s ease-out;
+  opacity: 0;
+}
+#back-to-top:hover {
+  background: #2e8aca;
+}
+#back-to-top.show {
+  opacity: 1;
+}
+</style>
   </head>
   <body class="js-enabled">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
     <div id="skiplink-container">
-      <div>
-        <a href="#content" class="skiplink">Skip to main content</a>
-      </div>
+          <a href="#page-container" class="skiplink govuk-link">Skip to main content</a>
     </div>
 
 
@@ -67,8 +110,7 @@
       <div class="header-wrapper">
         <div class="header-global">
           <div class="header-logo">
-            <a class="content" id="logo" title="Go to the Companies House homepage" href="https://www.gov.uk/government/organisations/companies-house">
-              <img alt="" src="/dashboard/companies-house_files/org_crest_27px.png">Companies House</a>
+            <a id="logo" title="Go to the Companies House homepage" href="https://www.gov.uk/government/organisations/companies-house" class="govuk-link">Companies House</a>
           </div>
         </div>
 
@@ -90,32 +132,7 @@
       strong {
         font-weight: bold;
       }
-
-      #back-to-top {
-        position: fixed;
-        bottom: 50px;
-        right: 40px;
-        z-index: 9999;
-        width: 52px;
-        height: 52px;
-        text-align: center;
-        line-height: 50px;
-        background: #005EA5;
-        color: #fff;
-        cursor: pointer;
-        border: 0;
-        border-radius: 2px;
-        text-decoration: none;
-        transition: opacity 0.2s ease-out;
-        opacity: 0;
-      }
-
-      #back-to-top:hover {
-        background: #2e8aca;
-      }
-
-      #back-to-top.show {
-        opacity: 1;
+    </style>
       }
     </style>
 
@@ -148,8 +165,11 @@
         <h2 class="heading-medium">Data Protection</h2>
         <p>Companies House collects personal data from customers for a variety of reasons. For example, the registrar of companies is required by law to collect and make public certain information about officers of companies and other entities,
           including directors and People with Significant Control. Companies House also handles the personal data of customers writing in with queries or complaints, and collects personal data from those individuals signing up to use our digital
-          services. Further detail on how Companies House handles your personal data in line with the requirements of the General Data Protection Regulation (GDPR) can be found in our <a href=https://www.gov.uk/government/organisations/companies-house/about/personal-information-charter>
-            Personal information charter</a>. </p> <h2 class="heading-medium">Notes for Users of Company Search or Disqualified Directors Search </h2>
+          services. Further detail on how Companies House handles your personal data in line with the requirements of the General Data Protection Regulation (GDPR) can be found in our <a href="https://www.gov.uk/government/organisations/companies-house/about/personal-information-charter" class="govuk-link">
+            Personal information charter</a>. </p> 
+
+            
+            <h2 class="heading-medium">Notes for Users of Company Search or Disqualified Directors Search </h2>
             <p>The information available here is an extract from the Register of Companies / Register of Disqualified Directors which are updated on a regular basis. This may mean that occasional inaccuracies occur which we correct as soon as they
               are drawn to our attention. If you spot something which you think might be wrong, let us know so we can, if necessary, correct the database. </p>
 
@@ -165,11 +185,11 @@
               links will work all of the time and we have no control over the availability of linked pages.</p>
 
             <h2 class="heading-medium">Cookies</h2>
-            <p><a href="/legal/cookies.shtml">Our cookie policy</a></p>
+            <p><a href="/legal/cookies.shtml" class="govuk-link">Our cookie policy</a></p>
 
             <h2 class="heading-medium">Information collected on behalf of HMRC</h2>
             <p>Companies House through the Joint Registration Service will act as agents for HMRC and provide an optional service whereby when a person registers a new company, a facility will be offered so that person can also register the company
-              for Corporation Tax.  Once incorporation at Companies House has been accepted the Corporation Tax information will be sent to HMRC and will not be retained by Companies House.</p>
+              for Corporation Tax.  Once incorporation at Companies House has been accepted the Corporation Tax information will be sent to HMRC and will not be retained by Companies House.</p>
 
             <h2 class="heading-medium">Acceptable use of Companies House Searchable Databases</h2>
             <p>The Companies House searchable databases are designed to meet the needs of a wide range of users wishing to interrogate our information on-line. </p>
@@ -184,14 +204,14 @@
 
               <li>In this guidance, <strong>Companies House</strong> means the registrar of companies for England and Wales; the registrar of companies for Scotland and/or the registrar of companies for Northern Ireland as the circumstances require;
                 the <strong>Companies House Service (the Service)</strong> means the on-line facility provided by Companies House through its website for the purposes of delivering, accessing and obtaining information in electronic form; and a
-                <strong>Presenter </strong>means a person who is authorised to and wishes to deliver a document for filing at Companies House.</li>
+                <strong>Presenter</strong> means a person who is authorised to and wishes to deliver a document for filing at Companies House.</li>
               <li>A Presenter who wants to use the Service must create sign in details by providing a valid email address and password. They'll be sent a verification email to the email address provided that contains a link. The Presenter must select the link to verify their email address and finish registering for the Service.</li>
               <li>The Presenter can amend his registered email address and/or password by completing the process described on the Service. There is no means to delete the registered email address or password.</li>
               <li>Companies House will retain and use the Service registration data provided by the Presenter to provide that service.</li>
-              <li>Any document delivered for filing must be accompanied by the appropriate authentication or presenter code for that document (see the Companies House website or the Registrar's e-Rules for more details).   Presenters can apply for
-                authentication codes using the Service.  The code will be sent by post to the registered office or principal business address of the company or body to which it relates.</li>
-              <li>At present, the Service can only be used to deliver a limited class of filings to Companies House.  Documents that are properly delivered using the Service will be registered on the public register in accordance with Companies
-                House's usual document acceptance policies.  Current information about the classes of filings that can be delivered using the Service is available on <a href="https://beta.companieshouse.gov.uk/help/welcome">https://beta.companieshouse.gov.uk/help/welcome</a>.</li>
+              <li>Any document delivered for filing must be accompanied by the appropriate authentication or presenter code for that document (see the Companies House website or the Registrar's e-Rules for more details).   Presenters can apply for
+                authentication codes using the Service.  The code will be sent by post to the registered office or principal business address of the company or body to which it relates.</li>
+              <li>At present, the Service can only be used to deliver a limited class of filings to Companies House.  Documents that are properly delivered using the Service will be registered on the public register in accordance with Companies
+                House's usual document acceptance policies.  Current information about the classes of filings that can be delivered using the Service is available on <a href="https://find-and-update.company-information.service.gov.uk/"  class="govuk-link">https://find-and-update.company-information.service.gov.uk/</a>.</li>
               <li>The Service may also be used to search and/or take copies of material on the register including the following information:
                 <ul class="list list-bullet">
                   <li>Registered name of registered entities including companies and limited liability partnerships and those dissolved in the 12 months preceding a search. UK establishments of overseas companies are not currently included.</li>
@@ -202,7 +222,7 @@
                   <li>Officers - all current and resigned officers. </li>
                   <li>Charges - charge details are displayed for all outstanding and part-satisfied charges satisfied since 1st January 1987. For entities registered in Northern Ireland before 1st October 2009 refer to the filing history for charge
                     information before that date.</li>
-                  <li>Insolvency information – number of insolvency cases, type of insolvency regime, petition date, winding up date, insolvency practitioner name and address and, where applicable, links to charge information.</li>
+                  <li>Insolvency information - number of insolvency cases, type of insolvency regime, petition date, winding up date, insolvency practitioner name and address and, where applicable, links to charge information.</li>
                 </ul>
               </li>
             </ol>
@@ -216,8 +236,7 @@
             <p>By making these reports available for inspection by members of the public, the registrar of companies enables the Service to contribute to transparency.</p>
 
 
-            <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
-
+    <a href="/"  class="show govuk-link" id="back-to-top" title="Back to top">Back to top</a>
       </div>
       <!--text"-->
     </main><!-- / #page-container -->
@@ -227,9 +246,9 @@
         <div class="footer-meta" style="padding:0;">
           <div class="footer-meta-inner">
             <ul>
-              <li><a href="/legal/termsAndConditions.shtml">Policies</a></li>
-              <li><a href="/legal/cookies.shtml">Cookies</a></li>
-              <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts">Contact us</a></li>
+              <li><a href="/legal/termsAndConditions.shtml" class="govuk-link">Policies</a></li>
+              <li><a href="/legal/cookies.shtml" class="govuk-link">Cookies</a></li>
+              <li><a href="https://www.gov.uk/government/organisations/companies-house.html#org-contacts" class="govuk-link">Contact us</a></li>
             </ul>
           </div>
         </div>
