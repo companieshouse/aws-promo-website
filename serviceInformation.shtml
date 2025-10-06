@@ -97,12 +97,16 @@
 }
 .ch-header__icon {
     z-index: 1;
-    fill: blue; 
     background-image: url("/dashboard/companies-house_files/crest-white.svg");
     background-repeat: no-repeat;
     background-size: 100%;
     height: 1em;
     width: 1.125em;
+}
+.skiplink {
+    display: block !important;
+    text-align: left !important;
+    padding-left: 1em !important;
 }
 </style>
   </head>
