@@ -76,14 +76,22 @@
     text-decoration: none;
     border-left: 0.0625em solid #c93c2f;
     padding-left: 0.28125em;
-    &:focus {
-        border-left-color: #c93c2f;
-        outline: 3px solid transparent;
-        box-shadow: 0 0 0 4px #ffdd00;
-        background-color: transparent;
-        padding:5px;
+    &:focus,
+  &:focus-within,
+  &:focus-visible,
+  &:hover {
+    border-left-color: #c93c2f;
+    outline: 3px solid transparent;
+    box-shadow: 0 0 0 4px #ffdd00;
+    background-color: #ffdd00;
+    color: black !important;
+    .ch-header__icon {
+      background-image: url("/dashboard/companies-house_files/crest.svg");
+      /* optional improvements */
+      background-repeat: no-repeat;
+      background-size: contain;
     }
-}
+  }
 .ch-header__logo-text {
     z-index: 1;
     -webkit-font-smoothing: antialiased;
