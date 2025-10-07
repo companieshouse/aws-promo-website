@@ -115,6 +115,7 @@
     display: block !important;
     text-align: left !important;
     padding-left: 1em !important;
+    margin: 0 !important;
 }
 </style>
   </head>
