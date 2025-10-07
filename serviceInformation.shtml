@@ -128,9 +128,7 @@
   <body class="js-enabled">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
-    <div id="skiplink-container">
-          <a href="#page-container" class="govuk-link skiplink">Skip to main content</a>
-    </div>
+  <a href="#page-container" class="govuk-skip-link govuk-!-font-size-24" data-module="govuk-skip-link">Skip to main content</a>
 
 
 <!--   Start header-->
